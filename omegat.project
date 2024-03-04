@@ -27,9 +27,6 @@
             <repository type="git" url="https://github.com/tsielknovnomis/pl_LOK_2024L.git">
                 <mapping local="/" repository="/"/>
             </repository>
-            <repository type="git" url="https://github.com/OmegaT-L10N/doc_src.git">
-                <mapping local="source/doc_src/" repository="en"/>
-            </repository>
             <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
                 <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
             </repository>
