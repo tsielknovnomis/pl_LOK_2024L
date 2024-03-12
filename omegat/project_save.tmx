@@ -670,6 +670,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20240312T082232Z" creationid="SvK" creationdate="20240312T082232Z">
+        <seg>-h, --help
+	  Pomoc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
