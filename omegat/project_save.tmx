@@ -2391,14 +2391,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>OmegaT options:</seg>
-      </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240312T081640Z" creationid="fw" creationdate="20240312T081640Z">
-        <seg>OmegaT opcje</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2867,14 +2859,6 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Szukaj w</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240312T080659Z" creationid="SvK" creationdate="20240312T080650Z">
-        <seg>Zobacz instrukcje w podręczniku użytkownika &gt; Podręcznik użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
