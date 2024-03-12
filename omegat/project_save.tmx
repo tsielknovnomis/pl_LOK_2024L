@@ -3665,6 +3665,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20240312T082751Z" creationid="SvK" creationdate="20240312T082751Z">
+        <seg>team init &lt;język źródłowy&gt; &lt;język docelowy&gt;
+	  Zarządzanie projektem zespołowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} +{1} more</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
