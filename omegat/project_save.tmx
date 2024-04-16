@@ -1792,6 +1792,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20240416T065912Z" creationid="SvK" creationdate="20240416T065912Z">
+        <seg>Podświetl &amp;przetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>History</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230303T093609Z" creationid="d55" creationdate="20230303T093609Z">
