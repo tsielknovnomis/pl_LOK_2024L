@@ -3615,6 +3615,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20240423T063148Z" creationid="SvK" creationdate="20240423T063148Z">
+        <seg>Ten panel służy do wyświetlania, dodawania, usuwania lub edycji notatek dla aktywnego segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
