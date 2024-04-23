@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20240423T062429Z" creationid="SvK" creationdate="20240423T062429Z">
+        <seg>Wyczyść listę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
