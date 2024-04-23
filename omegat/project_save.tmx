@@ -1870,6 +1870,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T072338Z" creationid="KJ" creationdate="20240423T072338Z">
+        <seg>Podświetl przetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T072351Z" creationid="KJ" creationdate="20240423T072351Z">
+        <seg>Podświetl nieprzetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Repeated Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T072443Z" creationid="KJ" creationdate="20240423T072443Z">
+        <seg>Podświetl powtarzające się segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T072457Z" creationid="KJ" creationdate="20240423T072457Z">
+        <seg>Podświetl segmenty zawierające notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>History</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230303T093609Z" creationid="d55" creationdate="20230303T093609Z">
