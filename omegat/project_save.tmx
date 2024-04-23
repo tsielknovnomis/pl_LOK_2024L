@@ -86,14 +86,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&amp;Back in History</seg>
-      </tuv>
-      <tuv lang="pl" changeid="d55" changedate="20230414T085648Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wste&amp;cz w historii</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&amp;Bookmarks</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2587,6 +2579,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Polski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T064206Z" creationid="KJ" creationdate="20240423T064206Z">
+        <seg>Poprzednia notatka</seg>
       </tuv>
     </tu>
     <tu>
