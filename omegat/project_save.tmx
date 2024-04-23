@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T071933Z" creationid="KJ" creationdate="20240423T071933Z">
+        <seg>Edytor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T211908Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2375,6 +2383,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T071928Z" creationid="KJ" creationdate="20240423T071928Z">
+        <seg>Notatnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T095110Z" creationid="d55" creationdate="20230310T095110Z">
@@ -2563,6 +2579,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Segmenty osierocone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T071918Z" creationid="KJ" creationdate="20240423T071918Z">
+        <seg>Poprzedni segment z folderu tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
