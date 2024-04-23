@@ -2647,6 +2647,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240423T063930Z" creationid="fw" creationdate="20240423T063930Z">
+        <seg>załaduj ponownie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re&amp;place All</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
