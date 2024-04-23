@@ -758,6 +758,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20240423T063851Z" creationid="SvK" creationdate="20240423T063851Z">
+        <seg>Dodaj stronę MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20240423T064014Z" creationid="SvK" creationdate="20240423T064014Z">
+        <seg>Dodaj stronę MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
