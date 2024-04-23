@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T071325Z" creationid="KJ" creationdate="20240423T071325Z">
+        <seg>Następny segment z tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -842,6 +850,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Autouzupełnianie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T071235Z" creationid="KJ" creationdate="20240423T071235Z">
+        <seg>Segmenty uzupełnione automatycznie</seg>
       </tuv>
     </tu>
     <tu>
