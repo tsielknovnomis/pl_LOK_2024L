@@ -2023,6 +2023,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20240423T073227Z" creationid="SvK" creationdate="20240423T073227Z">
+        <seg>Jest przechowywana w pliku TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
