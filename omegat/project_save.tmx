@@ -1758,6 +1758,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T063456Z" creationid="KJ" creationdate="20240423T063456Z">
+        <seg>Przejdź do segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment Source</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T063512Z" creationid="KJ" creationdate="20240423T063512Z">
+        <seg>Przejdź do segmentu źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
