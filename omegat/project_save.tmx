@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T071342Z" creationid="KJ" creationdate="20240423T071342Z">
+        <seg>Poprzedni segment z tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="pl">
@@ -2259,6 +2267,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Tłumaczenia wielokrotne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T071830Z" creationid="KJ" creationdate="20240423T071830Z">
+        <seg>Następny segment z folderu tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
