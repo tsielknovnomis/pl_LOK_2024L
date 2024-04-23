@@ -384,8 +384,8 @@
       <tuv lang="en">
         <seg>&amp;Next Segment from tm/auto/</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T071325Z" creationid="KJ" creationdate="20240423T071325Z">
-        <seg>Następny segment z tm/auto/</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T071844Z" creationid="KJ" creationdate="20240423T071325Z">
+        <seg>Następny segment z folderu tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +448,8 @@
       <tuv lang="en">
         <seg>&amp;Previous Segment from tm/auto/</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T071342Z" creationid="KJ" creationdate="20240423T071342Z">
-        <seg>Poprzedni segment z tm/auto/</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240423T071852Z" creationid="KJ" creationdate="20240423T071342Z">
+        <seg>Poprzedni segment z folderu tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
