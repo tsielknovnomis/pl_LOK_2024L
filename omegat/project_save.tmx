@@ -2415,6 +2415,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20240423T061855Z" creationid="SvK" creationdate="20240423T061855Z">
+        <seg>Ostatnie projekty...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230303T093055Z" creationid="d55" creationdate="20230303T093055Z">
