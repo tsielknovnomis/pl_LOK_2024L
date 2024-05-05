@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T144317Z" creationid="mmstaw" creationdate="20240505T144317Z">
+        <seg>&amp;Powtórz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>&amp;Przetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T123749Z" creationid="mmstaw" creationdate="20240505T123749Z">
+        <seg>&amp;Cofnij</seg>
       </tuv>
     </tu>
     <tu>
@@ -952,8 +968,8 @@
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Folder glosariusza niedostępny!</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T123313Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>eFolder glosariusza niedostępny!</seg>
       </tuv>
     </tu>
     <tu>
