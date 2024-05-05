@@ -1953,8 +1953,8 @@
       <tuv lang="en">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wstaw &amp;tekst źródłowy</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T150311Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>W&amp;staw tekst źródłowy</seg>
       </tuv>
     </tu>
     <tu>
