@@ -2959,6 +2959,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T202959Z" creationid="mmstaw" creationdate="20240505T202959Z">
+        <seg>Usuń tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3316,6 +3324,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wybrany silnik: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T203211Z" creationid="mmstaw" creationdate="20240505T203211Z">
+        <seg>Oznacz tłumaczenie jako puste</seg>
       </tuv>
     </tu>
     <tu>
