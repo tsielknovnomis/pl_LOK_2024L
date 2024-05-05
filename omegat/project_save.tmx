@@ -624,8 +624,8 @@
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="pl" changeid="akossek" changedate="20230414T081837Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Dużą &amp;Pierwszą Literę</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153920Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Jak Nazwy Własne</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +642,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>&amp;Przetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153529Z" creationid="mmstaw" creationdate="20240505T153529Z">
+        <seg>&amp;DUŻE LITERY</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +682,14 @@
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230303T093503Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>&amp;Widok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153410Z" creationid="mmstaw" creationdate="20240505T153410Z">
+        <seg>&amp;małe litery</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +992,8 @@
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T123313Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>eFolder glosariusza niedostępny!</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153337Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder glosariusza niedostępny!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3017,8 +3033,8 @@
       <tuv lang="en">
         <seg>S&amp;witch Case to</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153139Z" creationid="mmstaw" creationdate="20240505T152639Z">
-        <seg>Z&amp;mie
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153403Z" creationid="mmstaw" creationdate="20240505T152639Z">
+        <seg>Z&amp;mień wielkość liter
 </seg>
       </tuv>
     </tu>
