@@ -1064,8 +1064,8 @@
       <tuv lang="en">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Sprawdź &amp;problemy...</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T204227Z">
+        <seg>Sprawdź &amp;błędy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,6 +1074,14 @@
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T095607Z" creationid="d55" creationdate="20230310T095607Z">
         <seg>Sprawdzaj &amp;automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T204409Z" creationid="mmstaw" creationdate="20240505T204409Z">
+        <seg>Sprawdź błędy w &amp;bieżącym pliku</seg>
       </tuv>
     </tu>
     <tu>
