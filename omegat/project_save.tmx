@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153954Z" creationid="mmstaw" creationdate="20240505T153954Z">
+        <seg>&amp;Jak w zdaniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
