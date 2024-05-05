@@ -3031,6 +3031,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T150406Z" creationid="mmstaw" creationdate="20240505T150350Z">
+        <seg>Za&amp;znacz tekst źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Dictionaries</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T210312Z" creationid="d55" creationdate="20230310T092636Z">
