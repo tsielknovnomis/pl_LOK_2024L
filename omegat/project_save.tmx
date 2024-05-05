@@ -2191,6 +2191,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T164945Z" creationid="mmstaw" creationdate="20240505T164945Z">
+        <seg>Osadzanie od lewej do prawej (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T164800Z" creationid="mmstaw" creationdate="20240505T164800Z">
@@ -2767,6 +2775,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T170601Z" creationid="mmstaw" creationdate="20240505T170601Z">
+        <seg>Zako (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre&amp;vious Note</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240423T064206Z" creationid="KJ" creationdate="20240423T064206Z">
@@ -3027,6 +3043,22 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>Przywróć do&amp;myślne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T164953Z" creationid="mmstaw" creationdate="20240505T164953Z">
+        <seg>Osadzanie od prawej do lewej (RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T164815Z" creationid="mmstaw" creationdate="20240505T164815Z">
+        <seg>Znak od prawej do lewej (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
