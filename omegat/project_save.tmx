@@ -2911,6 +2911,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T204024Z" creationid="mmstaw" creationdate="20240505T204024Z">
+        <seg>Zapisz i&amp;dentyczne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
