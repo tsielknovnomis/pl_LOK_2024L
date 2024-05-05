@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T215348Z" creationid="mmstaw" creationdate="20240505T215348Z">
+        <seg>Blokuj tworzenie przetłumaczonych plików &amp;z błędami znaczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -1066,6 +1074,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Zmiana przed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T214630Z" creationid="mmstaw" creationdate="20240505T214630Z">
+        <seg>Zmiana kolejności znaczników może uszkodzić tłumaczony plik!</seg>
       </tuv>
     </tu>
     <tu>
