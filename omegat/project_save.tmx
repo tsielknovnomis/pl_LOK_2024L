@@ -656,8 +656,8 @@
       <tuv lang="en">
         <seg>&amp;UPPER CASE</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153529Z" creationid="mmstaw" creationdate="20240505T153529Z">
-        <seg>&amp;DUŻE LITERY</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T154327Z" creationid="mmstaw" creationdate="20240505T153529Z">
+        <seg>&amp;WIELKIE LITERY</seg>
       </tuv>
     </tu>
     <tu>
