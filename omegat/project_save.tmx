@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T152433Z" creationid="mmstaw" creationdate="20240505T152433Z">
+        <seg>&amp;Szukaj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230414T085454Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2951,6 +2959,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T152441Z" creationid="mmstaw" creationdate="20240505T152441Z">
+        <seg>&amp;Zastąp...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T091719Z" creationid="d55" creationdate="20230310T091719Z">
@@ -2995,6 +3011,14 @@
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T213340Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>U&amp;względnij spację niełamiącą</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;witch Case to</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T152639Z" creationid="mmstaw" creationdate="20240505T152639Z">
+        <seg>Z&amp;mieo</seg>
       </tuv>
     </tu>
     <tu>
