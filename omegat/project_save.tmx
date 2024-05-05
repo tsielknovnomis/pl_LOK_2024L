@@ -2031,6 +2031,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T163840Z" creationid="mmstaw" creationdate="20240505T163840Z">
+        <seg>Wstaw z&amp;nak sterujący kierunkiem tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing &amp;Tags</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T150854Z" creationid="mmstaw" creationdate="20240505T150638Z">
