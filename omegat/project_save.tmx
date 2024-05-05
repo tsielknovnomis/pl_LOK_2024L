@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T173105Z" creationid="mmstaw" creationdate="20240505T173105Z">
+        <seg>Utwórz tłumaczenie a&amp;lternatywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3876,6 +3884,14 @@
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T095142Z" creationid="d55" creationdate="20230310T095142Z">
         <seg>Aktualizacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240505T173051Z" creationid="mmstaw" creationdate="20240505T173051Z">
+        <seg>Użyj jako tłumaczenie domyślne</seg>
       </tuv>
     </tu>
     <tu>
