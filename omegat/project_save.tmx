@@ -1326,6 +1326,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current version: {1}
+New version: {2}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155434Z" creationid="mmstaw" creationdate="20240506T155434Z">
+        <seg>Bieżąca wersja: {1} {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4068,6 +4077,22 @@
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T095142Z" creationid="d55" creationdate="20230310T095142Z">
         <seg>Aktualizacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade Plugin</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155344Z" creationid="mmstaw" creationdate="20240506T155344Z">
+        <seg>Aktualizuj wtyczkę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155412Z" creationid="mmstaw" creationdate="20240506T155412Z">
+        <seg>Zaktualizować wtyczkę {0}?</seg>
       </tuv>
     </tu>
     <tu>
