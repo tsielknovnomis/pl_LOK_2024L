@@ -3081,6 +3081,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T172933Z" creationid="mmstaw" creationdate="20240506T172933Z">
+        <seg>Login Proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
