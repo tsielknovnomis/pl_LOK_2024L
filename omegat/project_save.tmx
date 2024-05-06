@@ -1240,8 +1240,8 @@
       <tuv lang="en">
         <seg>Count &amp;flagged text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T105954Z" creationid="mmstaw" creationdate="20240506T105954Z">
-        <seg>Uwzględnij &amp;zabezpieczone teksty i niestandardowe znaczniki w statystykach</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T111255Z" creationid="mmstaw" creationdate="20240506T105954Z">
+        <seg>Uwzględnij &amp;wyróżnione teksty i niestandardowe znaczniki w statystykach</seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,6 +1770,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Fiński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text (regular expression):</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T111326Z" creationid="mmstaw" creationdate="20240506T111326Z">
+        <seg>Wyróżniony tekst (wyrażenie regularne)</seg>
       </tuv>
     </tu>
     <tu>
