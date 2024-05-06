@@ -56,8 +56,8 @@
       <tuv lang="en">
         <seg>&amp;Allow local post-processing commands</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T185806Z" creationid="mmstaw" creationdate="20240506T185806Z">
-        <seg>&amp;Zezwalaj na lokalne komendy przetwarzania ko s</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T185946Z" creationid="mmstaw" creationdate="20240506T185806Z">
+        <seg>Zezwalaj na lok&amp;alne komendy przetwarzania końcowego</seg>
       </tuv>
     </tu>
     <tu>
