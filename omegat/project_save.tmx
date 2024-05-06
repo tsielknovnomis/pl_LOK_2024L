@@ -1329,8 +1329,9 @@
         <seg>Current version: {1}
 New version: {2}</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155434Z" creationid="mmstaw" creationdate="20240506T155434Z">
-        <seg>Bieżąca wersja: {1} {2}</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155450Z" creationid="mmstaw" creationdate="20240506T155434Z">
+        <seg>Bieżąca wersja: {1}
+Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,6 +2233,14 @@ New version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install the {0} {1} plugin?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155600Z" creationid="mmstaw" creationdate="20240506T155600Z">
+        <seg>Zainstalować wtyczkę {0} {1}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installed plugins:</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T154820Z" creationid="mmstaw" creationdate="20240506T154820Z">
@@ -2920,6 +2929,14 @@ New version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T160525Z" creationid="mmstaw" creationdate="20240506T160525Z">
+        <seg>Instalowanie wtyczki nie powiodło się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3084,6 +3101,14 @@ New version: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Oznacz jako identyczne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reinstall the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155545Z" creationid="mmstaw" creationdate="20240506T155545Z">
+        <seg>Zainstalować ponownie wtyczkę {0}?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4117,6 +4142,14 @@ New version: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T155017Z" creationid="mmstaw" creationdate="20240506T155017Z">
         <seg>Wersja: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version {1} is already installed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155516Z" creationid="mmstaw" creationdate="20240506T155516Z">
+        <seg>Wersja {1} jest już zainstalowana.</seg>
       </tuv>
     </tu>
     <tu>
