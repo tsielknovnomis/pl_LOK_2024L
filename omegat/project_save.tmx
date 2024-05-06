@@ -2521,6 +2521,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T174934Z" creationid="mmstaw" creationdate="20240506T174934Z">
+        <seg>Próg minimalny do wyświetlania dopasowania rozmytego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3766,6 +3774,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>T&amp;M-y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T173815Z" creationid="mmstaw" creationdate="20240506T173815Z">
+        <seg>Dopasowania z pamięci tłumaczeniowej</seg>
       </tuv>
     </tu>
     <tu>
