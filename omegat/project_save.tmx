@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T154808Z" creationid="mmstaw" creationdate="20240506T154808Z">
+        <seg>&amp;Szukaj online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Browse...</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2183,6 +2191,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T154820Z" creationid="mmstaw" creationdate="20240506T154820Z">
+        <seg>Zainstalowane wtyczki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invalid file format</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2807,6 +2823,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other plugins are available online.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T154816Z" creationid="mmstaw" creationdate="20240506T154816Z">
+        <seg>Inne wtyczki są dostępne online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>P&amp;revious Segment from tm/enforce/</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240423T071918Z" creationid="KJ" creationdate="20240423T071918Z">
@@ -2859,6 +2883,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wtyczka została pomyślnie załadowana z klasy '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T154752Z" creationid="mmstaw" creationdate="20240506T154752Z">
+        <seg>Wtyczki</seg>
       </tuv>
     </tu>
     <tu>
@@ -4020,6 +4052,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Ustal jako domyślne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155017Z" creationid="mmstaw" creationdate="20240506T155017Z">
+        <seg>Wersja: {0}</seg>
       </tuv>
     </tu>
     <tu>
