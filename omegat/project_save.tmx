@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go to Downloads</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T172230Z" creationid="mmstaw" creationdate="20240506T172230Z">
+        <seg>&amp;Przejdź do pobranych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230414T090411Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -1736,6 +1744,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T172238Z" creationid="mmstaw" creationdate="20240506T172238Z">
+        <seg>Nie udało się pobrać informacji o najnowszej wersji: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2793,6 +2809,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T172203Z" creationid="mmstaw" creationdate="20240506T172203Z">
+        <seg>OmegaT {0} jest teraz dostępna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3546,6 +3570,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selected</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T172141Z" creationid="mmstaw" creationdate="20240506T172141Z">
+        <seg>Wybrana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4254,6 +4286,22 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wyrazów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T172157Z" creationid="mmstaw" creationdate="20240506T172157Z">
+        <seg>Obecnie posiadasz najnowszą wersję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T172210Z" creationid="mmstaw" creationdate="20240506T172210Z">
+        <seg>Obecnie posiadasz {1}.</seg>
       </tuv>
     </tu>
     <tu>
