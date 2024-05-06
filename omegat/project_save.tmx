@@ -3898,6 +3898,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option sets the project data saving interval, which also applies to team data synchronization.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T184556Z" creationid="mmstaw" creationdate="20240506T184556Z">
+        <seg>Opcja ta ustawia częstotliwość zapisywania danych projektu, która wpływa także na synchronizację danych zespołu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This project</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092335Z" creationid="d55" creationdate="20230310T092335Z">
