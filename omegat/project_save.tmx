@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T173019Z" creationid="mmstaw" creationdate="20240506T173019Z">
+        <seg>Uwierzytelnione dane do serwera proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T155026Z" creationid="mmstaw" creationdate="20240506T155026Z">
@@ -1628,6 +1636,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Błąd przy tworzeniu projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error decoding user and password.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T173112Z" creationid="mmstaw" creationdate="20240506T173112Z">
+        <seg>Błąd podczas dekodowania nazwy użytkownika i hasła.</seg>
       </tuv>
     </tu>
     <tu>
