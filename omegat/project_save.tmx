@@ -4354,6 +4354,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T191314Z" creationid="mmstaw" creationdate="20240506T191314Z">
+        <seg>Użyj zapisu &amp;XML do pojedynczych znaczników (np. &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use as Default Translati&amp;on</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T173051Z" creationid="mmstaw" creationdate="20240505T173051Z">
