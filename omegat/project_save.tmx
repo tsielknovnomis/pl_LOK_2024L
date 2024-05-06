@@ -3506,6 +3506,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T190525Z" creationid="mmstaw" creationdate="20240506T190525Z">
+        <seg>Bezpieczne przechowywanie danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment marker background</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T211914Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
