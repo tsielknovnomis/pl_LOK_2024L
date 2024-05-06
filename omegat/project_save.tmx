@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155057Z" creationid="mmstaw" creationdate="20240506T155057Z">
+        <seg>&amp;Zainstaluj wtyczkę z dyskuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -934,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155026Z" creationid="mmstaw" creationdate="20240506T155026Z">
+        <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="pl">
@@ -1162,6 +1178,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Chiński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155022Z" creationid="mmstaw" creationdate="20240506T155022Z">
+        <seg>Klasa </seg>
       </tuv>
     </tu>
     <tu>
@@ -2187,6 +2211,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Instaluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install Plugin</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155108Z" creationid="mmstaw" creationdate="20240506T155108Z">
+        <seg>Zainstaluj wtyczkę</seg>
       </tuv>
     </tu>
     <tu>
