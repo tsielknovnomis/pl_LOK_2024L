@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T110011Z" creationid="mmstaw" creationdate="20240506T110011Z">
+        <seg>Niestandardowe znaczniki (wyrażenie regularne):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092145Z" creationid="d55" creationdate="20230310T092145Z">
