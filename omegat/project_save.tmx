@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T185806Z" creationid="mmstaw" creationdate="20240506T185806Z">
+        <seg>&amp;Zezwalaj na lokalne komendy przetwarzania ko s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T211643Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2537,6 +2545,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T184603Z" creationid="mmstaw" creationdate="20240506T184603Z">
+        <seg>Minuty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification info</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
@@ -3478,6 +3494,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Szukaj w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Seconds:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T184608Z" creationid="mmstaw" creationdate="20240506T184608Z">
+        <seg>Sekundy:</seg>
       </tuv>
     </tu>
     <tu>
