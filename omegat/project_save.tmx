@@ -2545,6 +2545,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match display template</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T211106Z" creationid="mmstaw" creationdate="20240506T211106Z">
+        <seg>Szablon wyświetlania dopasowań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximize</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3942,6 +3950,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wyrażenie docelowe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template variables:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240506T211043Z" creationid="mmstaw" creationdate="20240506T211043Z">
+        <seg>Zmienne szablonu:</seg>
       </tuv>
     </tu>
     <tu>
