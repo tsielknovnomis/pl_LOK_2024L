@@ -2144,6 +2144,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T090748Z" creationid="KJ" creationdate="20240513T090748Z">
+        <seg>Podświetl automatycznie uzupełnione segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240423T072338Z" creationid="KJ" creationdate="20240423T072338Z">
@@ -2525,6 +2533,22 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T091153Z" creationid="KJ" creationdate="20240513T091153Z">
+        <seg>Zaznacz problemy językowe wymagające rozwiązania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T090758Z" creationid="KJ" creationdate="20240513T090758Z">
+        <seg>Zaznacz dopasowania z glosariuszy</seg>
       </tuv>
     </tu>
     <tu>
