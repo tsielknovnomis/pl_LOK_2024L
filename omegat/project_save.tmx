@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T092400Z" creationid="KJ" creationdate="20240513T092400Z">
+        <seg>&amp;Pokaż istotne sugestie automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Simple variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T212843Z" creationid="mmstaw" creationdate="20240505T212843Z">
@@ -858,6 +866,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>D&amp;odaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T092324Z" creationid="KJ" creationdate="20240513T092324Z">
+        <seg>Folder &amp;konfiguracji</seg>
       </tuv>
     </tu>
     <tu>
@@ -2068,6 +2084,22 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Niemiecki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T092314Z" creationid="KJ" creationdate="20240513T092314Z">
+        <seg>Globalne &amp;ustawienia segmentacji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T092250Z" creationid="KJ" creationdate="20240513T092250Z">
+        <seg>Globalne filtry plików...</seg>
       </tuv>
     </tu>
     <tu>
