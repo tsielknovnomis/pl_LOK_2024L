@@ -1888,6 +1888,22 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240513T161614Z" creationid="fw" creationdate="20240513T161614Z">
+        <seg>Nie udało się potwierdzic plików źródłowych </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240513T161840Z" creationid="fw" creationdate="20240513T161840Z">
+        <seg>Nie udało się zatwierdzić plików docelowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
