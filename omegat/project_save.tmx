@@ -4524,8 +4524,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T091819Z" creationid="KJ" creationdate="20240513T091819Z">
-        <seg>Zastosuj dopasowanie rozmytego</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T092820Z" creationid="KJ" creationdate="20240513T091819Z">
+        <seg>Zastosuj dopasowanie rozmyte</seg>
       </tuv>
     </tu>
     <tu>
