@@ -4442,6 +4442,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T091344Z" creationid="KJ" creationdate="20240513T091344Z">
+        <seg>Użyj czcionki zastępczej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use as Default Translati&amp;on</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T173051Z" creationid="mmstaw" creationdate="20240505T173051Z">
