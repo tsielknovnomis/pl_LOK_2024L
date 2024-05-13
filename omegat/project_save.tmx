@@ -424,8 +424,8 @@
       <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T211943Z" creationid="mmstaw" creationdate="20240505T211943Z">
-        <seg>&amp;Brak</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T091429Z" creationid="mmstaw" creationdate="20240505T211943Z">
+        <seg>&amp;Nie pokazuj żadnych informacji o modyfikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +562,14 @@
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190602Z" creationid="mmstaw" creationdate="20240506T190602Z">
         <seg>&amp;Resetuj hasło główne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T091503Z" creationid="KJ" creationdate="20240513T091503Z">
+        <seg>&amp;Przywróc okno OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1468,6 +1476,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T090714Z" creationid="KJ" creationdate="20240513T090714Z">
         <seg>Pokaż dwukierunkowe znaki kontrolne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T091402Z" creationid="KJ" creationdate="20240513T091402Z">
+        <seg>Pokaż informacje o modyfikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -4590,6 +4606,22 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>nazwy plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T091455Z" creationid="KJ" creationdate="20240513T091455Z">
+        <seg>dlaa wszystkich segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T091443Z" creationid="KJ" creationdate="20240513T091443Z">
+        <seg>dla bieżącego segmentu</seg>
       </tuv>
     </tu>
     <tu>
