@@ -3409,6 +3409,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240513T181009Z" creationid="mmstaw" creationdate="20240513T181009Z">
+        <seg>Częstotliwość zapisywania danych projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3740,8 +3748,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Saving and Output</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T183450Z" creationid="mmstaw" creationdate="20240506T183450Z">
-        <seg>Zapisywanie i tekst wyjściowy</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240513T180936Z" creationid="mmstaw" creationdate="20240506T183450Z">
+        <seg>Zapisywanie i wyjście</seg>
       </tuv>
     </tu>
     <tu>
