@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T091830Z" creationid="KJ" creationdate="20240513T091830Z">
+        <seg>Autouzupełnianie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -648,8 +656,8 @@
       <tuv lang="en">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Pokaż sugestie automatycznie</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T092040Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Pokaż istotne sugestie automatycznie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2212,6 +2220,22 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230303T093609Z" creationid="d55" creationdate="20230303T093609Z">
         <seg>Historia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T092056Z" creationid="KJ" creationdate="20240513T092056Z">
+        <seg>Historia uzupełniania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T092234Z" creationid="KJ" creationdate="20240513T092234Z">
+        <seg>Historia przewidywań</seg>
       </tuv>
     </tu>
     <tu>
