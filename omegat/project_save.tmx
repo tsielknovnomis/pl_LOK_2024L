@@ -1358,6 +1358,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240513T161916Z" creationid="fw" creationdate="20240513T161916Z">
+        <seg>potwierdzanie plików źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240513T161947Z" creationid="fw" creationdate="20240513T161947Z">
+        <seg>potwierdzanie plików docelowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -1898,8 +1914,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Failed to commit target files.</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T161840Z" creationid="fw" creationdate="20240513T161840Z">
-        <seg>Nie udało się zatwierdzić plików docelowych.</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240513T161900Z" creationid="fw" creationdate="20240513T161840Z">
+        <seg>Nie udało się potwierdzić plików docelowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3978,6 +3994,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240513T161935Z" creationid="fw" creationdate="20240513T161935Z">
+        <seg>pliki żródłowe potwierdzone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4118,6 +4142,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>Znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240513T161958Z" creationid="fw" creationdate="20240513T161958Z">
+        <seg>pliki docelowe potwierdzone</seg>
       </tuv>
     </tu>
     <tu>
