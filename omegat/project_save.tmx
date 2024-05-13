@@ -2208,6 +2208,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240513T183508Z" creationid="mmstaw" creationdate="20240513T183508Z">
+        <seg>Globalne polecenia post-przetwarzania. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="pl">
