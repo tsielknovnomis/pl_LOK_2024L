@@ -1326,10 +1326,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240513T162505Z" creationid="fw" creationdate="20240513T162505Z">
+        <seg>po&amp;twierdź pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T093953Z" creationid="d55" creationdate="20230310T093953Z">
         <seg>Kolory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240513T162517Z" creationid="fw" creationdate="20240513T162517Z">
+        <seg>po&amp;twierdź pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
