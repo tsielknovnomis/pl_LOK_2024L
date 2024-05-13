@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T092532Z" creationid="KJ" creationdate="20240513T092532Z">
+        <seg>&amp;Pobieraj tłumaczenia automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240423T070541Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
