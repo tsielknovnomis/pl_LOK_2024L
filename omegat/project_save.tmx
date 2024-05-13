@@ -1458,16 +1458,24 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T090057Z" creationid="KJ" creationdate="20240513T090057Z">
-        <seg>Pokaż puste spacje</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T090312Z" creationid="KJ" creationdate="20240513T090057Z">
+        <seg>Pokaż twarde spacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T090714Z" creationid="KJ" creationdate="20240513T090714Z">
+        <seg>Pokaż dwukierunkowe znaki kontrolne</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T085948Z" creationid="KJ" creationdate="20240513T085913Z">
-        <seg>Pokaż spacje niełamiące</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T090136Z" creationid="KJ" creationdate="20240513T085913Z">
+        <seg>Pokaż spacje nierozdzielające</seg>
       </tuv>
     </tu>
     <tu>
