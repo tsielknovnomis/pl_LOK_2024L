@@ -1456,18 +1456,26 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T090057Z" creationid="KJ" creationdate="20240513T090057Z">
+        <seg>Pokaż puste spacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T085913Z" creationid="KJ" creationdate="20240513T085913Z">
-        <seg>Podświetl spacje niełamiące</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T085948Z" creationid="KJ" creationdate="20240513T085913Z">
+        <seg>Pokaż spacje niełamiące</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wyświetl &amp;segmenty źródłowe</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240513T085957Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pokaż &amp;segmenty źródłowe</seg>
       </tuv>
     </tu>
     <tu>
