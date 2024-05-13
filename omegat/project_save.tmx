@@ -1438,10 +1438,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240513T162731Z" creationid="fw" creationdate="20240513T162731Z">
+        <seg>Utwórz przetłumaczone pliki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create A&amp;lternative Translation</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T173105Z" creationid="mmstaw" creationdate="20240505T173105Z">
         <seg>Utwórz tłumaczenie a&amp;lternatywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="fw" changedate="20240513T162756Z" creationid="fw" creationdate="20240513T162756Z">
+        <seg>Utwórz obecny przetłumaczony plik</seg>
       </tuv>
     </tu>
     <tu>
