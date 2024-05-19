@@ -1896,6 +1896,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240519T135215Z" creationid="mmstaw" creationdate="20240519T135215Z">
+        <seg>Błąd:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3794,6 +3802,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240519T135228Z" creationid="mmstaw" creationdate="20240519T135228Z">
+        <seg>Opcje zapisu i wyjścia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4046,6 +4062,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>&amp;Rozmiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240519T135205Z" creationid="mmstaw" creationdate="20240519T135128Z">
+        <seg>Pomiń</seg>
       </tuv>
     </tu>
     <tu>
