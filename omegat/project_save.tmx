@@ -4810,6 +4810,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240519T134154Z" creationid="mmstaw" creationdate="20240519T134154Z">
+        <seg>Twoje imię/ID jest używane do oznaczenia twoich tłumaczeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>all matching segments</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
