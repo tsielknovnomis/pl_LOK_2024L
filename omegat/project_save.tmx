@@ -417,8 +417,8 @@
       <tuv lang="en">
         <seg>&amp;Name/ID:</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Imię/ID:</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240520T193033Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Nazwa/ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4884,8 +4884,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Your name/ID is used to identify your translations.</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240519T134154Z" creationid="mmstaw" creationdate="20240519T134154Z">
-        <seg>Twoje imię/ID jest używane do oznaczenia twoich tłumaczeń.</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240520T193027Z" creationid="mmstaw" creationdate="20240519T134154Z">
+        <seg>Twoja nazwa/ID są używane do oznaczenia twoich tłumaczeń.</seg>
       </tuv>
     </tu>
     <tu>
