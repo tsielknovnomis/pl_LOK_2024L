@@ -790,6 +790,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>check</note>
       <tuv lang="en">
         <seg>&amp;User Manual...</seg>
       </tuv>
@@ -1350,6 +1351,9 @@
       </tuv>
     </tu>
     <tu>
+      <note>check
+&amp;
+Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
