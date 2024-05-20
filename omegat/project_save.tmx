@@ -4298,6 +4298,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240520T193045Z" creationid="mmstaw" creationdate="20240520T193045Z">
+        <seg>Zespół</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T211043Z" creationid="mmstaw" creationdate="20240506T211043Z">
