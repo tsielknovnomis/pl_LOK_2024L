@@ -61,6 +61,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>check</note>
       <tuv lang="en">
         <seg>&amp;Allow local post-processing commands</seg>
       </tuv>
@@ -2223,6 +2224,7 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>check</note>
       <tuv lang="en">
         <seg>Global post-processing commands</seg>
       </tuv>
@@ -3801,6 +3803,7 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>check</note>
       <tuv lang="en">
         <seg>Saving and Output Options</seg>
       </tuv>
@@ -4065,6 +4068,7 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>check</note>
       <tuv lang="en">
         <seg>Skipping.</seg>
       </tuv>
