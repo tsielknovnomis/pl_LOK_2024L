@@ -1541,6 +1541,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240520T194343Z" creationid="mmstaw" creationdate="20240520T194343Z">
+        <seg>Dostosuj &amp;informacje o modyfikacji segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092145Z" creationid="d55" creationdate="20230310T092145Z">
@@ -4342,6 +4350,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240520T193045Z" creationid="mmstaw" creationdate="20240520T193045Z">
         <seg>Zespół</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240520T194115Z" creationid="mmstaw" creationdate="20240520T194115Z">
+        <seg>Szablon dla segmentów bez daty</seg>
       </tuv>
     </tu>
     <tu>
