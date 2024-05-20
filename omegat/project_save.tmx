@@ -1637,6 +1637,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display all &amp;source segments in bold</seg>
+      </tuv>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240520T193531Z" creationid="mmstaw" creationdate="20240520T193531Z">
+        <seg>Pogrub wszystkie segmenty źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display:</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
