@@ -2432,16 +2432,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>History &amp;Completion</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T092056Z" creationid="KJ" creationdate="20240513T092056Z">
-        <seg>Historia uzupełniania</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240521T071256Z" creationid="KJ" creationdate="20240513T092056Z">
+        <seg>Doko słowa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>History &amp;Prediction</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T092234Z" creationid="KJ" creationdate="20240513T092234Z">
-        <seg>Historia przewidywań</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240521T071159Z" creationid="KJ" creationdate="20240513T092234Z">
+        <seg>Podpowiadanie kolejnego słowa</seg>
       </tuv>
     </tu>
     <tu>
