@@ -3297,8 +3297,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Opening team project</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240519T134431Z" creationid="mmstaw" creationdate="20240519T134431Z">
-        <seg>Tworzenie projektu grupowego.</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240521T061842Z" creationid="mmstaw" creationdate="20240519T134431Z">
+        <seg>Tworzenie projektu grupowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -3649,8 +3649,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240519T135058Z" creationid="mmstaw" creationdate="20240519T135058Z">
-        <seg> Błędy komunikacji sieciowej zdalnego repozytorium {0}</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240521T061855Z" creationid="mmstaw" creationdate="20240519T135058Z">
+        <seg>Błędy komunikacji sieciowej zdalnego repozytorium {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4291,8 +4291,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Synchronization of repositories</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240519T134411Z" creationid="mmstaw" creationdate="20240519T134411Z">
-        <seg>Synchronizacja repozytoriów.</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240521T061810Z" creationid="mmstaw" creationdate="20240519T134411Z">
+        <seg>Synchronizacja repozytoriów</seg>
       </tuv>
     </tu>
     <tu>
