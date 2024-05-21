@@ -1629,6 +1629,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240521T062742Z" creationid="KJ" creationdate="20240521T062742Z">
+        <seg>Pokaż ograniczenia akapitów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T085957Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
