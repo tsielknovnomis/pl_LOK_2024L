@@ -3585,8 +3585,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Register I&amp;dentical Translation</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T204024Z" creationid="mmstaw" creationdate="20240505T204024Z">
-        <seg>Zapisz i&amp;dentyczne tłumaczenie</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240521T072648Z" creationid="mmstaw" creationdate="20240505T204024Z">
+        <seg>Zapisz źródło jako tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
