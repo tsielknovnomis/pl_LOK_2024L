@@ -2721,8 +2721,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T164945Z" creationid="mmstaw" creationdate="20240505T164945Z">
-        <seg>Osadzanie od lewej do prawej (LRE U+202A)</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240521T070622Z" creationid="mmstaw" creationdate="20240505T164945Z">
+        <seg>Kierunek od lewej do prawej (LRE U+202A)</seg>
       </tuv>
     </tu>
     <tu>
