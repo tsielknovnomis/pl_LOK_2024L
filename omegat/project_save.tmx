@@ -3858,8 +3858,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Saving and Output Options</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240521T063612Z" creationid="mmstaw" creationdate="20240519T135228Z">
-        <seg>Opcje zapisu i wyjścia</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240521T064513Z" creationid="mmstaw" creationdate="20240519T135228Z">
+        <seg>Opcje zapisywania i wyjścia.</seg>
       </tuv>
     </tu>
     <tu>
