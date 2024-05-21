@@ -3817,9 +3817,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>S&amp;witch Case to</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153403Z" creationid="mmstaw" creationdate="20240505T152639Z">
-        <seg>Z&amp;mień wielkość liter
-</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240521T061408Z" creationid="mmstaw" creationdate="20240505T152639Z">
+        <seg>Z&amp;mień wielkość liter</seg>
       </tuv>
     </tu>
     <tu>
