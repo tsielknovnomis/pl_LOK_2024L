@@ -1607,8 +1607,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Display &amp;Bidi Control Characters</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T090714Z" creationid="KJ" creationdate="20240513T090714Z">
-        <seg>Pokaż dwukierunkowe znaki kontrolne</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240521T070455Z" creationid="KJ" creationdate="20240513T090714Z">
+        <seg>Pokaż znaki sterujące kierunkiem tekstu</seg>
       </tuv>
     </tu>
     <tu>
