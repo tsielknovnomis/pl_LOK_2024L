@@ -3785,8 +3785,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T164953Z" creationid="mmstaw" creationdate="20240505T164953Z">
-        <seg>Osadzanie od prawej do lewej (RLE U+202&amp;B)</seg>
+      <tuv lang="pl" changeid="mmstaw" changedate="20240521T070629Z" creationid="mmstaw" creationdate="20240505T164953Z">
+        <seg>Kierunek od prawej do lewej (RLE U+202&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
