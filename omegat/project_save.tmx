@@ -241,8 +241,8 @@
       <tuv lang="en">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="pl" changeid="d55" changedate="20230331T083311Z" creationid="d55" creationdate="20230303T095024Z">
-        <seg>&amp;Włącz uzupełnianie słowa</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240521T072202Z" creationid="d55" creationdate="20230303T095024Z">
+        <seg>&amp;Włącz dokończenie słowa</seg>
       </tuv>
     </tu>
     <tu>
