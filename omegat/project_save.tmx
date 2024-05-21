@@ -345,8 +345,8 @@
       <tuv lang="en">
         <seg>&amp;Install plugin from disk</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155057Z" creationid="mmstaw" creationdate="20240506T155057Z">
-        <seg>&amp;Zainstaluj wtyczkę z dyskuk</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240521T065048Z" creationid="mmstaw" creationdate="20240506T155057Z">
+        <seg>&amp;Zainstaluj wtyczkę z dysku</seg>
       </tuv>
     </tu>
     <tu>
@@ -1314,8 +1314,8 @@
       <tuv lang="en">
         <seg>Class</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155022Z" creationid="mmstaw" creationdate="20240506T155022Z">
-        <seg>Klasa </seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240521T064928Z" creationid="mmstaw" creationdate="20240506T155022Z">
+        <seg>Klasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4859,8 +4859,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Version</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T155017Z" creationid="mmstaw" creationdate="20240506T155017Z">
-        <seg>Wersja: {0}</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240521T065033Z" creationid="mmstaw" creationdate="20240506T155017Z">
+        <seg>Wersja</seg>
       </tuv>
     </tu>
     <tu>
