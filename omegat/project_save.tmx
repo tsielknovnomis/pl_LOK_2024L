@@ -1695,8 +1695,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Do&amp;wnload Team Project...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240423T061404Z" creationid="SvK" creationdate="20240423T061404Z">
-        <seg>Pobierz projekt zepołowy...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T122650Z" creationid="SvK" creationdate="20240423T061404Z">
+        <seg>Pobierz Projekt Zepołowy...</seg>
       </tuv>
     </tu>
     <tu>
