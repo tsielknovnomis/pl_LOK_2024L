@@ -705,8 +705,8 @@
       <tuv lang="en">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Pliki źródłowe</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130453Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -729,8 +729,8 @@
       <tuv lang="en">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Pliki docelowe</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130517Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
