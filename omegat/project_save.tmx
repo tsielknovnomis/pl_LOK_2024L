@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Przejrzyj zawartość projektu</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T124519Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Przejrzyj Zawartość Projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -938,8 +938,8 @@
       <tuv lang="en">
         <seg>Add &amp;Files...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T121649Z" creationid="fw" creationdate="20240513T161056Z">
-        <seg>Dodaj Plik</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T124708Z" creationid="fw" creationdate="20240513T161056Z">
+        <seg>Dodaj Pliki...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4139,8 +4139,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>So&amp;urce Files...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T162945Z" creationid="fw" creationdate="20240513T162945Z">
-        <seg>Pliki źródłowe</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T124628Z" creationid="fw" creationdate="20240513T162945Z">
+        <seg>Pliki Źródłowe...</seg>
       </tuv>
     </tu>
     <tu>
