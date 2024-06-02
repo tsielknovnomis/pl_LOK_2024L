@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T125233Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;O Programie...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130105Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>O Programie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -161,8 +161,8 @@
       <tuv lang="en">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T125301Z" creationid="d55" creationdate="20230303T093122Z">
-        <seg>&amp;Sprawdź Aktualizacje...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130123Z" creationid="d55" creationdate="20230303T093122Z">
+        <seg>Sprawdź Aktualizacje...</seg>
       </tuv>
     </tu>
     <tu>
@@ -313,8 +313,8 @@
       <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
-      <tuv lang="pl" changeid="d55" changedate="20230414T090411Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>P&amp;omoc</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130054Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pomoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,8 +361,8 @@
       <tuv lang="en">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T125244Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Ostatnie Zmiany...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130112Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Ostatnie Zmiany...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2681,8 +2681,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T125257Z" creationid="d55" creationdate="20230303T092852Z">
-        <seg>D&amp;ziennik..</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130116Z" creationid="d55" creationdate="20230303T092852Z">
+        <seg>Dziennik..</seg>
       </tuv>
     </tu>
     <tu>
