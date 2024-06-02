@@ -1485,8 +1485,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create MED Project...</seg>
       </tuv>
-      <tuv lang="pl" changeid="d55" changedate="20230303T093126Z" creationid="d55" creationdate="20230303T093126Z">
-        <seg>Utwórz projekt MED...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T124337Z" creationid="d55" creationdate="20230303T093126Z">
+        <seg>Utwórz Projekt MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3249,16 +3249,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Op&amp;en Recent...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240423T061855Z" creationid="SvK" creationdate="20240423T061855Z">
-        <seg>Ostatnie projekty...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T124129Z" creationid="SvK" creationdate="20240423T061855Z">
+        <seg>Ostatnie Projekty...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Open MED Project...</seg>
       </tuv>
-      <tuv lang="pl" changeid="d55" changedate="20230303T093055Z" creationid="d55" creationdate="20230303T093055Z">
-        <seg>Otwórz projekt MED...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T124345Z" creationid="d55" creationdate="20230303T093055Z">
+        <seg>Otwórz Projekt MED...</seg>
       </tuv>
     </tu>
     <tu>
