@@ -938,16 +938,16 @@
       <tuv lang="en">
         <seg>Add &amp;Files...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T121640Z" creationid="fw" creationdate="20240513T161056Z">
-        <seg>Dodaj Pliki</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T121649Z" creationid="fw" creationdate="20240513T161056Z">
+        <seg>Dodaj Plik</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Add Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T161030Z" creationid="fw" creationdate="20240513T161030Z">
-        <seg>dodaj pliki do foldera żródłowego</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T121714Z" creationid="fw" creationdate="20240513T161030Z">
+        <seg>Dodaj Pliki Do Foldera Źródłowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -962,8 +962,8 @@
       <tuv lang="en">
         <seg>Add MediaWiki Pa&amp;ge...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T161052Z" creationid="SvK" creationdate="20240423T063851Z">
-        <seg>Dodaj stronę MediaWiki...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T121726Z" creationid="SvK" creationdate="20240423T063851Z">
+        <seg>Dodaj Stronę MediaWiki...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,8 +1338,8 @@
       <tuv lang="en">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T162505Z" creationid="fw" creationdate="20240513T162505Z">
-        <seg>po&amp;twierdź pliki źródłowe</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T121750Z" creationid="fw" creationdate="20240513T162505Z">
+        <seg>Po&amp;twierdź Pliki Źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1357,8 +1357,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T162517Z" creationid="fw" creationdate="20240513T162517Z">
-        <seg>po&amp;twierdź pliki docelowe</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T121807Z" creationid="fw" creationdate="20240513T162517Z">
+        <seg>Po&amp;twierdź Pliki Docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1453,8 +1453,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create &amp;Translated Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T162731Z" creationid="fw" creationdate="20240513T162731Z">
-        <seg>Utwórz przetłumaczone pliki</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T121814Z" creationid="fw" creationdate="20240513T162731Z">
+        <seg>Utwórz Przetłumaczone Pliki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1469,8 +1469,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T162756Z" creationid="fw" creationdate="20240513T162756Z">
-        <seg>Utwórz obecny przetłumaczony plik</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T121834Z" creationid="fw" creationdate="20240513T162756Z">
+        <seg>Utwórz Obecny Przetłumaczony Plik</seg>
       </tuv>
     </tu>
     <tu>
@@ -3545,8 +3545,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Re&amp;load</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240423T064354Z" creationid="fw" creationdate="20240423T063930Z">
-        <seg>Załaduj ponownie</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T121730Z" creationid="fw" creationdate="20240423T063930Z">
+        <seg>Załaduj Ponownie</seg>
       </tuv>
     </tu>
     <tu>
