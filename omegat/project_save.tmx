@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T124519Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Przejrzyj Zawartość Projektu</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130326Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przejrzyj Zawartość Projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -433,8 +433,8 @@
       <tuv lang="en">
         <seg>&amp;New...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Nowy...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130154Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nowy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -481,8 +481,8 @@
       <tuv lang="en">
         <seg>&amp;Open...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Otwórz...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130159Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Otwórz...</seg>
       </tuv>
     </tu>
     <tu>
@@ -529,16 +529,16 @@
       <tuv lang="en">
         <seg>&amp;Project</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>&amp;Projekt</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130151Z">
+        <seg>Projekt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Properties...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Właściwości...</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130319Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Właściwości...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,8 +1338,8 @@
       <tuv lang="en">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T121750Z" creationid="fw" creationdate="20240513T162505Z">
-        <seg>Po&amp;twierdź Pliki Źródłowe</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130259Z" creationid="fw" creationdate="20240513T162505Z">
+        <seg>Zatwierdź Pliki Źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1357,8 +1357,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T121807Z" creationid="fw" creationdate="20240513T162517Z">
-        <seg>Po&amp;twierdź Pliki Docelowe</seg>
+      <tuv lang="pl" changeid="fw" changedate="20240602T130230Z" creationid="fw" creationdate="20240513T162517Z">
+        <seg>Zatwierdź Pliki Docelowe</seg>
       </tuv>
     </tu>
     <tu>
