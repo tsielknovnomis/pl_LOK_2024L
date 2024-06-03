@@ -1701,6 +1701,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to &amp;identify alternate translations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T184959Z" creationid="KJ" creationdate="20240603T184959Z">
+        <seg>Nie używaj nazwy pliku, aby wskazać tłumaczenia alternatywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3519,6 +3527,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve &amp;spaces for all tags</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T184903Z" creationid="KJ" creationdate="20240603T184903Z">
+        <seg>Zachowaj spacje dla wszystkich tagów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pro&amp;ject</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4229,6 +4245,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wczytywanie plików źródłowych zakończono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185341Z" creationid="KJ" creationdate="20240603T185341Z">
+        <seg>Wzorzec nazwy pliku źródłowego:</seg>
       </tuv>
     </tu>
     <tu>
