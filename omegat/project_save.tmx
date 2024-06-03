@@ -71,6 +71,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211236Z" creationid="KJ" creationdate="20240603T211236Z">
+        <seg>Zezwalaj tylko na unikalne znaki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T211643Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -259,6 +267,14 @@
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T195731Z" creationid="KJ" creationdate="20240603T195731Z">
         <seg>&amp;Włącz autotekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211202Z" creationid="KJ" creationdate="20240603T211202Z">
+        <seg>&amp;Włącz tablicę znaków</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,6 +1280,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211251Z" creationid="KJ" creationdate="20240603T211251Z">
+        <seg>Wyczyść</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -1637,10 +1661,26 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211224Z" creationid="KJ" creationdate="20240603T211224Z">
+        <seg>Tablica personalizowana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom tags (regular expression):</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T110011Z" creationid="mmstaw" creationdate="20240506T110011Z">
         <seg>Niestandardowe znaczniki (wyrażenie regularne):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211213Z" creationid="KJ" creationdate="20240603T211213Z">
+        <seg>Personalizuj tablicę znaków</seg>
       </tuv>
     </tu>
     <tu>
@@ -2377,6 +2417,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>Z pamięci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211220Z" creationid="KJ" creationdate="20240603T211220Z">
+        <seg>Pełna tablica</seg>
       </tuv>
     </tu>
     <tu>
@@ -4482,8 +4530,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Show &amp;target term first</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T205915Z" creationid="KJ" creationdate="20240603T205915Z">
-        <seg>Pokaż najpierw &amp;termin docelowych</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211128Z" creationid="KJ" creationdate="20240603T205915Z">
+        <seg>Pokaż najpierw &amp;termin docelowy</seg>
       </tuv>
     </tu>
     <tu>
