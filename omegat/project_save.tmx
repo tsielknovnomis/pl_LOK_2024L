@@ -1336,6 +1336,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T210840Z" creationid="KJ" creationdate="20240603T210840Z">
+        <seg>Tablica znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (w/ spaces)</seg>
       </tuv>
       <tuv lang="pl">
@@ -4545,10 +4553,26 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T210958Z" creationid="KJ" creationdate="20240603T210958Z">
+        <seg>Sortuj alfabetycznie pod kątem terminu źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Sortuj dopasowania rozmyte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T210910Z" creationid="KJ" creationdate="20240603T210910Z">
+        <seg>Sortuj terminy docelowe alfabetycznie</seg>
       </tuv>
     </tu>
     <tu>
