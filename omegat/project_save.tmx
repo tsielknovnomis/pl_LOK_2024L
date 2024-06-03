@@ -1360,6 +1360,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211255Z" creationid="KJ" creationdate="20240603T211255Z">
+        <seg>Tablica znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Character table</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T210840Z" creationid="KJ" creationdate="20240603T210840Z">
@@ -5455,6 +5463,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T211625Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Ostrzeżenie przy analizie linii {0}, kolumny {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211302Z" creationid="KJ" creationdate="20240603T211302Z">
+        <seg>Ostrzeżenie!</seg>
       </tuv>
     </tu>
     <tu>
