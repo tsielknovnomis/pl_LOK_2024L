@@ -2879,6 +2879,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T190328Z" creationid="KJ" creationdate="20240603T190304Z">
+        <seg>Lokalne ustawienia segmentacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Location</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4405,6 +4413,16 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Hiszpański</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T190419Z" creationid="KJ" creationdate="20240603T190419Z">
+        <seg>Zasady bardziej szczegółowe powinny być umieszczone przed zasadami ogólnymi:
+"FR-CA" powinno być wyżej niż "FR.*", które z kolei powinno być wyżej niż ".*". </seg>
       </tuv>
     </tu>
     <tu>
