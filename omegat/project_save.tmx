@@ -2641,8 +2641,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Include matches from &amp;other languages</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T191321Z" creationid="mmstaw" creationdate="20240506T191321Z">
-        <seg>Uwzględnij dopasowania &amp;z innych językóws</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T195050Z" creationid="mmstaw" creationdate="20240506T191321Z">
+        <seg>Uwzględnij dopasowania &amp;z innych języków</seg>
       </tuv>
     </tu>
     <tu>
@@ -3601,8 +3601,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Penalty for matches in other languages:</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T211026Z" creationid="mmstaw" creationdate="20240506T211026Z">
-        <seg>Penalty za dopasowania w innych językach:</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T195110Z" creationid="mmstaw" creationdate="20240506T211026Z">
+        <seg>Kara za dopasowania w innych językach:</seg>
       </tuv>
     </tu>
     <tu>
