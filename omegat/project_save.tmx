@@ -2109,6 +2109,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185447Z" creationid="KJ" creationdate="20240603T185447Z">
+        <seg>Zmienne nazwy pliku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2382,6 +2390,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML file too big!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185631Z" creationid="KJ" creationdate="20240603T185631Z">
+        <seg>Plik HTML ma zbyt duży rozmiar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2651,6 +2667,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T154820Z" creationid="mmstaw" creationdate="20240506T154820Z">
         <seg>Zainstalowane wtyczki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185742Z" creationid="KJ" creationdate="20240603T185742Z">
+        <seg>Nieprawidłowy plik HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -3547,6 +3571,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Statystyka projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project autosaved at {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185603Z" creationid="KJ" creationdate="20240603T185603Z">
+        <seg>Automatycznie zapisano projekt w</seg>
       </tuv>
     </tu>
     <tu>
@@ -4637,6 +4669,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T185359Z" creationid="KJ" creationdate="20240603T185359Z">
         <seg>Kodowanie pliku docelowego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185501Z" creationid="KJ" creationdate="20240603T185501Z">
+        <seg>Wzór nazwy pliku docelowego</seg>
       </tuv>
     </tu>
     <tu>
