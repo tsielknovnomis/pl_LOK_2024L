@@ -1677,6 +1677,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T204722Z" creationid="KJ" creationdate="20240603T204722Z">
+        <seg>Wyświetl:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Bidi Control Characters</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240521T070455Z" creationid="KJ" creationdate="20240513T090714Z">
