@@ -1112,6 +1112,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T205051Z" creationid="KJ" creationdate="20240603T205029Z">
+        <seg>Spróbuj zastąpić wartości dopasowań rozmytych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aut&amp;hor:</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
