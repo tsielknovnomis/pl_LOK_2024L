@@ -2390,6 +2390,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185747Z" creationid="KJ" creationdate="20240603T185747Z">
+        <seg>HTML i XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML file too big!</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T185631Z" creationid="KJ" creationdate="20240603T185631Z">
