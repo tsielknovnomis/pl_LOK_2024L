@@ -2799,6 +2799,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language sets</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T191912Z" creationid="KJ" creationdate="20240603T191912Z">
+        <seg>Zestawy językowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3031,6 +3039,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mo&amp;ve Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T191903Z" creationid="KJ" creationdate="20240603T191903Z">
+        <seg>Przenieś &amp;wyżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification info</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
@@ -3099,6 +3115,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Przesuń &amp;niżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move F&amp;irst</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T191854Z" creationid="KJ" creationdate="20240603T191854Z">
+        <seg>Przenieś &amp;na początek</seg>
       </tuv>
     </tu>
     <tu>
@@ -4276,6 +4300,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T203211Z" creationid="mmstaw" creationdate="20240505T203211Z">
         <seg>Oznacz tłumaczenie jako puste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T191928Z" creationid="KJ" creationdate="20240603T191928Z">
+        <seg>Zawartość zestawu</seg>
       </tuv>
     </tu>
     <tu>
