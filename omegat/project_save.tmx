@@ -263,6 +263,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T205716Z" creationid="KJ" creationdate="20240603T205716Z">
+        <seg>&amp;Włącz sugestie glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable history completion</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20240521T072202Z" creationid="d55" creationdate="20230303T095024Z">
@@ -1701,6 +1709,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T205824Z" creationid="KJ" creationdate="20240603T205824Z">
+        <seg>Pokaż terminy źródłowe &amp;y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T204722Z" creationid="KJ" creationdate="20240603T204722Z">
@@ -2269,6 +2285,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T205746Z" creationid="KJ" creationdate="20240603T205746Z">
+        <seg>Kontynuuj rozpoczynanie wielką literą we wpisywanym teksćie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2418,6 +2442,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20240521T064737Z" creationid="mmstaw" creationdate="20240513T183508Z">
         <seg>Globalne polecenia po przetwarzaniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T205748Z" creationid="KJ" creationdate="20240603T205748Z">
+        <seg>&amp;Glosariusze</seg>
       </tuv>
     </tu>
     <tu>
@@ -4627,6 +4659,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T205631Z" creationid="KJ" creationdate="20240603T205631Z">
+        <seg>Sprawdź pisownię tł&amp;umaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230303T093408Z" creationid="d55" creationdate="20230303T093408Z">
@@ -4775,6 +4815,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T101122Z" creationid="d55" creationdate="20230310T101122Z">
         <seg>Terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T205738Z" creationid="KJ" creationdate="20240603T205738Z">
+        <seg>Terminy z wieloma wariantami</seg>
       </tuv>
     </tu>
     <tu>
