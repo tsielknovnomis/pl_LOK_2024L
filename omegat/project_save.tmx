@@ -4241,6 +4241,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185349Z" creationid="KJ" creationdate="20240603T185349Z">
+        <seg>Kodowanie pliku źródłowego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4621,6 +4629,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Folder plików docelowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185359Z" creationid="KJ" creationdate="20240603T185359Z">
+        <seg>Kodowanie pliku docelowego:</seg>
       </tuv>
     </tu>
     <tu>
