@@ -4420,8 +4420,8 @@ Nowa wersja: {2}</seg>
         <seg>Specific sets should be put above general sets:
 "FR-CA" should be above "FR.*", which should be above ".*".</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T190419Z" creationid="KJ" creationdate="20240603T190419Z">
-        <seg>Zasady bardziej szczegółowe powinny być umieszczone przed zasadami ogólnymi:
+      <tuv lang="pl" changeid="KJ" changedate="20240603T191547Z" creationid="KJ" creationdate="20240603T190419Z">
+        <seg>Szczegółowe zestawy powinny być umieszczone przed zestawami ogólnymi:
 "FR-CA" powinno być wyżej niż "FR.*", które z kolei powinno być wyżej niż ".*". </seg>
       </tuv>
     </tu>
