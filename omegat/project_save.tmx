@@ -856,6 +856,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T182753Z" creationid="KJ" creationdate="20240603T182753Z">
+        <seg>- sprawdź, czy format plików jest obsługiwany przez program OmegaT:
+	  jeśli włączone są ustawienia filtrów dla projektu
+	  wybierz Projekt &gt; Właściwości... &gt; Filtry plików...,
+	  jeśli nie, wybierz Opcje &gt; Filtry plików...;
+	- otwórz je w ich początkowej aplikacji i sprawdź, czy nie są puste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
