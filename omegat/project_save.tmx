@@ -255,6 +255,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T195731Z" creationid="KJ" creationdate="20240603T195731Z">
+        <seg>&amp;Włącz autotekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable history completion</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20240521T072202Z" creationid="d55" creationdate="20230303T095024Z">
@@ -4429,6 +4437,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="fw" changedate="20240602T124628Z" creationid="fw" creationdate="20240513T162945Z">
         <seg>Pliki Źródłowe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T195737Z" creationid="KJ" creationdate="20240603T195737Z">
+        <seg>Sortuj według długości</seg>
       </tuv>
     </tu>
     <tu>
