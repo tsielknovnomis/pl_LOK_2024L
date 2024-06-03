@@ -4681,6 +4681,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck the box to disable it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T183839Z" creationid="KJ" creationdate="20240603T183806Z">
+        <seg>Aby wyłączyć filtr usuń zaznaczenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undock</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
