@@ -207,6 +207,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T192201Z" creationid="KJ" creationdate="20240603T192201Z">
+        <seg>&amp;Nie wstawiaj tekstu źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -1060,6 +1068,14 @@
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T093842Z" creationid="d55" creationdate="20230310T093842Z">
         <seg>Wygląd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T191955Z" creationid="KJ" creationdate="20240603T191955Z">
+        <seg>Czy na pewno chcesz usunąć {0} zestaw zasad segmentacji?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2665,8 +2681,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Tek&amp;st źródłowy</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T192149Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wstaw tekst źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -3155,6 +3171,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T093702Z" creationid="d55" creationdate="20230310T093702Z">
         <seg>Nazwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T192000Z" creationid="KJ" creationdate="20240603T192000Z">
+        <seg>Nowy język i kraj</seg>
       </tuv>
     </tu>
     <tu>
@@ -5187,6 +5211,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T192132Z" creationid="KJ" creationdate="20240603T192132Z">
+        <seg>Po przejściu do pustego segmentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whitespaces</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
@@ -5231,6 +5263,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240520T193027Z" creationid="mmstaw" creationdate="20240519T134154Z">
         <seg>Twoja nazwa/ID są używane do oznaczenia twoich tłumaczeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T192220Z" creationid="KJ" creationdate="20240603T192220Z">
+        <seg>[Rozmyte]</seg>
       </tuv>
     </tu>
     <tu>
