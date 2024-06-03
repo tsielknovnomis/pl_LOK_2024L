@@ -2655,6 +2655,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T192627Z" creationid="KJ" creationdate="20240603T192627Z">
+        <seg>Początkowa liczba segmentów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T163840Z" creationid="mmstaw" creationdate="20240505T163840Z">
@@ -3559,6 +3567,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T194207Z" creationid="KJ" creationdate="20240603T194207Z">
+        <seg>Granica paragrafu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Password:</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4075,6 +4091,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T192611Z" creationid="KJ" creationdate="20240603T192611Z">
         <seg>Zapisz stan wypełnienia automatycznego </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T192617Z" creationid="KJ" creationdate="20240603T192617Z">
+        <seg>Zapisz źródło &amp;tłumaczenia</seg>
       </tuv>
     </tu>
     <tu>
