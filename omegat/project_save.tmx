@@ -1016,6 +1016,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T191845Z" creationid="KJ" creationdate="20240603T191845Z">
+        <seg>Wszystkie zestawy pasujące do języka źródłowego projektu zostały zastosowane. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T212848Z" creationid="mmstaw" creationdate="20240505T212848Z">
@@ -2319,8 +2327,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Global Segmentation Rules</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T190059Z" creationid="KJ" creationdate="20240603T190059Z">
-        <seg>Globalne &amp;ustawienia segmentacji...</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T191608Z" creationid="KJ" creationdate="20240603T190059Z">
+        <seg>Globalne &amp;zasady segmentacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -2881,8 +2889,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Local Segmentation Rules</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T190328Z" creationid="KJ" creationdate="20240603T190304Z">
-        <seg>Lokalne ustawienia segmentacji</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T191600Z" creationid="KJ" creationdate="20240603T190304Z">
+        <seg>Lokalne zasady segmentacji</seg>
       </tuv>
     </tu>
     <tu>
