@@ -2400,8 +2400,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Hide &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T184603Z" creationid="KJ" creationdate="20240603T184431Z">
-        <seg>Ukryj wiodące i ko</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T184708Z" creationid="KJ" creationdate="20240603T184431Z">
+        <seg>Ukryj tagi na początku i na końcu segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3699,6 +3699,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20240521T061855Z" creationid="mmstaw" creationdate="20240519T135058Z">
         <seg>Błędy komunikacji sieciowej zdalnego repozytorium {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T184828Z" creationid="KJ" creationdate="20240603T184828Z">
+        <seg>Usuń spacje na początku i na końcu segmantu w projektach niesegmentowanych</seg>
       </tuv>
     </tu>
     <tu>
