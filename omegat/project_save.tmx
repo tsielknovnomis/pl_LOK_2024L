@@ -2398,6 +2398,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T184603Z" creationid="KJ" creationdate="20240603T184431Z">
+        <seg>Ukryj wiodące i ko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092236Z" creationid="d55" creationdate="20230310T092236Z">
