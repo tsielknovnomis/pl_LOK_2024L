@@ -2284,6 +2284,14 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Global File Filters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T183242Z" creationid="KJ" creationdate="20240603T183242Z">
+        <seg>Globalne filtry plików</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>check</note>
       <tuv lang="en">
         <seg>Global post-processing commands</seg>
@@ -2787,6 +2795,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wczytywanie:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local File Filters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T183259Z" creationid="KJ" creationdate="20240603T183259Z">
+        <seg>Lokalne filtry plików</seg>
       </tuv>
     </tu>
     <tu>
@@ -4088,6 +4104,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T183751Z" creationid="KJ" creationdate="20240603T183751Z">
+        <seg>Wybierz filtr i naciśnij Edytuj... lub Ustawienia... aby go dostosować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T172141Z" creationid="mmstaw" creationdate="20240506T172141Z">
@@ -4861,6 +4885,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Ustal jako domyślne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local file fil&amp;ter settings</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T183429Z" creationid="KJ" creationdate="20240603T183309Z">
+        <seg>Użyj ustawień lokalnych filtrów plików</seg>
       </tuv>
     </tu>
     <tu>
