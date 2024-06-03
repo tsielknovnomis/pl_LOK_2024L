@@ -431,6 +431,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211608Z" creationid="KJ" creationdate="20240603T211608Z">
+        <seg>Wczytaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Machine Translation</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T091804Z" creationid="KJ" creationdate="20240513T091804Z">
@@ -675,6 +683,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>&amp;Zapisz jako...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211626Z" creationid="KJ" creationdate="20240603T211626Z">
+        <seg>Zapisz</seg>
       </tuv>
     </tu>
     <tu>
@@ -1216,6 +1232,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211455Z" creationid="KJ" creationdate="20240603T211455Z">
+        <seg>Autotekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Available script engines:</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -1376,6 +1400,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211548Z" creationid="KJ" creationdate="20240603T211548Z">
+        <seg>Ustawienia autouzupełniania tablicy znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (w/ spaces)</seg>
       </tuv>
       <tuv lang="pl">
@@ -1503,6 +1535,14 @@ Groß-, Kleinschreibung</note>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Komenta&amp;rze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211542Z" creationid="KJ" creationdate="20240603T211535Z">
+        <seg>Komentarz</seg>
       </tuv>
     </tu>
     <tu>
@@ -1893,6 +1933,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211436Z" creationid="KJ" creationdate="20240603T211436Z">
+        <seg>Kliknij dwukrotnie na znaki lub zaznacz je i naciśnij klawisz Insert, aby dodać je do tabeli spersonalizowanej..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2041,6 +2089,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wpisz numer segmentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211601Z" creationid="KJ" creationdate="20240603T211601Z">
+        <seg>Hasła</seg>
       </tuv>
     </tu>
     <tu>
@@ -2437,6 +2493,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211528Z" creationid="KJ" creationdate="20240603T211528Z">
+        <seg>Pełny tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full text, including tags and numbers</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2512,8 +2576,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T205748Z" creationid="KJ" creationdate="20240603T205748Z">
-        <seg>&amp;Glosariusze</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211506Z" creationid="KJ" creationdate="20240603T205748Z">
+        <seg>Glosariusze</seg>
       </tuv>
     </tu>
     <tu>
@@ -4532,6 +4596,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T195026Z" creationid="KJ" creationdate="20240603T195026Z">
         <seg>Ustawienia tagów pochodzących z innych plików niż OmegaT TMX:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T211519Z" creationid="KJ" creationdate="20240603T211519Z">
+        <seg>Skrót</seg>
       </tuv>
     </tu>
     <tu>
