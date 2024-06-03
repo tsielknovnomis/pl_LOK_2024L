@@ -1573,6 +1573,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T190040Z" creationid="KJ" creationdate="20240603T190040Z">
+        <seg>Czeski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2308,6 +2316,14 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T190059Z" creationid="KJ" creationdate="20240603T190059Z">
+        <seg>Globalne &amp;ustawienia segmentacji...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>check</note>
       <tuv lang="en">
         <seg>Global post-processing commands</seg>
@@ -2547,6 +2563,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Napotkano wyjątek wejścia/wyjścia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T190010Z" creationid="KJ" creationdate="20240603T190010Z">
+        <seg>Jeśli kodowanie posiada deklarację, \nie będzie można go edytować niezależnie od ustawień.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3007,6 +3031,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modify encoding declaration</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185933Z" creationid="KJ" creationdate="20240603T185933Z">
+        <seg>Edytuj deklarację kodowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3179,6 +3211,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190810Z" creationid="mmstaw" creationdate="20240506T190810Z">
         <seg>Nieustawione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185947Z" creationid="KJ" creationdate="20240603T185947Z">
+        <seg>Uwaga: Ustawienie kodowania pliku źródłowego w formacie HTML działa tylko wtedy kiedy kodowania nie zadeklarowano wewnątrz pliku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3761,8 +3801,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T184828Z" creationid="KJ" creationdate="20240603T184828Z">
-        <seg>Usuń spacje na początku i na końcu segmantu w projektach niesegmentowanych</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T185918Z" creationid="KJ" creationdate="20240603T184828Z">
+        <seg>Usuń spacje na początku i na końcu segmentu w projektach niesegmentowanych</seg>
       </tuv>
     </tu>
     <tu>
@@ -4245,6 +4285,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240521T062854Z" creationid="mmstaw" creationdate="20240519T135128Z">
         <seg>Pominięto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T190046Z" creationid="KJ" creationdate="20240603T190046Z">
+        <seg>Słowacki</seg>
       </tuv>
     </tu>
     <tu>
