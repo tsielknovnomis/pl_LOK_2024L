@@ -743,6 +743,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T205356Z" creationid="KJ" creationdate="20240603T205356Z">
+        <seg>&amp;Zatrzymaj się na segmentach nieprzetłumaczonych lub tych mających łumaczenie alternatywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Store for this session only</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092011Z" creationid="d55" creationdate="20230310T092011Z">
