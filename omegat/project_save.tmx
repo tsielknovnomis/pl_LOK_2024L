@@ -4384,6 +4384,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T195026Z" creationid="KJ" creationdate="20240603T195026Z">
+        <seg>Ustawienia tagów pochodzących z innych plików niż OmegaT TMX:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify tag &amp;tooltips</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240520T193700Z" creationid="mmstaw" creationdate="20240520T193700Z">
