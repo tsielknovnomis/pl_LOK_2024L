@@ -4472,6 +4472,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T205915Z" creationid="KJ" creationdate="20240603T205915Z">
+        <seg>Pokaż najpierw &amp;termin docelowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify tag &amp;tooltips</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240520T193700Z" creationid="mmstaw" creationdate="20240520T193700Z">
