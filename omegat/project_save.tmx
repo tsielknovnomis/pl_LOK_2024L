@@ -1152,6 +1152,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T204720Z" creationid="KJ" creationdate="20240603T204720Z">
+        <seg>Konfiguracja autotekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T095351Z" creationid="d55" creationdate="20230310T095351Z">
@@ -4437,6 +4445,22 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="fw" changedate="20240602T124628Z" creationid="fw" creationdate="20240513T162945Z">
         <seg>Pliki Źródłowe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T204640Z" creationid="KJ" creationdate="20240603T204640Z">
+        <seg>Sortuj &amp;alfabetycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240603T204645Z" creationid="KJ" creationdate="20240603T204645Z">
+        <seg>Sortuj według &amp;pełnego tekstu, a nie skrótu</seg>
       </tuv>
     </tu>
     <tu>
