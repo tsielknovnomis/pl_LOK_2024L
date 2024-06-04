@@ -5389,8 +5389,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Unique Remaining:</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20231009T211421Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Unikalnych pozostało:</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240604T071826Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pozostałe niepowtarzające się:</seg>
       </tuv>
     </tu>
     <tu>
