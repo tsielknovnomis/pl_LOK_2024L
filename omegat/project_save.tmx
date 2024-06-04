@@ -2239,8 +2239,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Znak specjalny nie zakończony!</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240604T064424Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Znak specjalny niezakończony!</seg>
       </tuv>
     </tu>
     <tu>
