@@ -1773,6 +1773,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240604T060236Z" creationid="KJ" creationdate="20240604T060202Z">
+        <seg>Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
