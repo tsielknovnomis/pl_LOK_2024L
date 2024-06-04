@@ -5645,8 +5645,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>You already have the latest version.</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240604T064522Z" creationid="mmstaw" creationdate="20240506T172157Z">
-        <seg>Obecnie używasz najnowszej wersji.</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240604T064545Z" creationid="mmstaw" creationdate="20240506T172157Z">
+        <seg>Obecnie korzystasz z najnowszej wersji.</seg>
       </tuv>
     </tu>
     <tu>
