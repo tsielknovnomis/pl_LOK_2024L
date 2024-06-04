@@ -3601,8 +3601,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Number of unique segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20231009T211355Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Liczba segmentów unikalnych</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240604T071152Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Liczba segmentów niepowtarzających się</seg>
       </tuv>
     </tu>
     <tu>
@@ -5229,8 +5229,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20231009T211402Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Przetłumaczone segmenty unikalne</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240604T071630Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przetłumaczone niepowtarzające się segmenty</seg>
       </tuv>
     </tu>
     <tu>
