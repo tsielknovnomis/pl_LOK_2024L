@@ -5365,8 +5365,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Unique Remaining Characters (w/o spaces)</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Unikalnych wyrazów pozostało (bez spacji)</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240604T070213Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pozostałe niepowtarzające się znaki (bez spacji)</seg>
       </tuv>
     </tu>
     <tu>
