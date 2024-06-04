@@ -1831,8 +1831,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T090312Z" creationid="KJ" creationdate="20240513T090057Z">
-        <seg>Pokaż twarde spacje</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240604T064839Z" creationid="KJ" creationdate="20240513T090057Z">
+        <seg>Pokaż białe znaki</seg>
       </tuv>
     </tu>
     <tu>
