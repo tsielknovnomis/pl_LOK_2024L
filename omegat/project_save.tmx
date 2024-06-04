@@ -391,6 +391,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240604T060308Z" creationid="KJ" creationdate="20240604T060308Z">
+        <seg>Zainstaluj nowy język</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Install plugin from disk</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20240521T065048Z" creationid="mmstaw" creationdate="20240506T155057Z">
