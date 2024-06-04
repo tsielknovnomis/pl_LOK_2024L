@@ -3809,8 +3809,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Paragraph delimiter:</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T194207Z" creationid="KJ" creationdate="20240603T194207Z">
-        <seg>Granica paragrafu</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240604T063201Z" creationid="KJ" creationdate="20240603T194207Z">
+        <seg>Granica akapitu:</seg>
       </tuv>
     </tu>
     <tu>
