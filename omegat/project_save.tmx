@@ -4138,8 +4138,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T185918Z" creationid="KJ" creationdate="20240603T184828Z">
-        <seg>Usuń spacje na początku i na końcu segmentu w projektach niesegmentowanych</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240604T065028Z" creationid="KJ" creationdate="20240603T184828Z">
+        <seg>Usuń białe znaki na początku i na końcu segmentu w projektach niesegmentowanych</seg>
       </tuv>
     </tu>
     <tu>
