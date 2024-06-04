@@ -4616,6 +4616,22 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240604T055925Z" creationid="KJ" creationdate="20240604T055925Z">
+        <seg>Pokaż najpierw dłuższe terminy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="pl" changeid="KJ" changedate="20240604T055846Z" creationid="KJ" creationdate="20240604T055846Z">
+        <seg>Pokaż najpierw termin źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;target term first</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T211128Z" creationid="KJ" creationdate="20240603T205915Z">
