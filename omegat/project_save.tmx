@@ -393,8 +393,8 @@
       <tuv lang="en">
         <seg>&amp;Install new language...</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240604T060308Z" creationid="KJ" creationdate="20240604T060308Z">
-        <seg>Zainstaluj nowy język</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240604T060328Z" creationid="KJ" creationdate="20240604T060308Z">
+        <seg>Dodaj nowy język</seg>
       </tuv>
     </tu>
     <tu>
