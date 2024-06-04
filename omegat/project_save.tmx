@@ -391,6 +391,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>check</note>
       <tuv lang="en">
         <seg>&amp;Install new language...</seg>
       </tuv>
@@ -1965,6 +1966,7 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Custom Table - tablica spersonalizowana</note>
       <tuv lang="en">
         <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
       </tuv>
@@ -4891,6 +4893,7 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>colon</note>
       <tuv lang="en">
         <seg>Spellchecking dictionaries location:</seg>
       </tuv>
