@@ -5413,8 +5413,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Unique segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Segmenty unikalne</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240604T071146Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Niepowtarzające się segmenty</seg>
       </tuv>
     </tu>
     <tu>
