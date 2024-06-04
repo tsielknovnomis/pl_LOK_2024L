@@ -5317,8 +5317,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Uncheck the box to disable it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T183839Z" creationid="KJ" creationdate="20240603T183806Z">
-        <seg>Aby wyłączyć filtr usuń zaznaczenie.</seg>
+      <tuv lang="pl" changeid="KJ" changedate="20240604T063740Z" creationid="KJ" creationdate="20240603T183806Z">
+        <seg>Aby wyłączyć filtr, usuń zaznaczenie.</seg>
       </tuv>
     </tu>
     <tu>
