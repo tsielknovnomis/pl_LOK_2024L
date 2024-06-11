@@ -1971,8 +1971,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240604T061756Z" creationid="KJ" creationdate="20240603T211436Z">
-        <seg>Kliknij dwukrotnie na znaki lub zaznacz je i naciśnij klawisz Insert, aby dodać je do tabeli spersonalizowanej.</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T063210Z" creationid="KJ" creationdate="20240603T211436Z">
+        <seg>Kliknij dwukrotnie na znaki lub zaznacz je i naciśnij klawisz Insert, aby dodać je do tablicy spersonalizowanej.</seg>
       </tuv>
     </tu>
     <tu>
