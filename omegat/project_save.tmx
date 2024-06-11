@@ -667,8 +667,8 @@
       <tuv lang="en">
         <seg>&amp;Restore OmegaT Window</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071719Z" creationid="KJ" creationdate="20240513T091503Z">
-        <seg>P$rzywróc okno OmegaT</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071931Z" creationid="KJ" creationdate="20240513T091503Z">
+        <seg>$rzywróc okno OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -5511,8 +5511,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071713Z" creationid="KJ" creationdate="20240513T091344Z">
-        <seg>&amp;Użyj czcionki zastępczej&amp;</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071935Z" creationid="KJ" creationdate="20240513T091344Z">
+        <seg>&amp;Użyj czcionki zastępczej</seg>
       </tuv>
     </tu>
     <tu>
