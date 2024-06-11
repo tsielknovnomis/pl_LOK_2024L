@@ -2016,11 +2016,12 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Polish special chars not diplaying correctly in Terminal</note>
       <tuv lang="en">
         <seg>ERROR: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>BŁĄD: {0}</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T080239Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>BLAD: {0}</seg>
       </tuv>
     </tu>
     <tu>
