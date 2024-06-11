@@ -1834,8 +1834,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240604T064839Z" creationid="KJ" creationdate="20240513T090057Z">
-        <seg>Pokaż białe znaki</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071609Z" creationid="KJ" creationdate="20240513T090057Z">
+        <seg>P&amp;okaż białe znaki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,8 +1858,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Display &amp;Bidi Control Characters</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240521T070455Z" creationid="KJ" creationdate="20240513T090714Z">
-        <seg>Pokaż znaki sterujące kierunkiem tekstu</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071621Z" creationid="KJ" creationdate="20240513T090714Z">
+        <seg>P&amp;okaż znaki sterujące kierunkiem tekstu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1874,24 +1874,24 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T090136Z" creationid="KJ" creationdate="20240513T085913Z">
-        <seg>Pokaż spacje nierozdzielające</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071606Z" creationid="KJ" creationdate="20240513T085913Z">
+        <seg>P&amp;okaż spacje nierozdzielające</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display &amp;Paragraph Delimitations</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240521T062742Z" creationid="KJ" creationdate="20240521T062742Z">
-        <seg>Pokaż ograniczenia akapitów</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071553Z" creationid="KJ" creationdate="20240521T062742Z">
+        <seg>P&amp;okaż ograniczenia akapitów</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T085957Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Pokaż &amp;segmenty źródłowe</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071557Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>P&amp;okaż &amp;segmenty źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2747,40 +2747,40 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Highlight &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T090748Z" creationid="KJ" creationdate="20240513T090748Z">
-        <seg>Podświetl automatycznie uzupełnione segmenty</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071637Z" creationid="KJ" creationdate="20240513T090748Z">
+        <seg>&amp;Podświetl automatycznie uzupełnione segmenty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T072338Z" creationid="KJ" creationdate="20240423T072338Z">
-        <seg>Podświetl przetłumaczone segmenty</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071540Z" creationid="KJ" creationdate="20240423T072338Z">
+        <seg>&amp;Podświetl przetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T072351Z" creationid="KJ" creationdate="20240423T072351Z">
-        <seg>Podświetl nieprzetłumaczone segmenty</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071547Z" creationid="KJ" creationdate="20240423T072351Z">
+        <seg>&amp;Podświetl nieprzetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight Repeated Se&amp;gments</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T072443Z" creationid="KJ" creationdate="20240423T072443Z">
-        <seg>Podświetl powtarzające się segmenty</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071601Z" creationid="KJ" creationdate="20240423T072443Z">
+        <seg>&amp;Podświetl powtarzające się segmenty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T072457Z" creationid="KJ" creationdate="20240423T072457Z">
-        <seg>Podświetl segmenty zawierające notatki</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071604Z" creationid="KJ" creationdate="20240423T072457Z">
+        <seg>&amp;Podświetl segmenty zawierające notatki</seg>
       </tuv>
     </tu>
     <tu>
