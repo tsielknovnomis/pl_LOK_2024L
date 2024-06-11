@@ -395,8 +395,8 @@
       <tuv lang="en">
         <seg>&amp;Install new language...</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240604T060328Z" creationid="KJ" creationdate="20240604T060308Z">
-        <seg>Dodaj nowy język</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T061349Z" creationid="KJ" creationdate="20240604T060308Z">
+        <seg>Dodaj nowy język...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1261,8 +1261,8 @@
       <tuv lang="en">
         <seg>Available languages:</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240604T060058Z" creationid="KJ" creationdate="20240604T060058Z">
-        <seg>Dostępne języki</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T061302Z" creationid="KJ" creationdate="20240604T060058Z">
+        <seg>Dostępne języki:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1552,8 +1552,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T130230Z" creationid="fw" creationdate="20240513T162517Z">
-        <seg>Zatwierdź Pliki Docelowe</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T061236Z" creationid="fw" creationdate="20240513T162517Z">
+        <seg>Zatwierdź pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4898,8 +4898,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Spellchecking dictionaries location:</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240604T060119Z" creationid="KJ" creationdate="20240604T060119Z">
-        <seg>Lokalizacja słowników sprawdzających pisownię</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T061336Z" creationid="KJ" creationdate="20240604T060119Z">
+        <seg>Lokalizacja słowników sprawdzających pisownię:</seg>
       </tuv>
     </tu>
     <tu>
