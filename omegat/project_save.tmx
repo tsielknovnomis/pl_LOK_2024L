@@ -65,8 +65,8 @@
       <tuv lang="en">
         <seg>&amp;Allow local post-processing commands</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T185946Z" creationid="mmstaw" creationdate="20240506T185806Z">
-        <seg>Zezwalaj na lok&amp;alne komendy przetwarzania końcowego</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T061812Z" creationid="mmstaw" creationdate="20240506T185806Z">
+        <seg>Zezwalaj na lok&amp;alne polecenia po przetwarzaniu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,7 +2600,6 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
-      <note>check</note>
       <tuv lang="en">
         <seg>Global post-processing commands</seg>
       </tuv>
@@ -4354,7 +4353,6 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
-      <note>check</note>
       <tuv lang="en">
         <seg>Saving and Output Options</seg>
       </tuv>
@@ -4683,7 +4681,6 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
-      <note>check</note>
       <tuv lang="en">
         <seg>Skipping.</seg>
       </tuv>
