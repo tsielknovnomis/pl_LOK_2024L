@@ -346,8 +346,8 @@
       <tuv lang="en">
         <seg>&amp;Go To</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T062907Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Przejdź do</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T064041Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przejdź &amp;do</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,8 +362,8 @@
       <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T130054Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Pomoc</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T064048Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Po&amp;moc</seg>
       </tuv>
     </tu>
     <tu>
