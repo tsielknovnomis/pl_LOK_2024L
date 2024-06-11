@@ -1890,8 +1890,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071557Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>P&amp;okaż &amp;segmenty źródłowe</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T072441Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>P&amp;okaż segmenty źródłowe</seg>
       </tuv>
     </tu>
     <tu>
