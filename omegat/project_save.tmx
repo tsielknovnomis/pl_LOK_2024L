@@ -667,8 +667,8 @@
       <tuv lang="en">
         <seg>&amp;Restore OmegaT Window</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T091503Z" creationid="KJ" creationdate="20240513T091503Z">
-        <seg>&amp;Przywróc okno OmegaT</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071719Z" creationid="KJ" creationdate="20240513T091503Z">
+        <seg>P$rzywróc okno OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3204,16 +3204,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Mark &amp;Language Checker Issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T091153Z" creationid="KJ" creationdate="20240513T091153Z">
-        <seg>Zaznacz problemy językowe wymagające rozwiązania</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071643Z" creationid="KJ" creationdate="20240513T091153Z">
+        <seg>&amp;Zaznacz problemy językowe wymagające rozwiązania</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Gl&amp;ossary Matches</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T090758Z" creationid="KJ" creationdate="20240513T090758Z">
-        <seg>Zaznacz dopasowania z glosariuszy</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071641Z" creationid="KJ" creationdate="20240513T090758Z">
+        <seg>&amp;Zaznacz dopasowania z glosariuszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -5511,8 +5511,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240513T091344Z" creationid="KJ" creationdate="20240513T091344Z">
-        <seg>Użyj czcionki zastępczej</seg>
+      <tuv lang="pl" changeid="d5548" changedate="20240611T071713Z" creationid="KJ" creationdate="20240513T091344Z">
+        <seg>&amp;Użyj czcionki zastępczej&amp;</seg>
       </tuv>
     </tu>
     <tu>
