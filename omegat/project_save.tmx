@@ -3043,11 +3043,12 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Polish chars not displayed correctly in Terminal.</note>
       <tuv lang="en">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Jar użyty dla wtyczek: {0}</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T080651Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Jar uzyty dla wtyczek: {0}</seg>
       </tuv>
     </tu>
     <tu>
