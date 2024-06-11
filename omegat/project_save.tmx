@@ -1266,11 +1266,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Polish chars not displaying correctly in Terminal</note>
       <tuv lang="en">
         <seg>Available script engines:</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Dostępne silniki skryptowe:</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T080628Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Dostepne silniki skryptowe:</seg>
       </tuv>
     </tu>
     <tu>
