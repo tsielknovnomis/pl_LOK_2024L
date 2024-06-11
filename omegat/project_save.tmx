@@ -2229,7 +2229,7 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Error: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240611T081137Z" creationid="mmstaw" creationdate="20240519T135215Z">
+      <tuv lang="pl" changeid="SvK" changedate="20240611T081313Z" creationid="mmstaw" creationdate="20240519T135215Z">
         <seg>Blad: {0}</seg>
       </tuv>
     </tu>
