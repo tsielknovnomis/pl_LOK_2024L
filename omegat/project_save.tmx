@@ -2812,8 +2812,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>History Completions</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240611T062709Z">
-        <seg>Propozycje uzupełniana słowa</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T062946Z">
+        <seg>Propozycje uzupełniania słowa</seg>
       </tuv>
     </tu>
     <tu>
