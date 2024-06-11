@@ -290,8 +290,8 @@
       <tuv lang="en">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240521T072202Z" creationid="d55" creationdate="20230303T095024Z">
-        <seg>&amp;Włącz dokończenie słowa</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T062034Z" creationid="d55" creationdate="20230303T095024Z">
+        <seg>&amp;Włącz uzupełniane słowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2795,8 +2795,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>History &amp;Completion</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240521T071559Z" creationid="KJ" creationdate="20240513T092056Z">
-        <seg>Dokończenia słowa</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T062026Z" creationid="KJ" creationdate="20240513T092056Z">
+        <seg>Uzupełniane słowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2812,8 +2812,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>History Completions</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20231009T204557Z">
-        <seg>Uzupełniane słowa</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T062709Z">
+        <seg>Propozycje uzupełniana słowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4660,8 +4660,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Show &amp;target term first</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T211128Z" creationid="KJ" creationdate="20240603T205915Z">
-        <seg>Pokaż najpierw &amp;termin docelowy</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20240611T062228Z" creationid="KJ" creationdate="20240603T205915Z">
+        <seg>Pokaż najpierw &amp;termin docelowy </seg>
       </tuv>
     </tu>
     <tu>
