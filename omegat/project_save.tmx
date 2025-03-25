@@ -4200,8 +4200,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="pl" changeid="akossek" changedate="20230414T081224Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Zamień używając tłumaczenia &amp;maszynowego</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250325T081105Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zastąp tłumaczeniem maszynowym</seg>
       </tuv>
     </tu>
     <tu>
