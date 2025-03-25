@@ -2746,6 +2746,7 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&amp;Podświetl segmenty uzupełnione automatycznie?</note>
       <tuv lang="en">
         <seg>Highlight &amp;Auto-Populated Segments</seg>
       </tuv>
