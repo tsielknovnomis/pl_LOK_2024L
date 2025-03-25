@@ -515,8 +515,8 @@
       <tuv lang="en">
         <seg>&amp;Next Segment from tm/auto/</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T071844Z" creationid="KJ" creationdate="20240423T071325Z">
-        <seg>Następny segment z folderu tm/auto/</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T081940Z" creationid="KJ" creationdate="20240423T071325Z">
+        <seg>Następny segment z podfolderu tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -587,8 +587,8 @@
       <tuv lang="en">
         <seg>&amp;Previous Segment from tm/auto/</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T071852Z" creationid="KJ" creationdate="20240423T071342Z">
-        <seg>Poprzedni segment z folderu tm/auto/</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T081951Z" creationid="KJ" creationdate="20240423T071342Z">
+        <seg>Poprzedni segment z podfolderu tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -1835,8 +1835,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071609Z" creationid="KJ" creationdate="20240513T090057Z">
-        <seg>P&amp;okaż białe znaki</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T082425Z" creationid="KJ" creationdate="20240513T090057Z">
+        <seg>Wyświetl białe znaki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1859,8 +1859,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Display &amp;Bidi Control Characters</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071621Z" creationid="KJ" creationdate="20240513T090714Z">
-        <seg>P&amp;okaż znaki sterujące kierunkiem tekstu</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T082439Z" creationid="KJ" creationdate="20240513T090714Z">
+        <seg>Wyświetl znaki sterujące kierunkiem tekstu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1875,24 +1875,24 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071606Z" creationid="KJ" creationdate="20240513T085913Z">
-        <seg>P&amp;okaż spacje nierozdzielające</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T082401Z" creationid="KJ" creationdate="20240513T085913Z">
+        <seg>Wyświetl spacje nierozdzielające</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display &amp;Paragraph Delimitations</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071553Z" creationid="KJ" creationdate="20240521T062742Z">
-        <seg>P&amp;okaż ograniczenia akapitów</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T082258Z" creationid="KJ" creationdate="20240521T062742Z">
+        <seg>Wyświetl ograniczenia akapitów</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T072441Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>P&amp;okaż segmenty źródłowe</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T082314Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyświetl segmenty źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2773,8 +2773,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Highlight Repeated Se&amp;gments</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071601Z" creationid="KJ" creationdate="20240423T072443Z">
-        <seg>&amp;Podświetl powtarzające się segmenty</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T082349Z" creationid="KJ" creationdate="20240423T072443Z">
+        <seg>Podświetl powtarzające się segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -3431,8 +3431,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>N&amp;ext Segment from tm/enforce/</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T071830Z" creationid="KJ" creationdate="20240423T071830Z">
-        <seg>Następny segment z folderu tm/enforce/</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T082004Z" creationid="KJ" creationdate="20240423T071830Z">
+        <seg>Następny segment z podfolderu tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3791,8 +3791,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>P&amp;revious Segment from tm/enforce/</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T071918Z" creationid="KJ" creationdate="20240423T071918Z">
-        <seg>Poprzedni segment z folderu tm/enforce/</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T082015Z" creationid="KJ" creationdate="20240423T071918Z">
+        <seg>Poprzedni segment z podfolderu tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
@@ -5515,8 +5515,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071935Z" creationid="KJ" creationdate="20240513T091344Z">
-        <seg>&amp;Użyj czcionki zastępczej</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250325T082614Z" creationid="KJ" creationdate="20240513T091344Z">
+        <seg>Wymuś użycie czcionki zastępczej</seg>
       </tuv>
     </tu>
     <tu>
