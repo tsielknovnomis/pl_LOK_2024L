@@ -681,6 +681,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T071411Z" creationid="M_Kossak" creationdate="20250401T071352Z">
+        <seg>Resetuj opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restart</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250401T062417Z" creationid="M_Kossak" creationdate="20250401T062417Z">
@@ -2108,7 +2116,7 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T071405Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Edytuj</seg>
       </tuv>
     </tu>
