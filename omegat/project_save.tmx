@@ -2363,6 +2363,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250401T071824Z" creationid="UK" creationdate="20250401T071824Z">
+        <seg>Przy wczytywaniu zasad segmentacji wystąpiły wyjątki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exclude orphan segments</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2967,8 +2975,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250401T071537Z" creationid="KJ" creationdate="20240603T190010Z">
-        <seg>Jeśli kodowanie posiada deklarację, \nie będzie można go edytować niezależnie od ustawień </seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T071616Z" creationid="KJ" creationdate="20240603T190010Z">
+        <seg>Jeśli kodowanie posiada deklarację, nie będzie można go edytować niezależnie od ustawień. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5870,6 +5878,22 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wyrazów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250401T071631Z" creationid="UK" creationdate="20250401T071631Z">
+        <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250401T071721Z" creationid="UK" creationdate="20250401T071721Z">
+        <seg>Opcje filtrowania XHTML</seg>
       </tuv>
     </tu>
     <tu>
