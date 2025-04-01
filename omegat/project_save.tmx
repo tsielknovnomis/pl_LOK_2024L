@@ -2967,8 +2967,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T190010Z" creationid="KJ" creationdate="20240603T190010Z">
-        <seg>Jeśli kodowanie posiada deklarację, \nie będzie można go edytować niezależnie od ustawień.</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T071537Z" creationid="KJ" creationdate="20240603T190010Z">
+        <seg>Jeśli kodowanie posiada deklarację, \nie będzie można go edytować niezależnie od ustawień </seg>
       </tuv>
     </tu>
     <tu>
@@ -3202,6 +3202,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Kursor zablokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250401T071359Z" creationid="UK" creationdate="20250401T071359Z">
+        <seg>Nazwa języka</seg>
       </tuv>
     </tu>
     <tu>
@@ -3690,6 +3698,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190810Z" creationid="mmstaw" creationdate="20240506T190810Z">
         <seg>Nieustawione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250401T071500Z" creationid="UK" creationdate="20250401T071500Z">
+        <seg>Uwaga: Ustawienie kodowania pliku źródłowego w formacie HHC i HHK działa tylko wtedy, kiedy kodowania nie zadeklarowano wewnątrz pliku.</seg>
       </tuv>
     </tu>
     <tu>
