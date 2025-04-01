@@ -2862,8 +2862,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Highlight Segments with Alternative Translation</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250401T062835Z" creationid="UK" creationdate="20250401T062835Z">
-        <seg>p</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T070155Z" creationid="UK" creationdate="20250401T062835Z">
+        <seg>Podświetl segmenty z alternatywnym tłumaczeniem</seg>
       </tuv>
     </tu>
     <tu>
