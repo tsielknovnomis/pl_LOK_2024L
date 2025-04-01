@@ -208,6 +208,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T065756Z" creationid="M_Kossak" creationdate="20250401T065756Z">
+        <seg>Obecny dokument źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T210230Z" creationid="d55" creationdate="20230310T094122Z">
@@ -300,6 +308,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>&amp;Wyszukiwanie dokładne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T065746Z" creationid="M_Kossak" creationdate="20250401T065746Z">
+        <seg>Eksportowane pamięci tłumaczeniowe</seg>
       </tuv>
     </tu>
     <tu>
