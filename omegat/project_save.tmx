@@ -1729,8 +1729,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create &amp;Translated Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T071341Z" creationid="fw" creationdate="20240513T162731Z">
-        <seg> dokumenty docelowe</seg>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T073055Z" creationid="fw" creationdate="20240513T162731Z">
+        <seg>Utwórz dokumenty docelowe</seg>
       </tuv>
     </tu>
     <tu>
