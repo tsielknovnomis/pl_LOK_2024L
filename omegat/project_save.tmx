@@ -4914,6 +4914,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T062937Z" creationid="A. Sośnicka" creationdate="20250401T062937Z">
+        <seg>Błędy w pisowni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T095324Z" creationid="d55" creationdate="20230310T095324Z">
