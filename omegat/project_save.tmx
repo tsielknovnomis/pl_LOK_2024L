@@ -523,8 +523,8 @@
       <tuv lang="en">
         <seg>&amp;Next Segment</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Następny &amp;segment</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071131Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Następny segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -595,8 +595,8 @@
       <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
-      <tuv lang="pl" changeid="d55" changedate="20230414T085538Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Pop&amp;rzedni segment</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071140Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Poprzedni segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -763,8 +763,8 @@
       <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="pl" changeid="d55" changedate="20230414T085454Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>N&amp;umer segmentu...</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071212Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Numer segmentu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1284,8 +1284,8 @@
       <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240423T071235Z" creationid="KJ" creationdate="20240423T071235Z">
-        <seg>Segmenty uzupełnione automatycznie</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071319Z" creationid="KJ" creationdate="20240423T071235Z">
+        <seg>Automatyczne wypełnianie segmentów</seg>
       </tuv>
     </tu>
     <tu>
@@ -1963,16 +1963,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Display &amp;Paragraph Delimitations</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250325T082258Z" creationid="KJ" creationdate="20240521T062742Z">
-        <seg>Wyświetl ograniczenia akapitów</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071412Z" creationid="KJ" creationdate="20240521T062742Z">
+        <seg>Wyświetl granice akapitów</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250325T082314Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wyświetl segmenty źródłowe</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071417Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyświetl &amp;segmenty źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,16 +2854,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Highlight &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071540Z" creationid="KJ" creationdate="20240423T072338Z">
-        <seg>&amp;Podświetl przetłumaczone segmenty</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071358Z" creationid="KJ" creationdate="20240423T072338Z">
+        <seg>Podświetl przetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Highlight &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071547Z" creationid="KJ" creationdate="20240423T072351Z">
-        <seg>&amp;Podświetl nieprzetłumaczone segmenty</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071406Z" creationid="KJ" creationdate="20240423T072351Z">
+        <seg>Podświetl nieprzetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -2878,8 +2878,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Highlight Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T071604Z" creationid="KJ" creationdate="20240423T072457Z">
-        <seg>&amp;Podświetl segmenty zawierające notatki</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071424Z" creationid="KJ" creationdate="20240423T072457Z">
+        <seg>Podświetl segmenty z notatkami</seg>
       </tuv>
     </tu>
     <tu>
@@ -3616,8 +3616,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Następny &amp;przetłumaczony segment</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071116Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Następny przetłumaczony segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -3632,16 +3632,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Next N&amp;ote</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Następna n&amp;otatka</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071146Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Następna notatka</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Nastepny uni&amp;kalny segment</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071217Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nastepny unikalny segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -5009,8 +5009,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Źródło wybranego &amp;dopasowania</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250401T071023Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Źródło wybranego dopasowania</seg>
       </tuv>
     </tu>
     <tu>
