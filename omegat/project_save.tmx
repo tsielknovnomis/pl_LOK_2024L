@@ -2788,6 +2788,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Segments with Alternative Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250401T062835Z" creationid="UK" creationdate="20250401T062835Z">
+        <seg>p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>History</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230303T093609Z" creationid="d55" creationdate="20230303T093609Z">
