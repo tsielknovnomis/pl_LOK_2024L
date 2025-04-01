@@ -3152,16 +3152,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063641Z" creationid="A. Sośnicka" creationdate="20250401T063641Z">
-        <seg>Language Tool</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063834Z" creationid="A. Sośnicka" creationdate="20250401T063641Z">
+        <seg>LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>LanguageTool Issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063629Z" creationid="A. Sośnicka" creationdate="20250401T063629Z">
-        <seg>Problemy z Language Tool</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063831Z" creationid="A. Sośnicka" creationdate="20250401T063629Z">
+        <seg>Problemy z LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
