@@ -3358,6 +3358,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250401T070919Z" creationid="Patryk_Świech" creationdate="20250401T070856Z">
+        <seg>Hasło głównego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Master password:</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190559Z" creationid="mmstaw" creationdate="20240506T190559Z">
@@ -4763,6 +4771,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T203211Z" creationid="mmstaw" creationdate="20240505T203211Z">
         <seg>Oznacz tłumaczenie jako puste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250401T071153Z" creationid="Patryk_Świech" creationdate="20250401T071153Z">
+        <seg>Ustaw hasło główne, żeby chronić swoje prywatne dane.</seg>
       </tuv>
     </tu>
     <tu>
