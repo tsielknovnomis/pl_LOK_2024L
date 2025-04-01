@@ -4591,6 +4591,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T065657Z" creationid="A. Sośnicka" creationdate="20250401T065657Z">
+        <seg>Wybierz typ problemu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4651,6 +4659,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T183751Z" creationid="KJ" creationdate="20240603T183751Z">
         <seg>Wybierz filtr i naciśnij Edytuj... lub Ustawienia... aby go dostosować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T065737Z" creationid="A. Sośnicka" creationdate="20250401T065737Z">
+        <seg>Wybierz typ problemu do sprawdzenia.</seg>
       </tuv>
     </tu>
     <tu>
