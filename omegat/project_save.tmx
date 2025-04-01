@@ -1534,8 +1534,8 @@
       <tuv lang="en">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T130259Z" creationid="fw" creationdate="20240513T162505Z">
-        <seg>Zatwierdź Pliki Źródłowe</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T063025Z" creationid="fw" creationdate="20240513T162505Z">
+        <seg>Zatwierdź pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1657,8 +1657,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create &amp;Translated Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T121814Z" creationid="fw" creationdate="20240513T162731Z">
-        <seg>Utwórz Przetłumaczone Pliki</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T063042Z" creationid="fw" creationdate="20240513T162731Z">
+        <seg>Utwórz przetłumaczone pliki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1673,8 +1673,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T121834Z" creationid="fw" creationdate="20240513T162756Z">
-        <seg>Utwórz Obecny Przetłumaczony Plik</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T063055Z" creationid="fw" creationdate="20240513T162756Z">
+        <seg>Utwórz obecny przetłumaczony plik</seg>
       </tuv>
     </tu>
     <tu>
