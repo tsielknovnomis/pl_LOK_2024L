@@ -3134,6 +3134,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250401T063551Z" creationid="Patryk_Świech" creationdate="20250401T063551Z">
+        <seg>Problemy z LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
