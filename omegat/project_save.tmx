@@ -938,6 +938,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063053Z" creationid="A. Sośnicka" creationdate="20250401T063053Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- verify that their format is supported by OmegaT:
 	  if local filter settings are enabled
 	  use Project &gt; Properties... &gt; Local File Filters...,
@@ -1078,6 +1086,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Dodaj wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063102Z" creationid="A. Sośnicka" creationdate="20250401T063102Z">
+        <seg>Dodaj do słownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -2865,6 +2881,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T190010Z" creationid="KJ" creationdate="20240603T190010Z">
         <seg>Jeśli kodowanie posiada deklarację, \nie będzie można go edytować niezależnie od ustawień.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063109Z" creationid="A. Sośnicka" creationdate="20250401T063109Z">
+        <seg>Ignoruj</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,6 +4938,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063041Z" creationid="A. Sośnicka" creationdate="20250401T063041Z">
+        <seg>Pisownia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spelling Issues</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T062937Z" creationid="A. Sośnicka" creationdate="20250401T062937Z">
@@ -4990,6 +5022,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092323Z" creationid="d55" creationdate="20230310T092323Z">
         <seg>Opcje dopasowywania TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063211Z" creationid="A. Sośnicka" creationdate="20250401T063211Z">
+        <seg>Problemy ze znacznikami</seg>
       </tuv>
     </tu>
     <tu>
