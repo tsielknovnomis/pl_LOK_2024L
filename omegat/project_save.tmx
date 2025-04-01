@@ -1170,6 +1170,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063521Z" creationid="A. Sośnicka" creationdate="20250401T063521Z">
+        <seg>Zastosuj &amp;popraw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T191955Z" creationid="KJ" creationdate="20240603T191955Z">
