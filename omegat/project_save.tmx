@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T130326Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Przejrzyj Zawartość Projektu</seg>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070522Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przejrzyj zawartość projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1753,8 +1753,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create MED Project...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T124337Z" creationid="d55" creationdate="20230303T093126Z">
-        <seg>Utwórz Projekt MED...</seg>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070508Z" creationid="d55" creationdate="20230303T093126Z">
+        <seg>Utwórz projekt MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3816,8 +3816,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Open MED Project...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T124345Z" creationid="d55" creationdate="20230303T093055Z">
-        <seg>Otwórz Projekt MED...</seg>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070502Z" creationid="d55" creationdate="20230303T093055Z">
+        <seg>Otwórz projekt MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4833,8 +4833,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>So&amp;urce Files...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T124628Z" creationid="fw" creationdate="20240513T162945Z">
-        <seg>Pliki Źródłowe...</seg>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070515Z" creationid="fw" creationdate="20240513T162945Z">
+        <seg>Pliki źródłowe...</seg>
       </tuv>
     </tu>
     <tu>
