@@ -1036,16 +1036,16 @@
       <tuv lang="en">
         <seg>Add &amp;Files...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T124708Z" creationid="fw" creationdate="20240513T161056Z">
-        <seg>Dodaj Pliki...</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T062917Z" creationid="fw" creationdate="20240513T161056Z">
+        <seg>Dodaj pliki...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Add Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T121714Z" creationid="fw" creationdate="20240513T161030Z">
-        <seg>Dodaj Pliki Do Foldera Źródłowego</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T062950Z" creationid="fw" creationdate="20240513T161030Z">
+        <seg>Dodaj pliki do foldera źródłowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -1060,8 +1060,8 @@
       <tuv lang="en">
         <seg>Add MediaWiki Pa&amp;ge...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T121726Z" creationid="SvK" creationdate="20240423T063851Z">
-        <seg>Dodaj Stronę MediaWiki...</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T062957Z" creationid="SvK" creationdate="20240423T063851Z">
+        <seg>Dodaj stronę MediaWiki...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1955,8 +1955,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Do&amp;wnload Team Project...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T122650Z" creationid="SvK" creationdate="20240423T061404Z">
-        <seg>Pobierz Projekt Zepołowy...</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T062850Z" creationid="SvK" creationdate="20240423T061404Z">
+        <seg>Pobierz projekt zepołowy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3712,8 +3712,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Op&amp;en Recent...</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T124129Z" creationid="SvK" creationdate="20240423T061855Z">
-        <seg>Ostatnie Projekty...</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T062859Z" creationid="SvK" creationdate="20240423T061855Z">
+        <seg>Ostatnie projekty...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4033,8 +4033,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Re&amp;load</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T121730Z" creationid="fw" creationdate="20240423T063930Z">
-        <seg>Załaduj Ponownie</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250401T063014Z" creationid="fw" creationdate="20240423T063930Z">
+        <seg>Załaduj ponownie</seg>
       </tuv>
     </tu>
     <tu>
