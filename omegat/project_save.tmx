@@ -914,6 +914,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070058Z" creationid="M_Kossak" creationdate="20250401T070058Z">
+        <seg>Nadpisywalny glosariusz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;lower case</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T153410Z" creationid="mmstaw" creationdate="20240505T153410Z">
@@ -1392,6 +1400,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>S&amp;kopiuj wszystkie dane do schowka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070052Z" creationid="M_Kossak" creationdate="20250401T070029Z">
+        <seg>Obecny dokument docelowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -3882,6 +3898,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="UK" changedate="20250325T082015Z" creationid="KJ" creationdate="20240423T071918Z">
         <seg>Poprzedni segment z podfolderu tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070022Z" creationid="M_Kossak" creationdate="20250401T070022Z">
+        <seg>Folder projektu</seg>
       </tuv>
     </tu>
     <tu>
