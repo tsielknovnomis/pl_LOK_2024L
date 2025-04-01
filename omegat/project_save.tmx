@@ -2218,6 +2218,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your master password</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T071430Z" creationid="A. Sośnicka" creationdate="20250401T071430Z">
+        <seg>Podaj swoje hasło główne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T211601Z" creationid="KJ" creationdate="20240603T211601Z">
@@ -3368,8 +3376,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Master Password</seg>
       </tuv>
-      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250401T070919Z" creationid="Patryk_Świech" creationdate="20250401T070856Z">
-        <seg>Hasło głównego</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T070916Z" creationid="A. Sośnicka" creationdate="20250401T070853Z">
+        <seg>Hasło główne</seg>
       </tuv>
     </tu>
     <tu>
@@ -5870,6 +5878,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Musisz wprowadzić numer od 1 do {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T071218Z" creationid="A. Sośnicka" creationdate="20250401T071218Z">
+        <seg>Komunikat z prośbą o podanie tego hasła pojawi się przy każdym uruchomieniu programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
