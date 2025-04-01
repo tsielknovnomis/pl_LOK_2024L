@@ -665,6 +665,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T062417Z" creationid="M_Kossak" creationdate="20250401T062417Z">
+        <seg>&amp;Uruchom ponownie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restore OmegaT Window</seg>
       </tuv>
       <tuv lang="pl" changeid="d5548" changedate="20240611T072045Z" creationid="KJ" creationdate="20240513T091503Z">
