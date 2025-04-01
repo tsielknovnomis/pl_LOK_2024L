@@ -1721,8 +1721,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create &amp;Translated Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250401T063042Z" creationid="fw" creationdate="20240513T162731Z">
-        <seg>Utwórz przetłumaczone pliki</seg>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070756Z" creationid="fw" creationdate="20240513T162731Z">
+        <seg>Utwórz dokumenty docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1737,8 +1737,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250401T063055Z" creationid="fw" creationdate="20240513T162756Z">
-        <seg>Utwórz obecny przetłumaczony plik</seg>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070817Z" creationid="fw" creationdate="20240513T162756Z">
+        <seg>Utwórz aktualnie tłumaczony dokument</seg>
       </tuv>
     </tu>
     <tu>
