@@ -50,7 +50,8 @@ export translation memory	wyeksportuj pamięć tłumaczeniową
 export translation memory folder	wyeksportuj folder pamięci tłumaczeniowej	
 external program	zewnętrzny program	
 external search	wyszukiwanie zewnętrzne	
-fallback	przywracanie?	
+fallback  bazowa  (w przypadku czcionki)	
+fallback  rezerwa  (w przypadku identyfikatora)
 false start of comment tag	błędne otwarcie znacznika komentarza	
 file encode	kodowanie pliku	
 file filter	filtr pliku	
