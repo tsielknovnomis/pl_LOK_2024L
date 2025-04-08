@@ -3344,8 +3344,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Location</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Położenie</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250408T065233Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Lokalizacja</seg>
       </tuv>
     </tu>
     <tu>
