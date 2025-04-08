@@ -91,7 +91,8 @@ left-to-right mark	Znacznik od lewej do prawej
 line length	długość linii	
 local file	plik lokalny	
 local project	projekt lokalny	
-local segmentation rule	lokalna zasada segmentacji	
+local segmentation rule	lokalna zasada segmentacji
+location  lokalizacja
 LRM	Znacznik od lewej do prawej (ZLP)	
 machine translation	tłumaczenie maszynowe	
 master password	hasło główne	
