@@ -1028,8 +1028,8 @@
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
-      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250408T070752Z" creationid="Patryk_Świech" creationdate="20250408T070752Z">
-        <seg>Atrybut &amp;resname, jeśli jest dostępny</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250408T072553Z" creationid="Patryk_Świech" creationdate="20250408T070752Z">
+        <seg>&lt;trans-unit&gt; Atrybut &amp;resname, jeśli jest dostępny</seg>
       </tuv>
     </tu>
     <tu>
