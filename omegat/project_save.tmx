@@ -5892,8 +5892,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
-      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250408T071327Z" creationid="Patryk_Świech" creationdate="20250408T065905Z">
-        <seg>W przypadku braku dostępności identyfikator zostanie użyty jako rezerwa</seg>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250408T072100Z" creationid="Patryk_Świech" creationdate="20250408T065905Z">
+        <seg>W przypadku braku dostępności jako rezerwa zostanie użyty identyfikator (ID)</seg>
       </tuv>
     </tu>
     <tu>
