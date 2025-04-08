@@ -5964,8 +5964,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>all matching segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>wszystkie rezultaty</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250408T064533Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>wszystkie pasujące segmenty</seg>
       </tuv>
     </tu>
     <tu>
