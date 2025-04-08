@@ -5764,8 +5764,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250325T082614Z" creationid="KJ" creationdate="20240513T091344Z">
-        <seg>Wymuś użycie czcionki zastępczej</seg>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250408T065706Z" creationid="KJ" creationdate="20240513T091344Z">
+        <seg>Wymuś użycie czcionki bazowej</seg>
       </tuv>
     </tu>
     <tu>
@@ -5878,6 +5878,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T192132Z" creationid="KJ" creationdate="20240603T192132Z">
         <seg>Po przejściu do pustego segmentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250408T065905Z" creationid="Patryk_Świech" creationdate="20250408T065905Z">
+        <seg>W przypadku braku dostępu identyfikator zostanie użyty jako rezerwa</seg>
       </tuv>
     </tu>
     <tu>
