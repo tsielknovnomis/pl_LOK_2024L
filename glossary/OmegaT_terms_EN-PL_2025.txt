@@ -97,7 +97,7 @@ machine translation	tłumaczenie maszynowe
 master password	hasło główne	
 match	dopasowanie
 fuzzy match	dopasowanie rozmyte
-matching segment	liczba dopasowań	
+matching segment	pasujący segment	
 med project	projekt MED	
 mediawiki page	strona mediawiki	
 memory folder	folder pamięci	
