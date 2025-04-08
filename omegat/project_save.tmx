@@ -3768,8 +3768,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Number of matching segments:</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Liczba wyników:</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250408T064558Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Liczba pasujących segmentów:</seg>
       </tuv>
     </tu>
     <tu>
