@@ -112,8 +112,8 @@ omegat option	opcja omegat
 orphan segment	segment osierocony 	
 paragraph delimitation	rozgraniczenie akapitów	
 PO filter	filtr plików PO	
-post-processing	przetwarzanie końcowe	
-post-processing command	komenda przetwarzania końcowego	
+post-processing	po przetwarzaniu	
+post-processing command	komenda po przetwarzaniu	
 preferences > machine translation	preferencje > tłumaczenie maszynowe 	
 previous segment	poprzedni segment 	
 project content	zawartość projektu	
