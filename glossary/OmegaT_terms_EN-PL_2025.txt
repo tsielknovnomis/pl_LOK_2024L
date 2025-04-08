@@ -17,7 +17,8 @@ character table	tablica znaków
 check for updates	sprawdź dostępność aktualizacji	
 check issue	zbadaj problem	
 close block	blok zamykający	
-colours selection	wybór kolorów	
+colours selection	wybór kolorów
+command  polecenie
 comment tag	znacznik komentarza	
 configuration folder	folder konfiguracji	
 configuration folder	folder konfiguracji	
