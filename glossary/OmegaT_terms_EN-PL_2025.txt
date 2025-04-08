@@ -113,7 +113,7 @@ orphan segment	segment osierocony
 paragraph delimitation	rozgraniczenie akapitów	
 PO filter	filtr plików PO	
 post-processing	po przetwarzaniu	
-post-processing command	komenda po przetwarzaniu	
+post-processing command	polecenie po przetwarzaniu	
 preferences > machine translation	preferencje > tłumaczenie maszynowe 	
 previous segment	poprzedni segment 	
 project content	zawartość projektu	
