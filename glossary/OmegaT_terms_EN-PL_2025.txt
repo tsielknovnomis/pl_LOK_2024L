@@ -164,6 +164,7 @@ specified spellchecking dictionary folder	wybrany folder słownika sprawdzania p
 spellchecker	sprawdzanie pisowni	
 spellchecking dictionary	słownik sprawdzania pisowni	
 start of comment tag	otwarcie znacznika komentarza	
+stemming  stemming
 TaaS collection	kolekcja TaaS	
 TaaS terminology	terminologia TaaS	
 TaaS terminology lookup	wyszukiwanie terminologii TaaS	
