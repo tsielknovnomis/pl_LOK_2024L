@@ -3502,6 +3502,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T065730Z" creationid="A. Sośnicka" creationdate="20250415T065730Z">
+        <seg>Dopasuj grupy terminów, nawet jeśli terminy pojawiają się osobno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matching segments: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250408T065231Z" creationid="Patryk_Świech" creationdate="20250408T065207Z">
@@ -5862,6 +5870,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T191314Z" creationid="mmstaw" creationdate="20240506T191314Z">
         <seg>Użyj zapisu &amp;XML do pojedynczych znaczników (np. &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T065812Z" creationid="A. Sośnicka" creationdate="20250415T065812Z">
+        <seg>Użyj stemmingu</seg>
       </tuv>
     </tu>
     <tu>
