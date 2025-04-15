@@ -457,6 +457,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T070715Z" creationid="A. Sośnicka" creationdate="20250415T070715Z">
+        <seg>&amp;Układ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;License</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
