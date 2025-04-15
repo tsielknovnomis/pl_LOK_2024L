@@ -723,8 +723,8 @@
       <tuv lang="en">
         <seg>&amp;Restore OmegaT Window</seg>
       </tuv>
-      <tuv lang="pl" changeid="d5548" changedate="20240611T072045Z" creationid="KJ" creationdate="20240513T091503Z">
-        <seg>P&amp;rzywróc okno OmegaT</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T071315Z" creationid="KJ" creationdate="20240513T091503Z">
+        <seg>P&amp;rzywróć okno OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,6 +3938,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenasek" changedate="20230414T080311Z" creationid="magdalenasek" creationdate="20230414T080238Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T071432Z" creationid="A. Sośnicka" creationdate="20250415T071432Z">
+        <seg>OmegaT Default</seg>
       </tuv>
     </tu>
     <tu>
