@@ -3342,6 +3342,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T063753Z" creationid="Patryk_Świech" creationdate="20250415T063753Z">
+        <seg>Zewnętrzne wyszukiwanie lokalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File Filters</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T183259Z" creationid="KJ" creationdate="20240603T183259Z">
@@ -4863,6 +4871,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T063859Z" creationid="Patryk_Świech" creationdate="20250415T063859Z">
+        <seg>Zestawy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T195026Z" creationid="KJ" creationdate="20240603T195026Z">
@@ -5182,6 +5198,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Skracanie, bez znaczników i bez liczb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T063953Z" creationid="Patryk_Świech" creationdate="20250415T063953Z">
+        <seg>Przegląd</seg>
       </tuv>
     </tu>
     <tu>
