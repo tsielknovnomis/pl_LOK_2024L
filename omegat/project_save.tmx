@@ -4743,6 +4743,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search &amp;automatically</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T071016Z" creationid="Patryk_Świech" creationdate="20250415T071016Z">
+        <seg>Wyszukaj &amp;automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Dictionaries</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T210312Z" creationid="d55" creationdate="20230310T092636Z">
@@ -5514,6 +5522,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T071240Z" creationid="Patryk_Świech" creationdate="20250415T071240Z">
+        <seg>Motyw:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is not a plugin archive.</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T172102Z" creationid="mmstaw" creationdate="20240506T172102Z">
@@ -5922,6 +5938,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T071101Z" creationid="Patryk_Świech" creationdate="20250415T071101Z">
+        <seg>Użyj widoku &amp;skompresowanego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T092820Z" creationid="KJ" creationdate="20240513T091819Z">
@@ -5942,6 +5966,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T191314Z" creationid="mmstaw" creationdate="20240506T191314Z">
         <seg>Użyj zapisu &amp;XML do pojedynczych znaczników (np. &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;fuzzy matching</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T070959Z" creationid="Patryk_Świech" creationdate="20250415T070959Z">
+        <seg>Zastosuj dopasowywanie &amp;rozmyte</seg>
       </tuv>
     </tu>
     <tu>
