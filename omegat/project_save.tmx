@@ -4537,32 +4537,32 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Remaining Characters (w/o spaces)</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Znaków pozostało (bez spacji)</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250415T072437Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pozostałe znaki (bez spacji)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Remaining Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Segmentów pozostało</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250415T072252Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pozostałe segmenty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Remaining Words</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wyrazów pozostało</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250415T072357Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pozostałe wyrazy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Remaining:</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Pozostało:</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250415T072213Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pozostałe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6292,8 +6292,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Words</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wyrazów</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250415T072056Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyrazy</seg>
       </tuv>
     </tu>
     <tu>
