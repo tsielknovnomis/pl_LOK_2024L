@@ -136,6 +136,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072135Z" creationid="M_Kossak" creationdate="20250415T072135Z">
+        <seg>Autopropagacja tłumaczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -5255,6 +5263,22 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071925Z" creationid="M_Kossak" creationdate="20250415T071907Z">
+        <seg>Język plików źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072033Z" creationid="M_Kossak" creationdate="20250415T072033Z">
+        <seg>Tokenizator języka źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -5478,6 +5502,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="fw" changedate="20240513T161958Z" creationid="fw" creationdate="20240513T161958Z">
         <seg>pliki docelowe potwierdzone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072046Z" creationid="M_Kossak" creationdate="20250415T072046Z">
+        <seg>Tokenizator języka docelowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -5718,6 +5750,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071633Z" creationid="M_Kossak" creationdate="20250415T071633Z">
         <seg>Folder przetłumaczonych plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071947Z" creationid="M_Kossak" creationdate="20250415T071947Z">
+        <seg>Język przetłumaczonych plików</seg>
       </tuv>
     </tu>
     <tu>
