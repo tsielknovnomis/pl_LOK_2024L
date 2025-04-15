@@ -2499,6 +2499,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071650Z" creationid="M_Kossak" creationdate="20250415T071650Z">
+        <seg>Wyeksportuj folder pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2845,8 +2853,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Glossaries folder:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071318Z" creationid="M_Kossak" creationdate="20250415T071117Z">
-        <seg>Folder z glosariuszami</seg>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071611Z" creationid="M_Kossak" creationdate="20250415T071117Z">
+        <seg>Folder glosariuszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -5698,6 +5706,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071633Z" creationid="M_Kossak" creationdate="20250415T071633Z">
+        <seg>Folder przetłumaczonych plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated segments</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
@@ -5734,6 +5750,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Ostatnia modyfikacja tłumaczenia przez {0} w {1} na {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071811Z" creationid="M_Kossak" creationdate="20250415T071811Z">
+        <seg>Pamięci tłumaczeniowe do wyeksportowania</seg>
       </tuv>
     </tu>
     <tu>
