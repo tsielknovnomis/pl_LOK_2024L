@@ -5850,6 +5850,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072502Z" creationid="M_Kossak" creationdate="20250415T072502Z">
+        <seg>Folder pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories to export:</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071811Z" creationid="M_Kossak" creationdate="20250415T071811Z">
