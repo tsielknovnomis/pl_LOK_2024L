@@ -713,6 +713,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T072120Z" creationid="Patryk_Świech" creationdate="20250415T072120Z">
+        <seg>&amp;Cofnij kolor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190602Z" creationid="mmstaw" creationdate="20240506T190602Z">
