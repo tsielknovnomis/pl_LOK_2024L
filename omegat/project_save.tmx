@@ -2691,6 +2691,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T063701Z" creationid="A. Sośnicka" creationdate="20250415T063701Z">
+        <seg>Zewnętrzne wyszukiwanie globalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global File &amp;Filters...</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T092250Z" creationid="KJ" creationdate="20240513T092250Z">
