@@ -93,7 +93,7 @@ line length	długość linii
 local file	plik lokalny	
 local project	projekt lokalny	
 local segmentation rule	lokalna zasada segmentacji
-location  lokalizacja
+location  lokalizacja  
 LRM	Znacznik od lewej do prawej (ZLP)	
 machine translation	tłumaczenie maszynowe	
 master password	hasło główne	
