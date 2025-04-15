@@ -723,8 +723,8 @@
       <tuv lang="en">
         <seg>&amp;Reset Colour</seg>
       </tuv>
-      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T072120Z" creationid="Patryk_Świech" creationdate="20250415T072120Z">
-        <seg>&amp;Cofnij kolor</seg>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T072217Z" creationid="Patryk_Świech" creationdate="20250415T072120Z">
+        <seg>&amp;Usuń kolor</seg>
       </tuv>
     </tu>
     <tu>
