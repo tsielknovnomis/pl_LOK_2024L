@@ -104,6 +104,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T071713Z" creationid="Patryk_Świech" creationdate="20250415T071713Z">
+        <seg>&amp;Zastosuj inny rozmiar czcionki w okienku słownikach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T071635Z" creationid="Patryk_Świech" creationdate="20250415T071635Z">
+        <seg>&amp;Zastosuj tę czcionkę do danych tabelarycznych (listy plików źródłowych, statystyki itp.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply to all</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T100256Z" creationid="d55" creationdate="20230310T100256Z">
