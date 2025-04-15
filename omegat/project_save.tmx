@@ -1945,6 +1945,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T070841Z" creationid="Patryk_Świech" creationdate="20250415T070841Z">
+        <seg>Słowniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
