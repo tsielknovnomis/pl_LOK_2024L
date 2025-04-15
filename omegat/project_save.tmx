@@ -6162,6 +6162,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250415T070748Z" creationid="UK" creationdate="20250415T070748Z">
+        <seg>[{0}] „{1}” w tekście źródłowym; spodziewano się jednego z {2} w tłumaczeniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063757Z" creationid="A. Sośnicka" creationdate="20250401T063757Z">
