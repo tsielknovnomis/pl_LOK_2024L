@@ -1697,8 +1697,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Con&amp;figure</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T065412Z" creationid="A. Sośnicka" creationdate="20250415T065412Z">
-        <seg>Skonfiguruj</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T065841Z" creationid="A. Sośnicka" creationdate="20250415T065412Z">
+        <seg>Skon&amp;figuruj</seg>
       </tuv>
     </tu>
     <tu>
@@ -2035,8 +2035,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Display TBX &amp;glossaries context description</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T065614Z" creationid="A. Sośnicka" creationdate="20250415T065614Z">
-        <seg>Wyświetl opis kontekstu glosariuszy TBX</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T065853Z" creationid="A. Sośnicka" creationdate="20250415T065614Z">
+        <seg>Wyświetl opis kontekstu &amp;glosariuszy TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -4487,6 +4487,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T070110Z" creationid="A. Sośnicka" creationdate="20250415T070110Z">
+        <seg>Zastąp dopasowania podczas wstawiania tekstu źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250325T081616Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -5892,8 +5900,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Use &amp;stemming</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T065812Z" creationid="A. Sośnicka" creationdate="20250415T065812Z">
-        <seg>Użyj stemmingu</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T070008Z" creationid="A. Sośnicka" creationdate="20250415T065812Z">
+        <seg>Użyj &amp;stemmingu</seg>
       </tuv>
     </tu>
     <tu>
