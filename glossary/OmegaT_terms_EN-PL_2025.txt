@@ -21,7 +21,6 @@ colours selection	wybór kolorów
 command  polecenie
 comment tag	znacznik komentarza	
 configuration folder	folder konfiguracji	
-configuration folder	folder konfiguracji	
 ctype attribute	atrybut ctype	
 current segment	bieżący segment	
 current translation	bieżące tłumaczenie	
@@ -93,7 +92,7 @@ line length	długość linii
 local file	plik lokalny	
 local project	projekt lokalny	
 local segmentation rule	lokalna zasada segmentacji
-location  lokalizacja  
+location	lokalizacja  
 LRM	Znacznik od lewej do prawej (ZLP)	
 machine translation	tłumaczenie maszynowe	
 master password	hasło główne	
