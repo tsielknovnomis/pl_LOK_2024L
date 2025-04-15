@@ -18,7 +18,7 @@ check for updates	sprawdź dostępność aktualizacji
 check issue	zbadaj problem	
 close block	blok zamykający	
 colours selection	wybór kolorów
-command  polecenie
+command	polecenie	
 comment tag	znacznik komentarza	
 configuration folder	folder konfiguracji	
 ctype attribute	atrybut ctype	
@@ -49,8 +49,8 @@ export translation memory	wyeksportuj pamięć tłumaczeniową
 export translation memory folder	wyeksportuj folder pamięci tłumaczeniowej	
 external program	zewnętrzny program	
 external search	wyszukiwanie zewnętrzne	
-fallback  bazowa  (w przypadku czcionki)	
-fallback  rezerwa  (w przypadku identyfikatora)
+fallback	bazowa	(w przypadku czcionki)	
+fallback	rezerwa	(w przypadku identyfikatora)	
 false start of comment tag	błędne otwarcie znacznika komentarza	
 file encode	kodowanie pliku	
 file filter	filtr pliku	
@@ -92,13 +92,13 @@ line length	długość linii
 local file	plik lokalny	
 local project	projekt lokalny	
 local segmentation rule	lokalna zasada segmentacji
-location	lokalizacja  
+location	lokalizacja	
 LRM	Znacznik od lewej do prawej (ZLP)	
 machine translation	tłumaczenie maszynowe	
 master password	hasło główne	
 match	dopasowanie
 fuzzy match	dopasowanie rozmyte
-matching segment  pasujący segment	
+matching segment	pasujący segment	
 med project	projekt MED	
 mediawiki page	strona mediawiki	
 memory folder	folder pamięci	
@@ -163,7 +163,7 @@ specified spellchecking dictionary folder	wybrany folder słownika sprawdzania p
 spellchecker	sprawdzanie pisowni	
 spellchecking dictionary	słownik sprawdzania pisowni	
 start of comment tag	otwarcie znacznika komentarza	
-stemming  stemming
+stemming	stemming	
 TaaS collection	kolekcja TaaS	
 TaaS terminology	terminologia TaaS	
 TaaS terminology lookup	wyszukiwanie terminologii TaaS	
