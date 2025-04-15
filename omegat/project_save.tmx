@@ -392,6 +392,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T070331Z" creationid="A. Sośnicka" creationdate="20250415T070331Z">
+        <seg>&amp;Ignoruj dopasowania z bardzo odmienną pisownią wielką/małą literą (np. FOO vs. foo) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;In translation</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3562,6 +3570,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Osiągnięto maksymalną ilość wyników wyszukiwania{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T070350Z" creationid="A. Sośnicka" creationdate="20250415T070350Z">
+        <seg>Scalaj alternatywne definicje tego samego terminu</seg>
       </tuv>
     </tu>
     <tu>
