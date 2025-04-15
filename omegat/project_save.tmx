@@ -1420,6 +1420,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072252Z" creationid="M_Kossak" creationdate="20250415T072252Z">
+        <seg>&amp;Wybierz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back to the initial segment on close</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -1464,6 +1472,46 @@
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T215348Z" creationid="mmstaw" creationdate="20240505T215348Z">
         <seg>Blokuj tworzenie przetłumaczonych plików &amp;z błędami znaczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072245Z" creationid="M_Kossak" creationdate="20250415T072245Z">
+        <seg>&amp;Wybierz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072248Z" creationid="M_Kossak" creationdate="20250415T072248Z">
+        <seg>&amp;Wybierz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072258Z" creationid="M_Kossak" creationdate="20250415T072258Z">
+        <seg>&amp;Wybierz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse&amp;...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072239Z" creationid="M_Kossak" creationdate="20250415T072239Z">
+        <seg>&amp;Wybierz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072255Z" creationid="M_Kossak" creationdate="20250415T072255Z">
+        <seg>&amp;Wybierz...</seg>
       </tuv>
     </tu>
     <tu>
