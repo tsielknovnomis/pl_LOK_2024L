@@ -1186,6 +1186,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250415T071056Z" creationid="UK" creationdate="20250415T071056Z">
+        <seg>Wszystkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190955Z" creationid="mmstaw" creationdate="20240506T190955Z">
@@ -6270,6 +6278,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T091443Z" creationid="KJ" creationdate="20240513T091443Z">
         <seg>dla bieżącego segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250415T071113Z" creationid="UK" creationdate="20250415T071113Z">
+        <seg>{0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
