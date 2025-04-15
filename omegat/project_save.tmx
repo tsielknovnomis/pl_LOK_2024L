@@ -3638,6 +3638,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250415T063903Z" creationid="DK" creationdate="20250415T063903Z">
+        <seg>Nazwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New language and country</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T192000Z" creationid="KJ" creationdate="20240603T192000Z">
