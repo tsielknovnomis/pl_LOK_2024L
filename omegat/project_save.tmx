@@ -96,6 +96,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T065133Z" creationid="A. Sośnicka" creationdate="20250415T065133Z">
+        <seg>Z&amp;awsze potwierdzaj zakończenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply to all</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T100256Z" creationid="d55" creationdate="20230310T100256Z">
@@ -5814,6 +5822,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T092820Z" creationid="KJ" creationdate="20240513T091819Z">
         <seg>Zastosuj dopasowanie rozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T065212Z" creationid="A. Sośnicka" creationdate="20250415T065212Z">
+        <seg>&amp;TAB zmienia segment</seg>
       </tuv>
     </tu>
     <tu>
