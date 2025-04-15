@@ -1,7 +1,7 @@
 ﻿active segment	aktywny segment	
 active segment source	tekst źródłowy aktywnego segmentu	
 active segment target	tekst docelowy aktywnego segmentu	
-aligner	dopasowanie	
+aligner	zestawienie	
 alternative translation	alternatywne tłumaczenie	
 API key	klucz API	
 application startup	uruchamianie aplikacji	
@@ -68,7 +68,7 @@ filters configuration file	plik zawierający konfigurację filtrów
 folder	folder	
 Foo vs foo	FOO i foo	
 fuzzy match	dopasowanie rozmyte	
-fuzzy matching	dopasowania rozmyte	
+fuzzy matching	dopasowywanie rozmyte	
 global file filter	globalny filtr pliku	
 glossary	glosariusz	
 glossary entry	wpis do glosariusza	
@@ -185,19 +185,19 @@ tmx header	nagłówek TMX
 tmx level	TMX level	
 total characters	całkowita liczba znaków	
 total number of segments	całkowita liczba segmentów	
-translated document	tłumaczony dokument	
-translated file	tłumaczony plik	
-translated files language	język tłumaczonych plików	
-translated files folder	folder tłumaczonych plików 	
-translated segment	tłumaczony segment	
-translated unique segment	przetłumaczony unikalny segment	
+translated document	przetłumaczony dokument	
+translated file	przetłumaczony plik	
+translated files language	język przetłumaczonych plików	
+translated files folder	folder przetłumaczonych plików 	
+translated segment	przetłumaczony segment	
+translated unique segment	przetłumaczony niepowtarzający się segment	
 translation	tłumaczenie	
 translation memory	pamięć tłumaczeniowa	
 translation memory folder	folder pamięci tłumaczeniowej	
 translation unit	jednostka tłumaczeniowa	
 unique character	unikalny znak	
 unique remaining characters	pozostałe unikalne znaki	
-unique segment	unikalny segment	
+unique segment	niepowtarzający się segment	
 unknown plugin type	nieznany typ wtyczki	
 untranslated segment	nieprzetłumaczony segment 	
 use TAB	użyj klawisza TAB	
