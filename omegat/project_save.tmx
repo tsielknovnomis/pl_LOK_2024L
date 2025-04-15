@@ -1711,6 +1711,14 @@ Groß-, Kleinschreibung</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250415T065909Z" creationid="DK" creationdate="20250415T065909Z">
+        <seg>Zatwierdź:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
