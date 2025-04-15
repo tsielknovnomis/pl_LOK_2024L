@@ -1058,6 +1058,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250415T072631Z" creationid="UK" creationdate="20250415T072631Z">
+        <seg>50%-74%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250415T072620Z" creationid="UK" creationdate="20250415T072620Z">
+        <seg>75%-84%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250415T072612Z" creationid="UK" creationdate="20250415T072612Z">
+        <seg>85%-94%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>95%-100%:</seg>
       </tuv>
       <tuv lang="pl" changeid="BZ" changedate="20250415T063443Z" creationid="BZ" creationdate="20250415T063443Z">
