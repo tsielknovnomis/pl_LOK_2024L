@@ -1306,6 +1306,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T063753Z" creationid="DK" creationdate="20250429T063753Z">
+        <seg>Podczas ładowania skryptu wystąpił błąd: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T093842Z" creationid="d55" creationdate="20230310T093842Z">
@@ -6498,10 +6506,18 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T063618Z" creationid="DK" creationdate="20250429T063618Z">
+        <seg>anulowane (upłynęło {0} ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250429T063444Z" creationid="DK" creationdate="20250429T063444Z">
-        <seg>zakoczone (upłynęło {0} ms)</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250429T063601Z" creationid="DK" creationdate="20250429T063444Z">
+        <seg>zakończone (upłynęło {0} ms)</seg>
       </tuv>
     </tu>
     <tu>
