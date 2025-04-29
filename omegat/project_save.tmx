@@ -368,6 +368,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065515Z" creationid="DK" creationdate="20250429T065515Z">
+        <seg>Znajdź...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Finish</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
@@ -561,6 +569,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065406Z" creationid="DK" creationdate="20250429T065400Z">
+        <seg>Nowy skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="pl" changeid="fw" changedate="20240602T130154Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -717,6 +733,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>&amp;Zastąp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065545Z" creationid="DK" creationdate="20250429T065524Z">
+        <seg>Zastąp...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,6 +1138,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065335Z" creationid="DK" creationdate="20250429T065335Z">
+        <seg>&lt;brak&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250408T072553Z" creationid="Patryk_Świech" creationdate="20250408T070752Z">
@@ -1142,6 +1174,14 @@
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T092324Z" creationid="KJ" creationdate="20240513T092324Z">
         <seg>Folder &amp;konfiguracji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065455Z" creationid="DK" creationdate="20250429T065455Z">
+        <seg>Uzyskaj dostęp do folderu skryptów</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1262,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Dodaj wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Script</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065108Z" creationid="DK" creationdate="20250429T065052Z">
+        <seg>Dodaj skrypt</seg>
       </tuv>
     </tu>
     <tu>
@@ -4070,10 +4118,26 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No script bound in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065047Z" creationid="DK" creationdate="20250429T065047Z">
+        <seg>Brak skryptu powiązanego z gniazdem. #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No script selected.</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Nie wybrano skryptu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No script set.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065012Z" creationid="DK" creationdate="20250429T065012Z">
+        <seg>Nie ustawiono skryptu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4743,6 +4807,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove Script</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065119Z" creationid="DK" creationdate="20250429T065119Z">
+        <seg>Usuń skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240604T065028Z" creationid="KJ" creationdate="20240603T184828Z">
@@ -5015,10 +5087,26 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065154Z" creationid="DK" creationdate="20250429T065058Z">
+        <seg>Skrypt ''{0}'' powiązany z gniazdem #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Script "{0}" saved.</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250429T064309Z" creationid="DK" creationdate="20250429T064309Z">
         <seg>Skrypt "{0}" został zapisany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script "{0}" unbound from slot #{1}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065218Z" creationid="DK" creationdate="20250429T065218Z">
+        <seg>Skrypt "{0}" odłączony od gniazda #{1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5315,6 +5403,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T203211Z" creationid="mmstaw" creationdate="20240505T203211Z">
         <seg>Oznacz tłumaczenie jako puste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065440Z" creationid="DK" creationdate="20250429T065440Z">
+        <seg>Ustaw folder skryptów...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6638,6 +6734,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250429T063601Z" creationid="DK" creationdate="20250429T063444Z">
         <seg>zakończone (upłynęło {0} ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065344Z" creationid="DK" creationdate="20250429T065344Z">
+        <seg>rozszerzenia:</seg>
       </tuv>
     </tu>
     <tu>
