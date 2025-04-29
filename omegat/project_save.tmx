@@ -2829,8 +2829,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>From 100% memory</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T063403Z" creationid="d55" creationdate="20230310T100958Z">
-        <seg>100-procentowe dopasowania z TM</seg>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T063952Z" creationid="d55" creationdate="20230310T100958Z">
+        <seg>100-procentowe dopasowania z pamięci</seg>
       </tuv>
     </tu>
     <tu>
@@ -2845,16 +2845,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>From MT memory</seg>
       </tuv>
-      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T062943Z" creationid="Patryk_Świech" creationdate="20250429T062943Z">
-        <seg>Z pamięci tłumaczenia maszynowego</seg>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T063938Z" creationid="Patryk_Świech" creationdate="20250429T062943Z">
+        <seg>Z pamięci tłumaczeniowejtłumaczenia maszynowego</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>From auto memory</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Z auto pamięci</seg>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T063859Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Z pamięci automatycznej</seg>
       </tuv>
     </tu>
     <tu>
@@ -3007,6 +3007,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Plik glosariusza: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T064104Z" creationid="Patryk_Świech" creationdate="20250429T064104Z">
+        <seg>TransTips</seg>
       </tuv>
     </tu>
     <tu>
@@ -3498,6 +3506,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Kursor zablokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T064057Z" creationid="Patryk_Świech" creationdate="20250429T064057Z">
+        <seg>&amp;Weryfikacja językowa</seg>
       </tuv>
     </tu>
     <tu>
