@@ -1494,8 +1494,8 @@
       <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
-      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T062808Z" creationid="Patryk_Świech" creationdate="20250429T062808Z">
-        <seg>Dwukierunkowy znak kontrolny</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T062817Z" creationid="A. Sośnicka" creationdate="20250429T062817Z">
+        <seg>Dwukierunkowe znaki kontrolne</seg>
       </tuv>
     </tu>
     <tu>
@@ -2821,16 +2821,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>From 100% memory</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20231009T211930Z" creationid="d55" creationdate="20230310T100958Z">
-        <seg>Z pamięci – 100%</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T063403Z" creationid="d55" creationdate="20230310T100958Z">
+        <seg>100-procentowe dopasowania z TM</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>From ICE memory</seg>
       </tuv>
-      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T063308Z" creationid="d55" creationdate="20230310T100942Z">
-        <seg>100-procentowe w tym samym kontekście</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T063309Z" creationid="d55" creationdate="20230310T100942Z">
+        <seg>100-procentowe dopasowania w tym samym kontekście</seg>
       </tuv>
     </tu>
     <tu>
@@ -4681,8 +4681,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Repeated segments background</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T062418Z" creationid="A. Sośnicka" creationdate="20250429T062418Z">
-        <seg>Powtarzające się segmenty tło</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T062429Z" creationid="A. Sośnicka" creationdate="20250429T062418Z">
+        <seg>Powtarzające się segmenty – tło</seg>
       </tuv>
     </tu>
     <tu>
