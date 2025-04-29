@@ -226,8 +226,8 @@
       <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>&amp;Zamknij</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250429T072903Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>    &amp;Zamknij</seg>
       </tuv>
     </tu>
     <tu>
