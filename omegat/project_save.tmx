@@ -4623,6 +4623,22 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T062332Z" creationid="A. Sośnicka" creationdate="20250429T062332Z">
+        <seg>Powtarzające się segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T062418Z" creationid="A. Sośnicka" creationdate="20250429T062418Z">
+        <seg>Powtarzające się segmenty tło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -5369,8 +5385,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Source segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Segment (źródło)</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T062214Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Segmenty (źródło)</seg>
       </tuv>
     </tu>
     <tu>
