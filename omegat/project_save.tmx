@@ -4431,6 +4431,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250429T062655Z" creationid="M_Kossak" creationdate="20250429T062655Z">
+        <seg>Właściwości projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Statistics</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
