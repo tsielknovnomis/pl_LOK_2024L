@@ -3115,6 +3115,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T065704Z" creationid="DK" creationdate="20250429T065704Z">
+        <seg>Goto Line...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
