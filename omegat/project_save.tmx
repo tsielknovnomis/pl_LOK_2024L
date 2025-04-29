@@ -1492,6 +1492,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T062808Z" creationid="Patryk_Świech" creationdate="20250429T062808Z">
+        <seg>Dwukierunkowy znak kontrolny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Block the creation of translated files with tag &amp;issues</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T215348Z" creationid="mmstaw" creationdate="20240505T215348Z">
@@ -2723,6 +2731,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T062529Z" creationid="Patryk_Świech" creationdate="20250429T062529Z">
+        <seg>Tekst oflagowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T111326Z" creationid="mmstaw" creationdate="20240506T111326Z">
@@ -2807,6 +2823,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T100942Z" creationid="d55" creationdate="20230310T100942Z">
         <seg>Z pamięci ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From MT memory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T062943Z" creationid="Patryk_Świech" creationdate="20250429T062943Z">
+        <seg>Z pamięci tłumaczenia maszynowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -3776,8 +3800,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Modification info</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
-        <seg>Informacje o modyfikacji</seg>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T062507Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Informacje o modyfikacji – tło</seg>
       </tuv>
     </tu>
     <tu>
