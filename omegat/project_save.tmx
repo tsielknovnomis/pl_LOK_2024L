@@ -5561,8 +5561,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Show Find Search Bar</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250429T070647Z" creationid="UK" creationdate="20250429T070604Z">
-        <seg>Wyświetl pasek wyszukiwania</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250429T071132Z" creationid="UK" creationdate="20250429T070604Z">
+        <seg>Wyświetl pasek zadań "Znajdź"</seg>
       </tuv>
     </tu>
     <tu>
