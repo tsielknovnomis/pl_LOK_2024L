@@ -1122,6 +1122,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T071534Z" creationid="Patryk_Świech" creationdate="20250429T071534Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferencje&lt;/i&gt; &amp;gt; &lt;i&gt;Ogólne&lt;/i&gt; &amp;gt; &lt;i&gt;TAB zmienia segment&lt;/i&gt; jest aktywny&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T095203Z" creationid="d55" creationdate="20230310T095203Z">
