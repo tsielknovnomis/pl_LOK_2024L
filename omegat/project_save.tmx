@@ -1316,8 +1316,8 @@
       <tuv lang="en">
         <seg>Aligner table row highlight</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T070544Z" creationid="A. Sośnicka" creationdate="20250429T070544Z">
-        <seg>Dopasowanie – zaznaczenie wiersza tabeli</seg>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T070645Z" creationid="Patryk_Świech" creationdate="20250429T070645Z">
+        <seg>Zestawienie – zaznaczenie wiersza tabeli</seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,6 +1374,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Zezwól na inny szyk dla tłumaczonych zn&amp;aczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternative translation highlight</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T070851Z" creationid="Patryk_Świech" creationdate="20250429T070851Z">
+        <seg>Tłumaczenie alternatywne – zaznaczenie </seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,6 +3778,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250429T070127Z" creationid="M_Kossak" creationdate="20250429T070127Z">
         <seg>Tłumaczenia maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T070741Z" creationid="Patryk_Świech" creationdate="20250429T070722Z">
+        <seg>Tłumaczenie maszynowe – zaznaczenie</seg>
       </tuv>
     </tu>
     <tu>
