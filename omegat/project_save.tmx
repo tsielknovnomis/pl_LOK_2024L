@@ -3734,6 +3734,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250429T070127Z" creationid="M_Kossak" creationdate="20250429T070127Z">
+        <seg>Tłumaczenia maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Language Checker Issues</seg>
       </tuv>
       <tuv lang="pl" changeid="d5548" changedate="20240611T071643Z" creationid="KJ" creationdate="20240513T091153Z">
@@ -5219,6 +5227,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190525Z" creationid="mmstaw" creationdate="20240506T190525Z">
         <seg>Bezpieczne przechowywanie danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250429T070210Z" creationid="M_Kossak" creationdate="20250429T070210Z">
+        <seg>Właściwości segmentu </seg>
       </tuv>
     </tu>
     <tu>
