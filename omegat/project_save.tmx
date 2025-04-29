@@ -1588,6 +1588,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T063249Z" creationid="DK" creationdate="20250429T063249Z">
+        <seg>Anulowanie możliwe tylko w przypadku skryptów, które jednoznacznie wymagają anulowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T153337Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -5738,6 +5746,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script "{0}" is running...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T063349Z" creationid="DK" creationdate="20250429T063349Z">
+        <seg>Skrypt "{0}" jest uruchomiony...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -6478,6 +6494,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250408T064533Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>wszystkie pasujące segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T063444Z" creationid="DK" creationdate="20250429T063444Z">
+        <seg>zakoczone (upłynęło {0} ms)</seg>
       </tuv>
     </tu>
     <tu>
