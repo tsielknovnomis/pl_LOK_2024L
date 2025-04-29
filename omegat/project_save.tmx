@@ -3125,8 +3125,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Goto &amp;Line...</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250429T065704Z" creationid="DK" creationdate="20250429T065704Z">
-        <seg>Goto Line...</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250429T070258Z" creationid="DK" creationdate="20250429T065704Z">
+        <seg>Go to Line...</seg>
       </tuv>
     </tu>
     <tu>
