@@ -2645,8 +2645,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Error: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240611T081313Z" creationid="mmstaw" creationdate="20240519T135215Z">
-        <seg>Blad: {0}</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250429T071003Z" creationid="mmstaw" creationdate="20240519T135215Z">
+        <seg>Show Replace Search BarBlad: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5569,8 +5569,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Show Replace Search Bar</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250429T070827Z" creationid="UK" creationdate="20250429T070827Z">
-        <seg>Wyświetl pasek "zamie"</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250429T071044Z" creationid="UK" creationdate="20250429T070827Z">
+        <seg>Wyświetl pasek zadań "Zamień"</seg>
       </tuv>
     </tu>
     <tu>
