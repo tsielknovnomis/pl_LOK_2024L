@@ -1298,6 +1298,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Needs Review" group</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T070445Z" creationid="Patryk_Świech" creationdate="20250429T070256Z">
+        <seg>Dopasowanie – „grupa do sprawdzenia”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T070600Z" creationid="Patryk_Świech" creationdate="20250429T070315Z">
+        <seg>Zestawienie – zaznaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All</seg>
       </tuv>
       <tuv lang="pl" changeid="UK" changedate="20250415T071056Z" creationid="UK" creationdate="20250415T071056Z">
