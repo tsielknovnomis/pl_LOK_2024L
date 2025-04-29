@@ -89,6 +89,7 @@ language code	kod języka
 language tokenizer	tokenizator języka	https://www.guru99.com/pl/tokenize-words-sentences-nltk.html
 left-to-right mark	Znacznik od lewej do prawej	
 line length	długość linii	
+local dla projektu (dla aktualnie otwartego projektu) 
 local file	plik lokalny	
 local project	projekt lokalny	
 local segmentation rule	lokalna zasada segmentacji
