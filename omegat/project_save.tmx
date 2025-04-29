@@ -2545,6 +2545,14 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error while trying to save script.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T064136Z" creationid="DK" creationdate="20250429T064136Z">
+        <seg>Błąd podczas próby zapisania skryptu.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Polish special chars not displayed in Terminal.</note>
       <tuv lang="en">
         <seg>Error: {0}</seg>
@@ -4599,6 +4607,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T064119Z" creationid="DK" creationdate="20250429T064119Z">
+        <seg>Odświeżanie folderu skryptu "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register I&amp;dentical Translation</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240521T072648Z" creationid="mmstaw" creationdate="20240505T204024Z">
@@ -4943,6 +4959,22 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Script "{0}" saved.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T064309Z" creationid="DK" creationdate="20250429T064309Z">
+        <seg>Skrypt "{0}" został zapisany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T064042Z" creationid="DK" creationdate="20250429T064042Z">
+        <seg>Wyniki skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -5153,8 +5185,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Select Scripts Folder</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Folder skryptów</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250429T063923Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybierz folder skryptów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250429T063940Z" creationid="DK" creationdate="20250429T063940Z">
+        <seg>Wybierz plik skryptu</seg>
       </tuv>
     </tu>
     <tu>
