@@ -3766,6 +3766,54 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T064227Z" creationid="A. Sośnicka" creationdate="20250429T064227Z">
+        <seg>Dopasowania zmienione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T064330Z" creationid="A. Sośnicka" creationdate="20250429T064330Z">
+        <seg>Dopasowania usunięte aktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T064334Z" creationid="A. Sośnicka" creationdate="20250429T064334Z">
+        <seg>Dopasowania usunięte nieaktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T064248Z" creationid="A. Sośnicka" creationdate="20250429T064248Z">
+        <seg>Dopasowania wstawione aktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T064250Z" creationid="A. Sośnicka" creationdate="20250429T064250Z">
+        <seg>Dopasowania wstawione nieaktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T064230Z" creationid="A. Sośnicka" creationdate="20250429T064230Z">
+        <seg>Dopasowania niezmienione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matching segments: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250408T065231Z" creationid="Patryk_Świech" creationdate="20250408T065207Z">
@@ -5035,6 +5083,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wyszukaj:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T065049Z" creationid="A. Sośnicka" creationdate="20250429T065049Z">
+        <seg>Znaki znalezione</seg>
       </tuv>
     </tu>
     <tu>
