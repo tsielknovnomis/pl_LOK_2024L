@@ -3149,8 +3149,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Goto &amp;Line...</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250429T070258Z" creationid="DK" creationdate="20250429T065704Z">
-        <seg>Go to Line...</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250429T070441Z" creationid="DK" creationdate="20250429T065704Z">
+        <seg>Przejdź do wiersza...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5539,6 +5539,22 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20240611T062228Z" creationid="KJ" creationdate="20240603T205915Z">
         <seg>Pokaż najpierw &amp;termin docelowy </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250429T070647Z" creationid="UK" creationdate="20250429T070604Z">
+        <seg>Wyświetl pasek wyszukiwania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250429T070827Z" creationid="UK" creationdate="20250429T070827Z">
+        <seg>Wyświetl pasek "zamie"</seg>
       </tuv>
     </tu>
     <tu>
