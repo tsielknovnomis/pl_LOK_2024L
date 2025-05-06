@@ -5457,8 +5457,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250429T065154Z" creationid="DK" creationdate="20250429T065058Z">
-        <seg>Skrypt ''{0}'' powiązany z gniazdem #{0}.</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T070931Z" creationid="DK" creationdate="20250429T065058Z">
+        <seg>Skrypt ''{0}'' powiązany z gniazdem #{1}.</seg>
       </tuv>
     </tu>
     <tu>
