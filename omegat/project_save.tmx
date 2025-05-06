@@ -5135,6 +5135,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T071257Z" creationid="A. Sośnicka" creationdate="20250506T071257Z">
+        <seg>Zdalny &amp;serwer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote file/folder</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063422Z" creationid="M_Kossak" creationdate="20250506T063422Z">
