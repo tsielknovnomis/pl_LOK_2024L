@@ -1172,8 +1172,8 @@
       <tuv lang="en">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250506T065406Z" creationid="DK" creationdate="20250506T065406Z">
-        <seg>&lt;html&gt;Termin: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosiariusz:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T065818Z" creationid="DK" creationdate="20250506T065406Z">
+        <seg>&lt;html&gt;Termin: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosariusz:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
