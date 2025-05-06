@@ -3800,8 +3800,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>LanguageTool Issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250506T063526Z" creationid="A. Sośnicka" creationdate="20250401T063629Z">
-        <seg>problemy z LanguageTool</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T065045Z" creationid="A. Sośnicka" creationdate="20250401T063629Z">
+        <seg>błędy z LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
