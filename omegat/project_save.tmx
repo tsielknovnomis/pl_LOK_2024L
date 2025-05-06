@@ -1226,6 +1226,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063056Z" creationid="M_Kossak" creationdate="20250506T063056Z">
+        <seg>Dodaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add &amp;Files...</seg>
       </tuv>
       <tuv lang="pl" changeid="UK" changedate="20250401T062917Z" creationid="fw" creationdate="20240513T161056Z">
@@ -2719,6 +2727,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Pomiń segmenty osierocone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063233Z" creationid="M_Kossak" creationdate="20250506T063233Z">
+        <seg>Wyklucz wzorzec</seg>
       </tuv>
     </tu>
     <tu>
@@ -4951,10 +4967,26 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063036Z" creationid="M_Kossak" creationdate="20250506T063036Z">
+        <seg>Repozytoria zdalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20240521T061855Z" creationid="mmstaw" creationdate="20240519T135058Z">
         <seg>Błędy komunikacji sieciowej zdalnego repozytorium {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063104Z" creationid="M_Kossak" creationdate="20250506T063104Z">
+        <seg>Usuń</seg>
       </tuv>
     </tu>
     <tu>
@@ -6090,6 +6122,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063051Z" creationid="M_Kossak" creationdate="20250506T063051Z">
+        <seg>Mapowanie repozytoriów w trybie zespołowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template for segments without date</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240520T194115Z" creationid="mmstaw" creationdate="20240520T194115Z">
@@ -6394,6 +6434,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063127Z" creationid="M_Kossak" creationdate="20250506T063127Z">
+        <seg>Rodzaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -6406,6 +6454,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Kursor odblokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063131Z" creationid="M_Kossak" creationdate="20250506T063131Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
