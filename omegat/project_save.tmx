@@ -3774,10 +3774,26 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T062804Z" creationid="M_Kossak" creationdate="20250506T062804Z">
+        <seg>Lokalne wyszukiwanie zewnętrzne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local External Searches</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T063753Z" creationid="Patryk_Świech" creationdate="20250415T063753Z">
         <seg>Zewnętrzne wyszukiwanie lokalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T062731Z" creationid="M_Kossak" creationdate="20250506T062731Z">
+        <seg>Lokalne filtry plików</seg>
       </tuv>
     </tu>
     <tu>
