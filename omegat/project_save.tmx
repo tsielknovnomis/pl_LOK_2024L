@@ -5681,7 +5681,7 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Select Issue Types</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T065657Z" creationid="A. Sośnicka" creationdate="20250401T065657Z">
+      <tuv lang="pl" changeid="DK" changedate="20250506T070256Z" creationid="A. Sośnicka" creationdate="20250401T065657Z">
         <seg>Wybierz typ problemu</seg>
       </tuv>
     </tu>
@@ -6636,8 +6636,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Type</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063127Z" creationid="M_Kossak" creationdate="20250506T063127Z">
-        <seg>Rodzaj</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T070319Z" creationid="M_Kossak" creationdate="20250506T063127Z">
+        <seg>Typ</seg>
       </tuv>
     </tu>
     <tu>
