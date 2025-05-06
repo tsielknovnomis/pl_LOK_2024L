@@ -1284,8 +1284,8 @@
       <tuv lang="en">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063102Z" creationid="A. Sośnicka" creationdate="20250401T063102Z">
-        <seg>Dodaj do słownika</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T062423Z" creationid="A. Sośnicka" creationdate="20250401T063102Z">
+        <seg>Dodaj do słownika: „{0}”</seg>
       </tuv>
     </tu>
     <tu>
