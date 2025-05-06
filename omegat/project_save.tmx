@@ -3784,8 +3784,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Local post-processing commands (disabled):</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T061527Z" creationid="M_Kossak" creationdate="20250506T061527Z">
-        <seg>Komendy  do lokalnego przetwarzania końcowego (niekatywne)</seg>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T061537Z" creationid="M_Kossak" creationdate="20250506T061527Z">
+        <seg>Komendy  do lokalnego przetwarzania końcowego (nieaktywne)</seg>
       </tuv>
     </tu>
     <tu>
