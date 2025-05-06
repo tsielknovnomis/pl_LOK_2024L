@@ -192,6 +192,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T071554Z" creationid="A. Sośnicka" creationdate="20250506T071554Z">
+        <seg>&amp;Wbudowany (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="pl">
@@ -3974,6 +3982,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T071432Z" creationid="A. Sośnicka" creationdate="20250506T071432Z">
+        <seg>Ścieżka instalacji lokalnej:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local post-processing commands (disabled):</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250506T061716Z" creationid="M_Kossak" creationdate="20250506T061527Z">
@@ -5153,8 +5169,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Remote &amp;server</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T071257Z" creationid="A. Sośnicka" creationdate="20250506T071257Z">
-        <seg>Zdalny &amp;serwer</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T071347Z" creationid="A. Sośnicka" creationdate="20250506T071257Z">
+        <seg>&amp;Zdalny serwer</seg>
       </tuv>
     </tu>
     <tu>
@@ -5379,6 +5395,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T164815Z" creationid="mmstaw" creationdate="20240505T164815Z">
         <seg>Znak od prawej do lewej (RLM U+200&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T071742Z" creationid="A. Sośnicka" creationdate="20250506T071742Z">
+        <seg>Zasady</seg>
       </tuv>
     </tu>
     <tu>
