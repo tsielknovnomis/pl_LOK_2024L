@@ -3469,6 +3469,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063320Z" creationid="M_Kossak" creationdate="20250506T063320Z">
+        <seg>Dołącz wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incorrect password</seg>
       </tuv>
       <tuv lang="pl" changeid="UK" changedate="20250415T065822Z" creationid="UK" creationdate="20250415T065822Z">
@@ -3846,6 +3854,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063406Z" creationid="M_Kossak" creationdate="20250506T063406Z">
+        <seg>Plik/folder lokalny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local post-processing commands (disabled):</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250506T061716Z" creationid="M_Kossak" creationdate="20250506T061527Z">
@@ -3882,6 +3898,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T070741Z" creationid="Patryk_Świech" creationdate="20250429T070722Z">
         <seg>Tłumaczenie maszynowe – zaznaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063347Z" creationid="M_Kossak" creationdate="20250506T063347Z">
+        <seg>Mapowanie folderów lokalnych do folderów zdalnych w repozytoriach</seg>
       </tuv>
     </tu>
     <tu>
@@ -4975,6 +4999,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063422Z" creationid="M_Kossak" creationdate="20250506T063422Z">
+        <seg>Plik/folder zdalny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repositories</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063036Z" creationid="M_Kossak" creationdate="20250506T063036Z">
@@ -5115,6 +5147,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T152441Z" creationid="mmstaw" creationdate="20240505T152441Z">
         <seg>&amp;Zastąp...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063355Z" creationid="M_Kossak" creationdate="20250506T063355Z">
+        <seg>Repozytorium</seg>
       </tuv>
     </tu>
     <tu>
