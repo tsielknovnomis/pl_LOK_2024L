@@ -1426,6 +1426,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T064138Z" creationid="DK" creationdate="20250506T064138Z">
+        <seg>Podczas otwierania elementu wystąpił błąd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T093842Z" creationid="d55" creationdate="20230310T093842Z">
@@ -5659,6 +5667,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T183751Z" creationid="KJ" creationdate="20240603T183751Z">
         <seg>Wybierz filtr i naciśnij Edytuj... lub Ustawienia... aby go dostosować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select appropriate version</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T064223Z" creationid="DK" creationdate="20250506T064223Z">
+        <seg>Wybierz odpowiednią wersję</seg>
       </tuv>
     </tu>
     <tu>
