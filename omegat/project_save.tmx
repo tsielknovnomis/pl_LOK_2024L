@@ -1162,6 +1162,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T065406Z" creationid="DK" creationdate="20250506T065406Z">
+        <seg>&lt;html&gt;Termin: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosiariusz:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T095304Z" creationid="d55" creationdate="20230310T095304Z">
@@ -2267,8 +2275,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Disable rule “{0}”</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250506T063514Z" creationid="A. Sośnicka" creationdate="20250401T063714Z">
-        <seg>Wyłącz regułę “{0}</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T065243Z" creationid="A. Sośnicka" creationdate="20250401T063714Z">
+        <seg>Wyłącz regułę "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7255,6 +7263,22 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250401T063323Z" creationid="Patryk_Świech" creationdate="20250401T063323Z">
         <seg>{0} x{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T065317Z" creationid="DK" creationdate="20250506T065317Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T065326Z" creationid="DK" creationdate="20250506T065326Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
