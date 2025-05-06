@@ -2235,8 +2235,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Disable rule “{0}”</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063714Z" creationid="A. Sośnicka" creationdate="20250401T063714Z">
-        <seg>Wyłącz regułę “{0}”</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T063514Z" creationid="A. Sośnicka" creationdate="20250401T063714Z">
+        <seg>Wyłącz regułę “{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3720,8 +3720,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>LanguageTool Issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063831Z" creationid="A. Sośnicka" creationdate="20250401T063629Z">
-        <seg>Problemy z LanguageTool</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T063526Z" creationid="A. Sośnicka" creationdate="20250401T063629Z">
+        <seg>problemy z LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -6212,8 +6212,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Terminology Issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063728Z" creationid="A. Sośnicka" creationdate="20250401T063728Z">
-        <seg>Błędy terminologiczne</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T063521Z" creationid="A. Sośnicka" creationdate="20250401T063728Z">
+        <seg>błędy terminologiczne</seg>
       </tuv>
     </tu>
     <tu>
