@@ -6682,6 +6682,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T062151Z" creationid="M_Kossak" creationdate="20250506T062151Z">
+        <seg>Używaj lokalnych zasad segmentacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use local file fil&amp;ter settings</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T183429Z" creationid="KJ" creationdate="20240603T183309Z">
