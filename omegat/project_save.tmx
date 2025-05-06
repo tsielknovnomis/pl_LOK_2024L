@@ -1484,8 +1484,8 @@
       <tuv lang="en">
         <seg>Apply &amp;Fix</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063521Z" creationid="A. Sośnicka" creationdate="20250401T063521Z">
-        <seg>Zastosuj &amp;popraw</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T071213Z" creationid="A. Sośnicka" creationdate="20250401T063521Z">
+        <seg>Zastosuj &amp;korektę</seg>
       </tuv>
     </tu>
     <tu>
@@ -7149,8 +7149,8 @@ Nowa wersja: {2}</seg>
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063628Z" creationid="M_Kossak" creationdate="20250506T063628Z">
-        <seg>Szczegółowe dane statystyczne znajdziesz w pliku:</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T071002Z" creationid="M_Kossak" creationdate="20250506T063628Z">
+        <seg>Szczegółowe dane statystyczne znajdziesz w pliku: {0}</seg>
       </tuv>
     </tu>
     <tu>
