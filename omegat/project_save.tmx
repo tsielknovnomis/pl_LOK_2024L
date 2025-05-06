@@ -473,6 +473,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Jump to Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T063933Z" creationid="DK" creationdate="20250506T063933Z">
+        <seg>Przejdź do segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3648,8 +3656,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Przeskakiwanie do ostatnio edytowanego segmentu...</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T064019Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przejdź do ostatnio edytowanego segmentu...</seg>
       </tuv>
     </tu>
     <tu>
