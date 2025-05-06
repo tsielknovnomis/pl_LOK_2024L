@@ -3782,6 +3782,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T061527Z" creationid="M_Kossak" creationdate="20250506T061527Z">
+        <seg>Komendy  do lokalnego przetwarzania końcowego (niekatywne)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Location</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250408T065233Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
