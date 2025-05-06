@@ -1844,6 +1844,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T061815Z" creationid="DK" creationdate="20250506T061815Z">
+        <seg>Sprawdź {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -5908,8 +5916,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Spelling Issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T062937Z" creationid="A. Sośnicka" creationdate="20250401T062937Z">
-        <seg>Błędy w pisowni</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T061826Z" creationid="A. Sośnicka" creationdate="20250401T062937Z">
+        <seg>błędy w pisowni</seg>
       </tuv>
     </tu>
     <tu>
