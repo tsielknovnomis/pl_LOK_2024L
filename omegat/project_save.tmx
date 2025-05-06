@@ -2981,8 +2981,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Font</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Czcionka</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T064213Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Czcionka</seg>
       </tuv>
     </tu>
     <tu>
@@ -3157,8 +3157,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Global Segmentation Rules</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T191608Z" creationid="KJ" creationdate="20240603T190059Z">
-        <seg>Globalne &amp;zasady segmentacji</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T064325Z" creationid="KJ" creationdate="20240603T190059Z">
+        <seg>Globalne zasady segmentacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -3768,8 +3768,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Language checker</seg>
       </tuv>
-      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T064057Z" creationid="Patryk_Świech" creationdate="20250429T064057Z">
-        <seg>&amp;Weryfikacja językowa</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T064151Z" creationid="Patryk_Świech" creationdate="20250429T064057Z">
+        <seg>Weryfikacja językowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5905,8 +5905,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Size</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Rozmiar</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T064216Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Rozmiar</seg>
       </tuv>
     </tu>
     <tu>
