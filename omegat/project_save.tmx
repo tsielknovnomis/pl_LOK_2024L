@@ -1292,7 +1292,7 @@
       <tuv lang="en">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250506T062423Z" creationid="A. Sośnicka" creationdate="20250401T063102Z">
+      <tuv lang="pl" changeid="DK" changedate="20250506T063048Z" creationid="A. Sośnicka" creationdate="20250401T063102Z">
         <seg>Dodaj do słownika: „{0}”</seg>
       </tuv>
     </tu>
@@ -2385,6 +2385,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T063349Z" creationid="DK" creationdate="20250506T063349Z">
+        <seg>Nie pytaj wcześniej co sprawdzić</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Don't ask before checking issues</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250401T070841Z" creationid="Patryk_Świech" creationdate="20250401T070714Z">
@@ -3415,8 +3423,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Ignore: “{0}”</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250401T063109Z" creationid="A. Sośnicka" creationdate="20250401T063109Z">
-        <seg>Ignoruj</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250506T063040Z" creationid="A. Sośnicka" creationdate="20250401T063109Z">
+        <seg>Ignoruj: „{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -5411,6 +5419,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190525Z" creationid="mmstaw" creationdate="20240506T190525Z">
         <seg>Bezpieczne przechowywanie danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T063222Z" creationid="DK" creationdate="20250506T063222Z">
+        <seg>Segment</seg>
       </tuv>
     </tu>
     <tu>
