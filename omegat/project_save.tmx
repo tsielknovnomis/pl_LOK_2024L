@@ -4230,6 +4230,22 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T071458Z" creationid="DK" creationdate="20250506T071458Z">
+        <seg>Brak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250506T071509Z" creationid="DK" creationdate="20250506T071509Z">
+        <seg>Brakujące znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mo&amp;ve Up</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T191903Z" creationid="KJ" creationdate="20240603T191903Z">
