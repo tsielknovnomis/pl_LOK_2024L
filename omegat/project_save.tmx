@@ -5833,8 +5833,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T183751Z" creationid="KJ" creationdate="20240603T183751Z">
-        <seg>Wybierz filtr i naciśnij Edytuj... lub Ustawienia... aby go dostosować.</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250520T071700Z" creationid="KJ" creationdate="20240603T183751Z">
+        <seg>Wybierz filtr i naciśnij Edytuj lub Opcje, aby go dostosować.</seg>
       </tuv>
     </tu>
     <tu>
