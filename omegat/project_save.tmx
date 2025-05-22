@@ -4757,6 +4757,7 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>!!!</note>
       <tuv lang="en">
         <seg>Opening team project</seg>
       </tuv>
@@ -4998,6 +4999,7 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>!!!</note>
       <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
