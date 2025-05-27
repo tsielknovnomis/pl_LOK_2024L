@@ -7100,6 +7100,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250527T062949Z" creationid="DK" creationdate="20250527T062949Z">
+        <seg>Wartość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Version</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20240521T065033Z" creationid="mmstaw" creationdate="20240506T155017Z">
