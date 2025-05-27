@@ -3371,6 +3371,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250527T071405Z" creationid="UK" creationdate="20250527T071405Z">
+        <seg>Wawiera notatkę, sprawdź zakładkę uwag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
