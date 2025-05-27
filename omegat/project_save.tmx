@@ -3381,8 +3381,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Has Note, see Notes Tab</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250527T071737Z" creationid="DK" creationdate="20250527T071737Z">
-        <seg>Zawiera notatkę, sprawdź okno notatek</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250527T072334Z" creationid="DK" creationdate="20250527T071737Z">
+        <seg>Zawiera notatkę, sprawdź okienko Notatnik</seg>
       </tuv>
     </tu>
     <tu>
@@ -4512,8 +4512,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>No Comment</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250527T072314Z" creationid="DK" creationdate="20250527T072314Z">
-        <seg>Komentarz</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250527T072426Z" creationid="DK" creationdate="20250527T072314Z">
+        <seg>Nie zawiera komentarza</seg>
       </tuv>
     </tu>
     <tu>
