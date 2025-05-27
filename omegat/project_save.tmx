@@ -4486,6 +4486,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250527T065809Z" creationid="UK" creationdate="20250527T065809Z">
+        <seg>Nie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T065650Z" creationid="DK" creationdate="20250506T064809Z">
