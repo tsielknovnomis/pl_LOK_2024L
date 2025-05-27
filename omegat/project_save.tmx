@@ -1458,6 +1458,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250527T072752Z" creationid="UK" creationdate="20250527T072712Z">
+        <seg>Tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternative translation highlight</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T070843Z" creationid="A. Sośnicka" creationdate="20250429T070843Z">
@@ -3741,6 +3749,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250527T072741Z" creationid="UK" creationdate="20250527T072631Z">
+        <seg>Tłumaczenie alternatywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Issues</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T065533Z" creationid="DK" creationdate="20250506T064444Z">
@@ -4586,6 +4602,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>Twarde spacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250527T072807Z" creationid="UK" creationdate="20250527T072724Z">
+        <seg>Nie</seg>
       </tuv>
     </tu>
     <tu>
