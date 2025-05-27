@@ -3371,10 +3371,18 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250527T072242Z" creationid="DK" creationdate="20250527T072242Z">
+        <seg>Zawiera komentarz, sprawdź okienko Komentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Has Note, see Notes Tab</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250527T071405Z" creationid="UK" creationdate="20250527T071405Z">
-        <seg>Wawiera notatkę, sprawdź zakładkę uwag</seg>
+      <tuv lang="pl" changeid="DK" changedate="20250527T071737Z" creationid="DK" creationdate="20250527T071737Z">
+        <seg>Zawiera notatkę, sprawdź okno notatek</seg>
       </tuv>
     </tu>
     <tu>
@@ -4502,10 +4510,26 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250527T072314Z" creationid="DK" creationdate="20250527T072314Z">
+        <seg>Komentarz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T065650Z" creationid="DK" creationdate="20250506T064809Z">
         <seg>Nie znaleziono problemów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250527T071747Z" creationid="DK" creationdate="20250527T071747Z">
+        <seg>Nie zawiera notatki</seg>
       </tuv>
     </tu>
     <tu>
