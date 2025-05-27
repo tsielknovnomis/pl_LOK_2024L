@@ -4574,6 +4574,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250527T065842Z" creationid="DK" creationdate="20250527T065842Z">
+        <seg>Notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
       </tuv>
       <tuv lang="pl" changeid="UK" changedate="20250401T071500Z" creationid="UK" creationdate="20250401T071500Z">
