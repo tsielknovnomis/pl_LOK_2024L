@@ -2175,10 +2175,26 @@ Groß-, Kleinschreibung</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250527T065452Z" creationid="M_Kossak" creationdate="20250527T065452Z">
+        <seg>Utworzony przez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Utworzony przez: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250527T065500Z" creationid="M_Kossak" creationdate="20250527T065500Z">
+        <seg>Utworzony</seg>
       </tuv>
     </tu>
     <tu>
