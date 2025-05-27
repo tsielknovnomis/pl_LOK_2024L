@@ -6692,6 +6692,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250527T063958Z" creationid="UK" creationdate="20250527T063958Z">
+        <seg>Tłumaczenie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -7232,6 +7240,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="UK" changedate="20250401T071721Z" creationid="UK" creationdate="20250401T071721Z">
         <seg>Opcje filtrowania XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250527T064107Z" creationid="UK" creationdate="20250527T064107Z">
+        <seg>Tak</seg>
       </tuv>
     </tu>
     <tu>
