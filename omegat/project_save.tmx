@@ -1178,6 +1178,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DK" changedate="20250527T062338Z" creationid="DK" creationdate="20250527T062338Z">
+        <seg>&lt;html&gt;Dodaj wzorce używając symboli wieloznacznych (w formacie Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Przykład: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T095203Z" creationid="d55" creationdate="20230310T095203Z">
