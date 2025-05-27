@@ -7054,8 +7054,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Unknown/Manual</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250527T064022Z" creationid="DK" creationdate="20250527T064022Z">
-        <seg>Nieznane/Ręczne</seg>
+      <tuv lang="pl" changeid="UK" changedate="20250527T071516Z" creationid="DK" creationdate="20250527T064022Z">
+        <seg>Nieznane/Własne</seg>
       </tuv>
     </tu>
     <tu>
