@@ -1838,8 +1838,16 @@
       <tuv lang="en">
         <seg>Changed by</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250527T064822Z" creationid="M_Kossak" creationdate="20250527T064816Z">
-        <seg>Zmodyfikowany przez</seg>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250527T065415Z" creationid="M_Kossak" creationdate="20250527T064816Z">
+        <seg>Zmieniony przez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250527T065443Z" creationid="M_Kossak" creationdate="20250527T065443Z">
+        <seg>Ostatnio zmieniony</seg>
       </tuv>
     </tu>
     <tu>
