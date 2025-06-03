@@ -6620,6 +6620,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team synchronization...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T061646Z" creationid="A. Sośnicka" creationdate="20250603T061646Z">
+        <seg>Synchronizacja projektu zespołowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template for segments without date</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240520T194115Z" creationid="mmstaw" creationdate="20240520T194115Z">
