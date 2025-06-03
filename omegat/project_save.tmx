@@ -2886,6 +2886,21 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>pojawił się błąd
+strona której to szukasz 
+nieznaleziona
+
+
+pomocna ręka
+na urlopie spoczywa
+nie pomogę ci</note>
+      <tuv lang="en">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Exclude orphan segments</seg>
       </tuv>
