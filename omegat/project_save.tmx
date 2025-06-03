@@ -5017,16 +5017,16 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Pattern after</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250520T063748Z" creationid="A. Sośnicka" creationdate="20250520T063748Z">
-        <seg>Przed ciągiem</seg>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20250603T062631Z" creationid="A. Sośnicka" creationdate="20250520T063748Z">
+        <seg>Przed pasującym do wzorca ciągiem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Pattern before</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250520T063754Z" creationid="A. Sośnicka" creationdate="20250520T063754Z">
-        <seg>Po ciągu</seg>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20250603T062605Z" creationid="A. Sośnicka" creationdate="20250520T063754Z">
+        <seg>Po pasującym do wzorca ciągu</seg>
       </tuv>
     </tu>
     <tu>
