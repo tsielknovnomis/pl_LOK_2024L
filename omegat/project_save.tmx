@@ -4214,6 +4214,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T060948Z" creationid="A. Sośnicka" creationdate="20250603T060948Z">
+        <seg>Rodzaj dopasowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches changed</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T064227Z" creationid="A. Sośnicka" creationdate="20250429T064227Z">
