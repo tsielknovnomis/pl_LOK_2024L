@@ -1452,8 +1452,8 @@
       <tuv lang="en">
         <seg>Allow local external search commands</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T205522Z" creationid="KJ" creationdate="20240603T205522Z">
-        <seg>Zezwól na komendy wyszukiwania zewnętrznego</seg>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250603T070329Z" creationid="KJ" creationdate="20240603T205522Z">
+        <seg>Zezwól na polecenia wyszukiwania zewnętrznego</seg>
       </tuv>
     </tu>
     <tu>
