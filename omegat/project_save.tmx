@@ -6185,6 +6185,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250603T065625Z" creationid="Patryk_Świech" creationdate="20250603T065625Z">
+        <seg>Skrót:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240604T055925Z" creationid="KJ" creationdate="20240604T055925Z">
