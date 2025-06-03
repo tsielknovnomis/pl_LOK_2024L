@@ -2043,6 +2043,14 @@ Groß-, Kleinschreibung</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250603T070540Z" creationid="UK" creationdate="20250603T070540Z">
+        <seg>Polecenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T065853Z" creationid="A. Sośnicka" creationdate="20250603T065853Z">
@@ -7563,6 +7571,25 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>Białe znaki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Wszystkie kwiaty obumarły
+błąd strony tej wywarły
+
+575
+piękne kwiatuszki
+uciekły pod poduszki
+a strony nie ma </note>
+      <tuv lang="en">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="pl" changeid="UK" changedate="20250603T072647Z" creationid="UK" creationdate="20250603T072647Z">
+        <seg>piękne kwiatuszki
+uciekły pod poduszki
+a strony nie ma</seg>
       </tuv>
     </tu>
     <tu>
