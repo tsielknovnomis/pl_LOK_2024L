@@ -5171,8 +5171,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240604T062328Z" creationid="KJ" creationdate="20240603T185603Z">
-        <seg>Automatycznie zapisano projekt w {0}</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T061355Z" creationid="KJ" creationdate="20240603T185603Z">
+        <seg>Automatycznie zapisano projekt o {0}</seg>
       </tuv>
     </tu>
     <tu>
