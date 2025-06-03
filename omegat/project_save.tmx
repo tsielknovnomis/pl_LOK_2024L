@@ -2891,6 +2891,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T065039Z" creationid="A. Sośnicka" creationdate="20250603T065039Z">
+        <seg>Ustawienia wyszukiwania zewnętrznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -6325,6 +6333,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wczytywanie plików źródłowych zakończono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T064914Z" creationid="A. Sośnicka" creationdate="20250603T064914Z">
+        <seg>Wzór nazwy pliku źródłowego</seg>
       </tuv>
     </tu>
     <tu>
