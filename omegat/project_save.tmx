@@ -905,6 +905,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20250603T065341Z" creationid="simon.kleist" creationdate="20250603T065341Z">
+        <seg>Wyświetl w menu kontekstowym Edytora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T092400Z" creationid="KJ" creationdate="20240513T092400Z">
