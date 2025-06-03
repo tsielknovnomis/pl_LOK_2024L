@@ -250,8 +250,8 @@
       <tuv lang="en">
         <seg>&amp;Current Source File</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T065756Z" creationid="M_Kossak" creationdate="20250401T065756Z">
-        <seg>Obecny dokument źródłowy</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T063714Z" creationid="M_Kossak" creationdate="20250401T065756Z">
+        <seg>Bieżący dokument źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1774,8 +1774,8 @@
       <tuv lang="en">
         <seg>C&amp;urrent Target File</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070052Z" creationid="M_Kossak" creationdate="20250401T070029Z">
-        <seg>Obecny dokument docelowy</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T063720Z" creationid="M_Kossak" creationdate="20250401T070029Z">
+        <seg>Bieżący dokument docelowy</seg>
       </tuv>
     </tu>
     <tu>
