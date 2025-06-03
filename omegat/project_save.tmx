@@ -2532,8 +2532,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Download Team Project</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T062028Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Pobierz projekt zespołowym</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T062034Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pobierz projekt zespołowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6622,8 +6622,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T061646Z" creationid="A. Sośnicka" creationdate="20250603T061646Z">
-        <seg>Synchronizacja projektu zespołowego</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T062107Z" creationid="A. Sośnicka" creationdate="20250603T061646Z">
+        <seg>Synchronizacja projektu zespołowego...</seg>
       </tuv>
     </tu>
     <tu>
