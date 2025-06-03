@@ -6824,6 +6824,17 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="pl" changeid="M_Kossak" changedate="20250603T072422Z" creationid="M_Kossak" creationdate="20250603T072221Z">
+        <seg>Trzy rzeczy są tu pewne:
+Śmierć, podatki, brak strony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is not a plugin archive.</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T172102Z" creationid="mmstaw" creationdate="20240506T172102Z">
