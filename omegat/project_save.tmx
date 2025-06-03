@@ -1692,6 +1692,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Patryk_Świech" changedate="20250603T072356Z" creationid="Patryk_Świech" creationdate="20250603T072356Z">
+        <seg>Barman drze gardło:
+Nie znajdziesz swojej strony
+Kup jeszcze drinka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T062817Z" creationid="A. Sośnicka" creationdate="20250429T062817Z">
