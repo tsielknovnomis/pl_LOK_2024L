@@ -4534,6 +4534,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20250603T071634Z" creationid="simon.kleist" creationdate="20250603T071634Z">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New language and country</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T192000Z" creationid="KJ" creationdate="20240603T192000Z">
