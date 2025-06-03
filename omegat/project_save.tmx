@@ -5035,6 +5035,19 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T072645Z" creationid="A. Sośnicka" creationdate="20250603T072645Z">
+        <seg>Strona umyka
+Nie daje się zatrzymać
+Znika niczym mgła
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph delimitation</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231006T170518Z" creationid="d55" creationdate="20230310T101008Z">
