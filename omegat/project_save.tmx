@@ -56,8 +56,8 @@
       <tuv lang="en">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>&amp;Dopasuj pliki…</seg>
+      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T063316Z">
+        <seg>&amp;Zestaw pliki…</seg>
       </tuv>
     </tu>
     <tu>
