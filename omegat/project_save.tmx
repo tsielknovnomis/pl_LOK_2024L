@@ -7049,6 +7049,14 @@ Trzecie Cię
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T103239Z" creationid="BZ" creationdate="20250613T103239Z">
+        <seg>Utworzono plik docelowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file encoding:</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T185359Z" creationid="KJ" creationdate="20240603T185359Z">
