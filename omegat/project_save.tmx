@@ -2093,16 +2093,16 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T161916Z" creationid="fw" creationdate="20240513T161916Z">
-        <seg>potwierdzanie plików źródłowych</seg>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T103541Z" creationid="fw" creationdate="20240513T161916Z">
+        <seg>Wysyłanie plików źródłowych</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T161947Z" creationid="fw" creationdate="20240513T161947Z">
-        <seg>potwierdzanie plików docelowych</seg>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T103549Z" creationid="fw" creationdate="20240513T161947Z">
+        <seg>Wysyłanie plików docelowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -5859,8 +5859,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Zapisuję projekt...</seg>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T103615Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zapisywanie projektu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6483,8 +6483,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wczytywanie plików źródłowych zakończono</seg>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T103757Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zakończono wczytywanie pliku źródłowego</seg>
       </tuv>
     </tu>
     <tu>
