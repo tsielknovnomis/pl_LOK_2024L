@@ -5393,10 +5393,18 @@ Znika niczym mgła
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T103909Z" creationid="BZ" creationdate="20250613T103909Z">
+        <seg>Wczytywanie pliku TMX {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reading of TMX file complete</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wczytywanie pliku TMX zakończone</seg>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T103901Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zakończono wczytywanie pliku TMX</seg>
       </tuv>
     </tu>
     <tu>
