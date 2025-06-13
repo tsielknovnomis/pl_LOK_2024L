@@ -2982,6 +2982,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to create the translated files.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T100936Z" creationid="BZ" creationdate="20250613T100936Z">
+        <seg>Wystąpił bład podczas tworzenia plików docelowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to fetch latest version info: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T172238Z" creationid="mmstaw" creationdate="20240506T172238Z">
