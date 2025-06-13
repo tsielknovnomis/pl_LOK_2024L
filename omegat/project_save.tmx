@@ -3094,6 +3094,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First Steps</seg>
+      </tuv>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T090714Z" creationid="BZ" creationdate="20250613T090714Z">
+        <seg>Pierwsze kroki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flagged text</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250429T062529Z" creationid="Patryk_Świech" creationdate="20250429T062529Z">
