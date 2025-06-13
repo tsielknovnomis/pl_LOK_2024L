@@ -6417,6 +6417,14 @@ Znika niczym mgła
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T092628Z" creationid="BZ" creationdate="20250613T092628Z">
+        <seg>Pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files ({0} of {1})</seg>
       </tuv>
       <tuv lang="pl" changeid="BZ" changedate="20250613T091251Z" creationid="BZ" creationdate="20250613T091000Z">
@@ -6493,6 +6501,14 @@ Znika niczym mgła
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071925Z" creationid="M_Kossak" creationdate="20250415T071907Z">
         <seg>Język plików źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T092655Z" creationid="BZ" creationdate="20250613T092655Z">
+        <seg>Pliki źródłowe zostały załadowane, ale niektóre zostały pominięte z powodu błędów filtrowania</seg>
       </tuv>
     </tu>
     <tu>
