@@ -7201,6 +7201,14 @@ Trzecie Cię
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T101101Z" creationid="BZ" creationdate="20250613T101101Z">
+        <seg>Nie można utworzyć plików docelowych z powodu brakujących lub uszkodzonych znaczników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
