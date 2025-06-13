@@ -6419,8 +6419,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Source Files ({0} of {1})</seg>
       </tuv>
-      <tuv lang="pl" changeid="BZ" changedate="20250613T091000Z" creationid="BZ" creationdate="20250613T091000Z">
-        <seg>Pliki źródłowe</seg>
+      <tuv lang="pl" changeid="BZ" changedate="20250613T091251Z" creationid="BZ" creationdate="20250613T091000Z">
+        <seg>Pliki źródłowe ({0} z {1})</seg>
       </tuv>
     </tu>
     <tu>
