@@ -5,7 +5,7 @@ aligner	zestawienie
 alternative translation	alternatywne tłumaczenie	
 API key	klucz API	
 application startup	uruchamianie aplikacji	
-auto-completer	autouzupełnianie	
+auto-completer	funkcja autouzupełniania	
 auto-completion	autouzupełnianie	
 auto-populated segment	automatycznie uzupełniony segment	
 autotext	tekst automatyczny	
