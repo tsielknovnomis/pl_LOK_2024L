@@ -1714,8 +1714,8 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>Block the creation of translated files with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T215348Z" creationid="mmstaw" creationdate="20240505T215348Z">
-        <seg>Blokuj tworzenie przetłumaczonych plików &amp;z błędami znaczników</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T081451Z" creationid="mmstaw" creationdate="20240505T215348Z">
+        <seg>Blokuj tworzenie przetłumaczonych plików z błędami znaczników</seg>
       </tuv>
     </tu>
     <tu>
@@ -6547,8 +6547,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Source language tokenizer:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072033Z" creationid="M_Kossak" creationdate="20250415T072033Z">
-        <seg>Tokenizator języka źródłowego</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T081622Z" creationid="M_Kossak" creationdate="20250415T072033Z">
+        <seg>Tokenizator języka źródłowego:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6790,8 +6790,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Target language tokenizer:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072046Z" creationid="M_Kossak" creationdate="20250415T072046Z">
-        <seg>Tokenizator języka docelowego</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T081820Z" creationid="M_Kossak" creationdate="20250415T072046Z">
+        <seg>Tokenizator języka docelowego:</seg>
       </tuv>
     </tu>
     <tu>
