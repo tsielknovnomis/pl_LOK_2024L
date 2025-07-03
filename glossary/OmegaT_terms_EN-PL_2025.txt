@@ -45,8 +45,8 @@ encoding declaration	deklaracja kodowania
 error encountered reading	wystąpił problem przy odczycie	
 error saving	błąd przy zapisie	
 export translation	wyeksportuj tłumaczenie	
-export translation memory	wyeksportuj pamięć tłumaczeniową	
-export translation memory folder	wyeksportuj folder pamięci tłumaczeniowej	
+export translation memories folder	folder wyeksportowanych plików pamięci tłumaczeniowych	
+export translation memory folder	folder wyeksportowanego pliku pamięci tłumaczeniowej	
 external program	zewnętrzny program	
 external search	wyszukiwanie zewnętrzne	
 fallback	bazowa	(w przypadku czcionki)	
