@@ -1132,24 +1132,24 @@
       <tuv lang="en">
         <seg>50%-74%:</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250415T072631Z" creationid="UK" creationdate="20250415T072631Z">
-        <seg>50%-74%</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T083628Z" creationid="UK" creationdate="20250415T072631Z">
+        <seg>50%-74%:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>75%-84%:</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250415T072620Z" creationid="UK" creationdate="20250415T072620Z">
-        <seg>75%-84%</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T083626Z" creationid="UK" creationdate="20250415T072620Z">
+        <seg>75%-84%:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>85%-94%:</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250415T072612Z" creationid="UK" creationdate="20250415T072612Z">
-        <seg>85%-94%</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T083624Z" creationid="UK" creationdate="20250415T072612Z">
+        <seg>85%-94%:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2375,8 +2375,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Dictionaries folder:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071520Z" creationid="M_Kossak" creationdate="20250415T071520Z">
-        <seg>Folder słowników</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T083658Z" creationid="M_Kossak" creationdate="20250415T071520Z">
+        <seg>Folder słowników:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2944,8 +2944,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Export translation memories folder:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071650Z" creationid="M_Kossak" creationdate="20250415T071650Z">
-        <seg>Wyeksportuj folder pamięci tłumaczeniowej</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T083748Z" creationid="M_Kossak" creationdate="20250415T071650Z">
+        <seg>Wyeksportuj folder pamięci tłumaczeniowej:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3368,8 +3368,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Glossaries folder:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071611Z" creationid="M_Kossak" creationdate="20250415T071117Z">
-        <seg>Folder glosariuszy</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T083633Z" creationid="M_Kossak" creationdate="20250415T071117Z">
+        <seg>Folder glosariuszy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7163,8 +7163,8 @@ Trzecie Cię
       <tuv lang="en">
         <seg>Translation memories folder:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072502Z" creationid="M_Kossak" creationdate="20250415T072502Z">
-        <seg>Folder pamięci tłumaczeniowej</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T083630Z" creationid="M_Kossak" creationdate="20250415T072502Z">
+        <seg>Folder pamięci tłumaczeniowej:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7710,8 +7710,8 @@ a strony nie ma</seg>
       <tuv lang="en">
         <seg>Writable glossary file:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071345Z" creationid="M_Kossak" creationdate="20250415T071345Z">
-        <seg>Edytowalny plik glosariusza</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T083640Z" creationid="M_Kossak" creationdate="20250415T071345Z">
+        <seg>Edytowalny plik glosariusza:</seg>
       </tuv>
     </tu>
     <tu>
