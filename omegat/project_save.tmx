@@ -1826,8 +1826,8 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Nie można utworzyć folderu dla plików docelowych:</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080910Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nie można utworzyć folderu dla przetłumaczonych plików:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1882,8 +1882,8 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>Changing the tag order may break the translated file!</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T214630Z" creationid="mmstaw" creationdate="20240505T214630Z">
-        <seg>Zmiana kolejności znaczników może uszkodzić tłumaczony plik!</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T081038Z" creationid="mmstaw" creationdate="20240505T214630Z">
+        <seg>Zmiana kolejności znaczników może uszkodzić przetłumaczony plik!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2181,8 +2181,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create &amp;Translated Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20250703T080301Z" creationid="fw" creationdate="20240513T162731Z">
-        <seg>Utwórz tłumaczone pliki</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080751Z" creationid="fw" creationdate="20240513T162731Z">
+        <seg>Utwórz przetłumaczone pliki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2245,8 +2245,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Creating translated files: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="BZ" changedate="20250613T103145Z" creationid="BZ" creationdate="20250613T103145Z">
-        <seg>Tworzenie plików docelowych: {0}</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080839Z" creationid="BZ" creationdate="20250613T103145Z">
+        <seg>Tworzenie przetłumaczonych plików: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2992,8 +2992,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to create the translated files.</seg>
       </tuv>
-      <tuv lang="pl" changeid="BZ" changedate="20250613T100936Z" creationid="BZ" creationdate="20250613T100936Z">
-        <seg>Wystąpił bład podczas tworzenia plików docelowych.</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080802Z" creationid="BZ" creationdate="20250613T100936Z">
+        <seg>Wystąpił bład podczas tworzenia przetłumaczonych plików.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7051,16 +7051,16 @@ Trzecie Cię
       <tuv lang="en">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Folder plików docelowych</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T081002Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder przetłumaczonych plików</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Translated file created</seg>
       </tuv>
-      <tuv lang="pl" changeid="BZ" changedate="20250613T103239Z" creationid="BZ" creationdate="20250613T103239Z">
-        <seg>Utworzono plik docelowy</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080900Z" creationid="BZ" creationdate="20250613T103239Z">
+        <seg>Utworzono przetłumaczony plik</seg>
       </tuv>
     </tu>
     <tu>
@@ -7083,24 +7083,24 @@ Trzecie Cię
       <tuv lang="en">
         <seg>Translated files created</seg>
       </tuv>
-      <tuv lang="pl" changeid="BZ" changedate="20250613T103201Z" creationid="BZ" creationdate="20250613T103201Z">
-        <seg>Utworzono pliki docelowe</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080847Z" creationid="BZ" creationdate="20250613T103201Z">
+        <seg>Utworzono przetłumaczone pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Translated files folder:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071633Z" creationid="M_Kossak" creationdate="20250415T071633Z">
-        <seg>Folder przetłumaczonych plików</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080935Z" creationid="M_Kossak" creationdate="20250415T071633Z">
+        <seg>Folder przetłumaczonych plików:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Translated files language:</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250520T061719Z" creationid="M_Kossak" creationdate="20250415T071947Z">
-        <seg>Język plików docelowych</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080930Z" creationid="M_Kossak" creationdate="20250415T071947Z">
+        <seg>Język przetłumaczonych plików:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7243,8 +7243,8 @@ Trzecie Cię
       <tuv lang="en">
         <seg>Unable to create the translated files due to missing or damaged tags.</seg>
       </tuv>
-      <tuv lang="pl" changeid="BZ" changedate="20250613T101101Z" creationid="BZ" creationdate="20250613T101101Z">
-        <seg>Nie można utworzyć plików docelowych z powodu brakujących lub uszkodzonych znaczników.</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080815Z" creationid="BZ" creationdate="20250613T101101Z">
+        <seg>Nie można utworzyć przetłumaczonych plików z powodu brakujących lub uszkodzonych znaczników.</seg>
       </tuv>
     </tu>
     <tu>
