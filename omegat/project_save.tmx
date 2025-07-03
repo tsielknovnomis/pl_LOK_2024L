@@ -1564,8 +1564,8 @@
       <tuv lang="en">
         <seg>Authenticated proxy credentials:</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T173019Z" creationid="mmstaw" creationdate="20240506T173019Z">
-        <seg>Uwierzytelnione dane do serwera proxy</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T084132Z" creationid="mmstaw" creationdate="20240506T173019Z">
+        <seg>Uwierzytelnione dane do serwera proxy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3136,8 +3136,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240506T111326Z" creationid="mmstaw" creationdate="20240506T111326Z">
-        <seg>Wyróżniony tekst (wyrażenie regularne)</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T084144Z" creationid="mmstaw" creationdate="20240506T111326Z">
+        <seg>Wyróżniony tekst (wyrażenie regularne):</seg>
       </tuv>
     </tu>
     <tu>
@@ -4195,8 +4195,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Local post-processing commands (disabled):</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T061716Z" creationid="M_Kossak" creationdate="20250506T061527Z">
-        <seg>Komendy do lokalnego przetwarzania końcowego (nieaktywne)</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T084128Z" creationid="M_Kossak" creationdate="20250506T061527Z">
+        <seg>Komendy do lokalnego przetwarzania końcowego (nieaktywne):</seg>
       </tuv>
     </tu>
     <tu>
@@ -4595,8 +4595,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Name:</seg>
       </tuv>
-      <tuv lang="pl" changeid="DK" changedate="20250415T063903Z" creationid="DK" creationdate="20250415T063903Z">
-        <seg>Nazwa</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T084146Z" creationid="DK" creationdate="20250415T063903Z">
+        <seg>Nazwa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6531,8 +6531,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Source files language:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071925Z" creationid="M_Kossak" creationdate="20250415T071907Z">
-        <seg>Język plików źródłowych</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T084123Z" creationid="M_Kossak" creationdate="20250415T071907Z">
+        <seg>Język plików źródłowych:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7171,8 +7171,8 @@ Trzecie Cię
       <tuv lang="en">
         <seg>Translation memories to export:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250415T071811Z" creationid="M_Kossak" creationdate="20250415T071811Z">
-        <seg>Pamięci tłumaczeniowe do wyeksportowania</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T084120Z" creationid="M_Kossak" creationdate="20250415T071811Z">
+        <seg>Pamięci tłumaczeniowe do wyeksportowania:</seg>
       </tuv>
     </tu>
     <tu>
