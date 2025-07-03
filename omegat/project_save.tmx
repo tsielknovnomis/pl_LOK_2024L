@@ -1906,8 +1906,8 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>Character table auto-completer options</seg>
       </tuv>
-      <tuv lang="pl" changeid="KJ" changedate="20240603T211548Z" creationid="KJ" creationdate="20240603T211548Z">
-        <seg>Ustawienia autouzupełniania tablicy znaków</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T074924Z" creationid="KJ" creationdate="20240603T211548Z">
+        <seg>Ustawienia funkcji autouzupełniania tablicy znaków</seg>
       </tuv>
     </tu>
     <tu>
