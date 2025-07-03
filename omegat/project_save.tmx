@@ -1882,8 +1882,8 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>Changing the tag order may break the translated file!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20250703T081355Z" creationid="mmstaw" creationdate="20240505T214630Z">
-        <seg>Zmiana kolejności znaczników może uszkodzić plik docelowy!</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T082030Z" creationid="mmstaw" creationdate="20240505T214630Z">
+        <seg>Zmiana kolejności znaczników może uszkodzić przetłumaczony plik!</seg>
       </tuv>
     </tu>
     <tu>
