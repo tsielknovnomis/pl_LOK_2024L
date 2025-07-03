@@ -2197,8 +2197,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20250703T080133Z" creationid="fw" creationdate="20240513T162756Z">
-        <seg>Utwórz aktualnie tłumaczony plik docelowy</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080331Z" creationid="fw" creationdate="20240513T162756Z">
+        <seg>Utwórz aktualnie tłumaczony plik</seg>
       </tuv>
     </tu>
     <tu>
