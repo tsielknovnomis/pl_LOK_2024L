@@ -250,8 +250,8 @@
       <tuv lang="en">
         <seg>&amp;Current Source File</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T063714Z" creationid="M_Kossak" creationdate="20250401T065756Z">
-        <seg>Bieżący dokument źródłowy</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T075959Z" creationid="M_Kossak" creationdate="20250401T065756Z">
+        <seg>Bieżący plik źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1794,8 +1794,8 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>C&amp;urrent Target File</seg>
       </tuv>
-      <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T063720Z" creationid="M_Kossak" creationdate="20250401T070029Z">
-        <seg>Bieżący dokument docelowy</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080002Z" creationid="M_Kossak" creationdate="20250401T070029Z">
+        <seg>Bieżący plik docelowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2181,8 +2181,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create &amp;Translated Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T073055Z" creationid="fw" creationdate="20240513T162731Z">
-        <seg>Utwórz dokumenty docelowe</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080301Z" creationid="fw" creationdate="20240513T162731Z">
+        <seg>Utwórz tłumaczone pliki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2197,8 +2197,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070817Z" creationid="fw" creationdate="20240513T162756Z">
-        <seg>Utwórz aktualnie tłumaczony dokument</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T080133Z" creationid="fw" creationdate="20240513T162756Z">
+        <seg>Utwórz aktualnie tłumaczony plik docelowy</seg>
       </tuv>
     </tu>
     <tu>
