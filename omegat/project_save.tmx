@@ -1882,8 +1882,8 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>Changing the tag order may break the translated file!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20250703T081038Z" creationid="mmstaw" creationdate="20240505T214630Z">
-        <seg>Zmiana kolejności znaczników może uszkodzić przetłumaczony plik!</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T081355Z" creationid="mmstaw" creationdate="20240505T214630Z">
+        <seg>Zmiana kolejności znaczników może uszkodzić plik docelowy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5011,8 +5011,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Open Target File Location</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Otwórz lokację pliku docelowego</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T081306Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Otwórz lokalizację pliku docelowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -6782,8 +6782,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T161958Z" creationid="fw" creationdate="20240513T161958Z">
-        <seg>pliki docelowe potwierdzone</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T081236Z" creationid="fw" creationdate="20240513T161958Z">
+        <seg>Wysłane pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -7083,8 +7083,8 @@ Trzecie Cię
       <tuv lang="en">
         <seg>Translated files created</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20250703T080847Z" creationid="BZ" creationdate="20250613T103201Z">
-        <seg>Utworzono przetłumaczone pliki docelowe</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T081341Z" creationid="BZ" creationdate="20250613T103201Z">
+        <seg>Utworzono przetłumaczone pliki</seg>
       </tuv>
     </tu>
     <tu>
