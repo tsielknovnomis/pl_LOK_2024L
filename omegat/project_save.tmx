@@ -2944,8 +2944,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Export translation memories folder:</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20250703T083748Z" creationid="M_Kossak" creationdate="20250415T071650Z">
-        <seg>Wyeksportuj folder pamięci tłumaczeniowej:</seg>
+      <tuv lang="pl" changeid="SvK" changedate="20250703T084111Z" creationid="M_Kossak" creationdate="20250415T071650Z">
+        <seg>Folder wyeksportowanych pamięci tłumaczeniowych:</seg>
       </tuv>
     </tu>
     <tu>
