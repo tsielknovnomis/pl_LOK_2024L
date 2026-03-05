@@ -5090,6 +5090,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260305T114116Z" creationid="kh" creationdate="20260305T114116Z">
+        <seg>Tryb nadpisywania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>P&amp;revious Segment from tm/enforce/</seg>
       </tuv>
       <tuv lang="pl" changeid="UK" changedate="20250325T082015Z" creationid="KJ" creationdate="20240423T071918Z">
