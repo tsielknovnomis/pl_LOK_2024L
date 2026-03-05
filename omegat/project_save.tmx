@@ -2269,6 +2269,22 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260305T113155Z" creationid="kh" creationdate="20260305T113155Z">
+        <seg>Kursor zablokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260305T113236Z" creationid="kh" creationdate="20260305T113236Z">
+        <seg>Kursor </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T061746Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
