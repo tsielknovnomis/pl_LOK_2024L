@@ -4001,14 +4001,6 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>LCK</seg>
-      </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Kursor zablokowany</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Language checker</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T064151Z" creationid="Patryk_Świech" creationdate="20250429T064057Z">
