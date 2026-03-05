@@ -2279,8 +2279,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Cursor unlocked</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260305T113532Z" creationid="kh" creationdate="20260305T113236Z">
-        <seg>Kursor odblokowany</seg>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20260305T113749Z" creationid="simon.kleist" creationdate="20260305T113749Z">
+        <seg>Kursor niezablokowany</seg>
       </tuv>
     </tu>
     <tu>
@@ -7245,14 +7245,6 @@ Trzecie Cię
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>N&amp;ieprzetłumaczone</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>UNL</seg>
-      </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Kursor odblokowany</seg>
       </tuv>
     </tu>
     <tu>
