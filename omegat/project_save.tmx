@@ -7273,6 +7273,14 @@ Trzecie Cię
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Kursor odblokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063131Z" creationid="M_Kossak" creationdate="20250506T063131Z">
