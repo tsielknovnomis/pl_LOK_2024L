@@ -3800,6 +3800,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20260305T114314Z" creationid="simon.kleist" creationdate="20260305T114314Z">
+        <seg>Tryb wstawiania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Next Missing T&amp;ag</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T150923Z" creationid="mmstaw" creationdate="20240505T150923Z">
