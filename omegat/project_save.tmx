@@ -2279,8 +2279,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>Cursor unlocked</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260305T113236Z" creationid="kh" creationdate="20260305T113236Z">
-        <seg>Kursor </seg>
+      <tuv lang="pl" changeid="kh" changedate="20260305T113532Z" creationid="kh" creationdate="20260305T113236Z">
+        <seg>Kursor odblokowany</seg>
       </tuv>
     </tu>
     <tu>
