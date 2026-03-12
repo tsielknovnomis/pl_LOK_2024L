@@ -4875,56 +4875,56 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260312T112819Z" creationid="JZ" creationdate="20260312T112551Z">
-        <seg>Powiadom mnie, gdy segment ma "{0}"</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260312T113506Z" creationid="JZ" creationdate="20260312T112551Z">
+        <seg>Powiadom mnie, gdy segment zawiera "{0}"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260312T112808Z" creationid="kh" creationdate="20260312T112808Z">
-        <seg>Powiadom mnie, gdy segment ma komentarze</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260312T113506Z" creationid="kh" creationdate="20260312T112808Z">
+        <seg>Powiadom mnie, gdy segment zawiera komentarze</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260312T113156Z" creationid="JZ" creationdate="20260312T113156Z">
-        <seg>Powiadom mnie, gdy segment zawiera hasła słownikowe</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260312T113300Z" creationid="JZ" creationdate="20260312T113156Z">
+        <seg>FPowiadom mnie, gdy segment zawiera hasła słownikowe</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260312T112958Z" creationid="kh" creationdate="20260312T112958Z">
-        <seg>Powiadom mnie, gdy segment ma dopasowania z glosariusza</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260312T113506Z" creationid="kh" creationdate="20260312T112958Z">
+        <seg>Powiadom mnie, gdy segment zawiera dopasowania z glosariusza</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
-      <tuv lang="pl" changeid="d55" changedate="20230310T092056Z" creationid="d55" creationdate="20230310T092056Z">
-        <seg>Powiadom mnie, gdy segment ma wiele tłumaczeń</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260312T113506Z" creationid="d55" creationdate="20230310T092056Z">
+        <seg>Powiadom mnie, gdy segment zawiera wiele tłumaczeń</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260312T112915Z" creationid="JZ" creationdate="20260312T112915Z">
-        <seg>Powiadom mnie, gdy segment ma notatki</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260312T113506Z" creationid="JZ" creationdate="20260312T112915Z">
+        <seg>Powiadom mnie, gdy segment zawiera notatki</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260312T113207Z" creationid="kh" creationdate="20260312T113207Z">
-        <seg>Powiadom mnie, gdy segment ma dopasowania rozmyte</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260312T113506Z" creationid="kh" creationdate="20260312T113207Z">
+        <seg>Powiadom mnie, gdy segment zawiera dopasowania rozmyte</seg>
       </tuv>
     </tu>
     <tu>
