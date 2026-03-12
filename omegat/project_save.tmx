@@ -4891,8 +4891,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260312T113300Z" creationid="JZ" creationdate="20260312T113156Z">
-        <seg>FPowiadom mnie, gdy segment zawiera hasła słownikowe</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260312T113622Z" creationid="JZ" creationdate="20260312T113156Z">
+        <seg>Powiadom mnie, gdy segment zawiera hasła słownikowe</seg>
       </tuv>
     </tu>
     <tu>
