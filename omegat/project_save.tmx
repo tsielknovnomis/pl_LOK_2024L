@@ -4873,6 +4873,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260312T112551Z" creationid="JZ" creationdate="20260312T112551Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092056Z" creationid="d55" creationdate="20230310T092056Z">
