@@ -6401,6 +6401,14 @@ Znika niczym mgła
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show Raw Key Names</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260312T112352Z" creationid="kh" creationdate="20260312T112352Z">
+        <seg>Pokaż pierwotne nazwy kluczy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Replace Search Bar</seg>
       </tuv>
       <tuv lang="pl" changeid="UK" changedate="20250429T071044Z" creationid="UK" creationdate="20250429T070827Z">
