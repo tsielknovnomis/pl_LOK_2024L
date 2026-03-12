@@ -3824,6 +3824,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Selection</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260312T114042Z" creationid="kh" creationdate="20260312T114042Z">
+        <seg>Wstaw zaznaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Tag {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -5109,6 +5117,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20250703T081306Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Otwórz lokalizację pliku docelowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260312T114354Z" creationid="kh" creationdate="20260312T114354Z">
+        <seg>Otwórz plik edytowalnego glosariusza</seg>
       </tuv>
     </tu>
     <tu>
