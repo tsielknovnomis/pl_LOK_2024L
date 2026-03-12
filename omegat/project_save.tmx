@@ -4889,6 +4889,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260312T112958Z" creationid="kh" creationdate="20260312T112958Z">
+        <seg>Powiadom mnie, gdy segment ma dopasowania z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092056Z" creationid="d55" creationdate="20230310T092056Z">
