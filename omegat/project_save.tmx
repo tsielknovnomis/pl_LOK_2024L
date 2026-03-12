@@ -5123,8 +5123,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Open Writable Glossary File</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260312T114354Z" creationid="kh" creationdate="20260312T114354Z">
-        <seg>Otwórz plik edytowalnego glosariusza</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260312T114822Z" creationid="kh" creationdate="20260312T114354Z">
+        <seg>Otwórz edytowalny plik glosariusza</seg>
       </tuv>
     </tu>
     <tu>
