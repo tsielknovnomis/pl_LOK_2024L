@@ -6561,10 +6561,26 @@ Znika niczym mgła
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort definitions by length</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T105927Z" creationid="kh" creationdate="20260319T105927Z">
+        <seg>Sortuj definicje pod kątem długości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Sortuj dopasowania rozmyte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort similar terms by length</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T105904Z" creationid="kh" creationdate="20260319T105904Z">
+        <seg>Sortuj podobne terminy pod kątem długości</seg>
       </tuv>
     </tu>
     <tu>
