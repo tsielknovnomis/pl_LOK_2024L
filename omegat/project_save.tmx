@@ -3343,14 +3343,6 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>GO</seg>
-      </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260319T111341Z" creationid="kh" creationdate="20260319T110935Z">
-        <seg>Przejdź</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>General</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T091251Z" creationid="d55" creationdate="20230310T091251Z">
@@ -5474,6 +5466,14 @@ Znika niczym mgła
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project files:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T111418Z" creationid="kh" creationdate="20260319T111418Z">
+        <seg>Pliki &amp;projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -7105,6 +7105,14 @@ Znika niczym mgła
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20250703T084554Z" creationid="SvK" creationdate="20250703T084554Z">
         <seg>Folder wyeksportowanych plików pamięci tłumaczeniowych nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T111425Z" creationid="kh" creationdate="20260319T111425Z">
+        <seg>Projekt jest pusty</seg>
       </tuv>
     </tu>
     <tu>
