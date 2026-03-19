@@ -7973,6 +7973,14 @@ a strony nie ma</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T105220Z" creationid="kh" creationdate="20260319T105220Z">
+        <seg>[Rozmyte]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T192220Z" creationid="KJ" creationdate="20240603T192220Z">
