@@ -3031,6 +3031,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T111728Z" creationid="kh" creationdate="20260319T111728Z">
+        <seg>Nie można skopiować plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3043,6 +3051,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20250703T080802Z" creationid="BZ" creationdate="20250613T100936Z">
         <seg>Wystąpił bład podczas tworzenia przetłumaczonych plików.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T111715Z" creationid="kh" creationdate="20260319T111715Z">
+        <seg>Nie można pobrać strony</seg>
       </tuv>
     </tu>
     <tu>
@@ -3339,6 +3355,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Dopasowania rozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GO</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T111629Z" creationid="kh" creationdate="20260319T111629Z">
+        <seg>Przejdź &amp;do</seg>
       </tuv>
     </tu>
     <tu>
@@ -5482,6 +5506,14 @@ Znika niczym mgła
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provided URL is invalid.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T111704Z" creationid="kh" creationdate="20260319T111704Z">
+        <seg>Podany adres URL jest nieprawidłowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provider</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T091247Z" creationid="d55" creationdate="20230310T091247Z">
@@ -7438,6 +7470,14 @@ Trzecie Cię
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063131Z" creationid="M_Kossak" creationdate="20250506T063131Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL Error</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T111708Z" creationid="kh" creationdate="20260319T111708Z">
+        <seg>Błąd URL</seg>
       </tuv>
     </tu>
     <tu>
