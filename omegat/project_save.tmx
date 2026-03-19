@@ -6634,6 +6634,14 @@ Znika niczym mgła
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by Source Term Length when two or more terms start with the same characters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260319T113037Z" creationid="JZ" creationdate="20260319T113037Z">
+        <seg>Sortuj według długości terminów źródłowych, gdy dwa lub więcej zaczynają się od tego samego znaku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T195737Z" creationid="KJ" creationdate="20240603T195737Z">
