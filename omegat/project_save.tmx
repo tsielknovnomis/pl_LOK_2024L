@@ -4930,6 +4930,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T112126Z" creationid="kh" creationdate="20260319T112002Z">
+        <seg>Powiadom mnie, nawet jeśli nie ma wyników wyszukiwania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
       <tuv lang="pl" changeid="JZ" changedate="20260312T113506Z" creationid="JZ" creationdate="20260312T112551Z">
@@ -8226,6 +8234,14 @@ a strony nie ma</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T065411Z" creationid="DK" creationdate="20250506T065411Z">
         <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} matches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T112007Z" creationid="kh" creationdate="20260319T112007Z">
+        <seg>Brak dopasowania:</seg>
       </tuv>
     </tu>
     <tu>
