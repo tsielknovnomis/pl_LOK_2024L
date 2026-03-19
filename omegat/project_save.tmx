@@ -2164,6 +2164,14 @@ Groß-, Kleinschreibung</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T110900Z" creationid="kh" creationdate="20260319T110900Z">
+        <seg>Kopiuj treść błędu do schowka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -5014,6 +5022,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Folder projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T110921Z" creationid="kh" creationdate="20260319T110921Z">
+        <seg>OmegaT automatycznie wybrał opcję 'Tak'.</seg>
       </tuv>
     </tu>
     <tu>
