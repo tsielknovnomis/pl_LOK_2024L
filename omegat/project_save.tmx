@@ -3343,6 +3343,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GO</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T111341Z" creationid="kh" creationdate="20260319T110935Z">
+        <seg>Przejdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>General</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T091251Z" creationid="d55" creationdate="20230310T091251Z">
@@ -6302,6 +6310,14 @@ Znika niczym mgła
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wybierz dopasowanie nr &amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T110939Z" creationid="kh" creationdate="20260319T110931Z">
+        <seg>Wybierz projekt</seg>
       </tuv>
     </tu>
     <tu>
