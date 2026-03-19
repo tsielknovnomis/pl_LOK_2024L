@@ -4314,6 +4314,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260319T112154Z" creationid="kh" creationdate="20260319T112154Z">
+        <seg>Opcje tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translations</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250429T070127Z" creationid="M_Kossak" creationdate="20250429T070127Z">
