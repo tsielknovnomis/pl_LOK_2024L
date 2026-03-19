@@ -1251,6 +1251,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260319T115356Z" creationid="JZ" creationdate="20260319T115356Z">
+        <seg>O programie OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access &amp;Configuration Folder</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T092324Z" creationid="KJ" creationdate="20240513T092324Z">
