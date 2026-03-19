@@ -3,3 +3,4 @@ Insert Bidi Control Character	Wstaw znak sterujący kierunkiem tekst
 Writable Glossary	Edytowalny glosariusz
 Writable Glossary	edytowalny glosariusz
 Clear	Wyczyść
+Add	Dodaj
