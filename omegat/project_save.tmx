@@ -716,8 +716,8 @@
       <tuv lang="en">
         <seg>&amp;Quit</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Zakończ</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T112339Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zakończ</seg>
       </tuv>
     </tu>
     <tu>
