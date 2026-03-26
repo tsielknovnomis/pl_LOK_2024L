@@ -2214,8 +2214,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create A&amp;lternative Translation</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T173105Z" creationid="mmstaw" creationdate="20240505T173105Z">
-        <seg>Utwórz tłumaczenie a&amp;lternatywne</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260326T113102Z" creationid="mmstaw" creationdate="20240505T173105Z">
+        <seg>Utwórz tłumaczenie &amp;alternatywne</seg>
       </tuv>
     </tu>
     <tu>
@@ -6492,8 +6492,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Set Empty Translation</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T203211Z" creationid="mmstaw" creationdate="20240505T203211Z">
-        <seg>Oznacz tłumaczenie jako puste</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260326T113122Z" creationid="mmstaw" creationdate="20240505T203211Z">
+        <seg>Oznacz tłumaczenie jako &amp;puste</seg>
       </tuv>
     </tu>
     <tu>
