@@ -251,8 +251,8 @@
       <tuv lang="en">
         <seg>&amp;Current Source File</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20250703T075959Z" creationid="M_Kossak" creationdate="20250401T065756Z">
-        <seg>Bieżący plik źródłowy</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T115742Z" creationid="M_Kossak" creationdate="20250401T065756Z">
+        <seg>&amp;Bieżący plik źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1053,8 +1053,8 @@
       <tuv lang="en">
         <seg>&amp;Writable Glossary</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070058Z" creationid="M_Kossak" creationdate="20250401T070058Z">
-        <seg>Nadpisywalny glosariusz</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T115844Z" creationid="M_Kossak" creationdate="20250401T070058Z">
+        <seg>&amp;Nadpisywalny glosariusz</seg>
       </tuv>
     </tu>
     <tu>
@@ -1811,8 +1811,8 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>C&amp;urrent Target File</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20250703T080002Z" creationid="M_Kossak" creationdate="20250401T070029Z">
-        <seg>Bieżący plik docelowy</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T115806Z" creationid="M_Kossak" creationdate="20250401T070029Z">
+        <seg>B&amp;ieżący plik docelowy</seg>
       </tuv>
     </tu>
     <tu>
