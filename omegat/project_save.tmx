@@ -40,8 +40,8 @@
       <tuv lang="en">
         <seg>&amp;Add Files...</seg>
       </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260326T113045Z" creationid="fw" creationdate="20240513T160624Z">
-        <seg>Dodaj pliki</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T113606Z" creationid="fw" creationdate="20240513T160624Z">
+        <seg>Dodaj pliki...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5164,8 +5164,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Op&amp;en Recent...</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250401T062859Z" creationid="SvK" creationdate="20240423T061855Z">
-        <seg>Ostatnie projekty...</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T113706Z" creationid="SvK" creationdate="20240423T061855Z">
+        <seg>&amp;Ostatnie projekty...</seg>
       </tuv>
     </tu>
     <tu>
