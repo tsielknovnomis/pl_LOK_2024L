@@ -3859,8 +3859,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Insert Missing &amp;Tags</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T150854Z" creationid="mmstaw" creationdate="20240505T150638Z">
-        <seg>Wstaw brakujący &amp;znacznik</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260326T113616Z" creationid="mmstaw" creationdate="20240505T150638Z">
+        <seg>Wstaw brakujący znacznik</seg>
       </tuv>
     </tu>
     <tu>
@@ -5588,8 +5588,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
-      <tuv lang="pl" changeid="akossek" changedate="20230414T081208Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Zastąp dopasowaniem lub zaznaczeniem</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260326T113719Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zastąp dopasowaniem lub zaznaczeniem</seg>
       </tuv>
     </tu>
     <tu>
@@ -6164,8 +6164,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Se&amp;lect Source Text</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T150406Z" creationid="mmstaw" creationdate="20240505T150350Z">
-        <seg>Za&amp;znacz tekst źródłowy</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260326T113542Z" creationid="mmstaw" creationdate="20240505T150350Z">
+        <seg>Zaznacz tekst źródłowy</seg>
       </tuv>
     </tu>
     <tu>
