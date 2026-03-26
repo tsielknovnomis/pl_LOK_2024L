@@ -459,8 +459,8 @@
       <tuv lang="en">
         <seg>&amp;Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Wstaw dopasowanie lub zaznaczenie</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260326T112937Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wstaw dopasowanie lub zaznaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2198,8 +2198,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Utwórz &amp;wpis do glosariusza...</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260326T113034Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Utwórz wpis do glosariusza...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6036,8 +6036,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>S&amp;witch Case to</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240521T061408Z" creationid="mmstaw" creationdate="20240505T152639Z">
-        <seg>Z&amp;mień wielkość liter</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260326T112914Z" creationid="mmstaw" creationdate="20240505T152639Z">
+        <seg>Zmień &amp;wielkość liter</seg>
       </tuv>
     </tu>
     <tu>
