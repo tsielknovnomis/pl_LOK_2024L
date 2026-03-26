@@ -884,8 +884,8 @@
       <tuv lang="en">
         <seg>&amp;Sentence case</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153954Z" creationid="mmstaw" creationdate="20240505T153954Z">
-        <seg>&amp;Jak w zdaniu</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260326T115053Z" creationid="mmstaw" creationdate="20240505T153954Z">
+        <seg>Jak w &amp;zdaniu</seg>
       </tuv>
     </tu>
     <tu>
