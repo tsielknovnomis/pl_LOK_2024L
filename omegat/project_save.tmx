@@ -940,8 +940,8 @@
       <tuv lang="en">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240602T130453Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Pliki źródłowe</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T114409Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -5293,8 +5293,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>P&amp;roject Folder</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250401T070022Z" creationid="M_Kossak" creationdate="20250401T070022Z">
-        <seg>Folder projektu</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T114319Z" creationid="M_Kossak" creationdate="20250401T070022Z">
+        <seg>&amp;Folder projektu</seg>
       </tuv>
     </tu>
     <tu>
