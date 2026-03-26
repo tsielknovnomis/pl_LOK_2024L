@@ -40,8 +40,8 @@
       <tuv lang="en">
         <seg>&amp;Add Files...</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250429T062024Z" creationid="fw" creationdate="20240513T160624Z">
-        <seg>Dodaj pliki</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T112806Z" creationid="fw" creationdate="20240513T160624Z">
+        <seg>&amp;Dodaj pliki</seg>
       </tuv>
     </tu>
     <tu>
