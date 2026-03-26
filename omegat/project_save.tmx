@@ -980,8 +980,8 @@
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240505T153920Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Jak Nazwy Własne</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260326T115030Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Jak &amp;Nazwy Własne</seg>
       </tuv>
     </tu>
     <tu>
