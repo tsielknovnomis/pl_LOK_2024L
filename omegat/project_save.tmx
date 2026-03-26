@@ -40,8 +40,8 @@
       <tuv lang="en">
         <seg>&amp;Add Files...</seg>
       </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260326T112806Z" creationid="fw" creationdate="20240513T160624Z">
-        <seg>&amp;Dodaj pliki</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T113045Z" creationid="fw" creationdate="20240513T160624Z">
+        <seg>Dodaj pliki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1325,8 +1325,8 @@
       <tuv lang="en">
         <seg>Add &amp;Files...</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250401T062917Z" creationid="fw" creationdate="20240513T161056Z">
-        <seg>Dodaj pliki...</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260326T113055Z" creationid="fw" creationdate="20240513T161056Z">
+        <seg>&amp;Dodaj pliki...</seg>
       </tuv>
     </tu>
     <tu>
