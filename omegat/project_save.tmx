@@ -492,8 +492,8 @@
       <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Szukaj słów kluczowych</seg>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T145151Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyszukiwanie słów &amp;kluczowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -740,8 +740,8 @@
       <tuv lang="en">
         <seg>&amp;Regular expressions</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Wyrażenie regularne</seg>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T145228Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyrażenia &amp;regularne</seg>
       </tuv>
     </tu>
     <tu>
@@ -1867,16 +1867,16 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063826Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Zmiana po:</seg>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T151024Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zmiana &amp;przed:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Changed after:</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Zmiana przed:</seg>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T150948Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zmiana po:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2578,6 +2578,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Chcesz zakończyć pracę i wyjść z programu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T161438Z" creationid="klaud" creationdate="20260410T161438Z">
+        <seg>Czy chcesz kontynuować?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3296,6 +3304,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T143610Z" creationid="klaud" creationdate="20260410T143610Z">
+        <seg>Folder istnieje i nie jest pusty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T205746Z" creationid="KJ" creationdate="20240603T205746Z">
@@ -3418,8 +3434,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Full/half-&amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T064227Z" creationid="M_Kossak" creationdate="20250506T064227Z">
-        <seg>Ignoruj wielkość liter</seg>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T152011Z" creationid="M_Kossak" creationdate="20250506T064227Z">
+        <seg>Nie uwzględniaj znaków o pełnej/połówkowej szerokości</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,8 +3682,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Hide &amp;Options</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250429T062432Z" creationid="M_Kossak" creationdate="20250429T062411Z">
-        <seg>Ukryj ustawienia</seg>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T150926Z" creationid="M_Kossak" creationdate="20250429T062411Z">
+        <seg>Ukryj opcje</seg>
       </tuv>
     </tu>
     <tu>
@@ -4429,8 +4445,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Main Memor&amp;y</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063939Z" creationid="M_Kossak" creationdate="20250506T063939Z">
-        <seg>Głównej pamięci tłumaczeniowej</seg>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T155459Z" creationid="M_Kossak" creationdate="20250506T063939Z">
+        <seg>Główna pamięć tłumaczeniowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5203,6 +5219,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T144434Z" creationid="klaud" creationdate="20260410T144434Z">
+        <seg>OmegaT nie ma uprawnień do odczytu i zapisu w tym folderze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190549Z" creationid="mmstaw" creationdate="20240506T190549Z">
@@ -5741,8 +5765,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Reference T&amp;Ms</seg>
       </tuv>
-      <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063955Z" creationid="M_Kossak" creationdate="20250506T063955Z">
-        <seg>Referencyjnych pamięciach tłumaczeniowych</seg>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T160123Z" creationid="M_Kossak" creationdate="20250506T063955Z">
+        <seg>Referencyjna pamięć tłumaczeniowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -6117,8 +6141,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20231009T213340Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>U&amp;względnij spację niełamiącą</seg>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T155259Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>S&amp;pacja odpowiada spacji niełamiącej</seg>
       </tuv>
     </tu>
     <tu>
@@ -6191,6 +6215,16 @@ Znika niczym mgła
       </tuv>
       <tuv lang="pl" changeid="BZ" changedate="20250613T103615Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Zapisywanie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T163331Z" creationid="klaud" creationdate="20260410T161811Z">
+        <seg>Zakres wyszukiwań:
+Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i docelowy, referencyjne pamięci tłumaczeniowe, glosariusze, notatki i komentarze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6511,6 +6545,14 @@ Znika niczym mgła
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250429T063940Z" creationid="DK" creationdate="20250429T063940Z">
         <seg>Wybierz plik skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T143639Z" creationid="klaud" creationdate="20260410T143639Z">
+        <seg>Wybierz inny folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,6 +7176,14 @@ Znika niczym mgła
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Search &amp;Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T150922Z" creationid="klaud" creationdate="20260410T150811Z">
+        <seg>&amp;Opcje wyszukiwania w pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Table View</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T064306Z" creationid="DK" creationdate="20250506T064306Z">
@@ -7439,6 +7489,14 @@ Trzecie Cię
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092335Z" creationid="d55" creationdate="20230310T092335Z">
         <seg>Ten projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tick or untick the appropriate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T205558Z" creationid="klaud" creationdate="20260410T205558Z">
+        <seg>Zaznacz lub odznacz odpowiednie pola, aby zmienić te ustawienia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8214,6 +8272,14 @@ a strony nie ma</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wrong URL detected in Linkifier: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T143522Z" creationid="klaud" creationdate="20260410T143522Z">
+        <seg>W Linkifier wykryto nieprawidłowy adres URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XHTML</seg>
       </tuv>
       <tuv lang="pl" changeid="UK" changedate="20250401T071631Z" creationid="UK" creationdate="20250401T071631Z">
@@ -8242,6 +8308,14 @@ a strony nie ma</seg>
       </tuv>
       <tuv lang="pl" changeid="d5548" changedate="20240604T064545Z" creationid="mmstaw" creationdate="20240506T172157Z">
         <seg>Obecnie korzystasz z najnowszej wersji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260410T161425Z" creationid="klaud" creationdate="20260410T161425Z">
+        <seg>Zmodyfikujesz {0} segmentów.</seg>
       </tuv>
     </tu>
     <tu>
