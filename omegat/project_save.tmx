@@ -2778,8 +2778,8 @@ Nowa wersja: {2}</seg>
         <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
 is the language code and YY is the region or country code (optional).</seg>
       </tuv>
-      <tuv lang="pl" changeid="klaud" changedate="20260410T112725Z" creationid="klaud" creationdate="20260410T112725Z">
-        <seg>Wprowadź kod języka w formacie xx-YY, xxx-YY, xx_YY or xxx_YY, gdzie xx lub xxx to kod języka, a YY to kod regionu lub kraju (opcjonalnie)</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T095536Z" creationid="klaud" creationdate="20260410T112725Z">
+        <seg>Wprowadź kod języka w formacie xx-YY, xxx-YY, xx_YY or xxx_YY, gdzie xx lub xxx to kod języka, a YY to kod regionu lub kraju (opcjonalnie).</seg>
       </tuv>
     </tu>
     <tu>
