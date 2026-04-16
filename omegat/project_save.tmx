@@ -347,8 +347,8 @@
       <tuv lang="en">
         <seg>&amp;Exact search</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Wyszukiwanie dokładne</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T103344Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyszukiwanie &amp;dokładne</seg>
       </tuv>
     </tu>
     <tu>
@@ -3918,8 +3918,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>W źr&amp;ódle</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T103310Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>W ź&amp;ródle</seg>
       </tuv>
     </tu>
     <tu>
@@ -6215,8 +6215,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="pl" changeid="klaud" changedate="20260410T155259Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>S&amp;pacja odpowiada spacji niełamiącej</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T103431Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Spacja odpowiada spacji niełamiącej</seg>
       </tuv>
     </tu>
     <tu>
@@ -7829,8 +7829,8 @@ Wyszukiwania dokładne odpowiadają całemu ciągowi wyszukiwania.</seg>
       <tuv lang="en">
         <seg>U&amp;ntranslated</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>N&amp;ieprzetłumaczone</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T103247Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Nieprzetłumaczone</seg>
       </tuv>
     </tu>
     <tu>
