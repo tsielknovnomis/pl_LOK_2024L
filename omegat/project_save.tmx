@@ -8410,8 +8410,8 @@ a strony nie ma</seg>
       <tuv lang="en">
         <seg>Wrong URL detected in Linkifier: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="klaud" changedate="20260410T143522Z" creationid="klaud" creationdate="20260410T143522Z">
-        <seg>W Linkifier wykryto nieprawidłowy adres URL:</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T101124Z" creationid="klaud" creationdate="20260410T143522Z">
+        <seg>W Linkifier wykryto nieprawidłowy adres URL: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8659,8 +8659,8 @@ a strony nie ma</seg>
       <tuv lang="en">
         <seg>{0} matches</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260319T112007Z" creationid="kh" creationdate="20260319T112007Z">
-        <seg>Brak dopasowania:</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T101255Z" creationid="kh" creationdate="20260319T112007Z">
+        <seg>Brak dopasowania: {0}</seg>
       </tuv>
     </tu>
     <tu>
