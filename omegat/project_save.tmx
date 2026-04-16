@@ -1583,8 +1583,8 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
       <tuv lang="en">
         <seg>Aut&amp;hor:</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Au&amp;tor:</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T103754Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Autor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1805,8 +1805,8 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260416T103148Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Uwzględnij wielkość liter</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T103825Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Uwzględnij wielkość &amp;liter</seg>
       </tuv>
     </tu>
     <tu>
@@ -3732,8 +3732,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Hide &amp;Options</seg>
       </tuv>
-      <tuv lang="pl" changeid="klaud" changedate="20260410T150926Z" creationid="M_Kossak" creationdate="20250429T062411Z">
-        <seg>Ukryj opcje</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T103702Z" creationid="M_Kossak" creationdate="20250429T062411Z">
+        <seg>&amp;Ukryj opcje</seg>
       </tuv>
     </tu>
     <tu>
