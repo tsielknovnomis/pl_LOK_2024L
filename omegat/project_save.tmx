@@ -1805,8 +1805,8 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>U&amp;względnij wielkość liter</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T103148Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Uwzględnij wielkość liter</seg>
       </tuv>
     </tu>
     <tu>
