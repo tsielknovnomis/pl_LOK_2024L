@@ -4044,8 +4044,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Invalid translated file language!</seg>
       </tuv>
-      <tuv lang="pl" changeid="klaud" changedate="20260410T115351Z" creationid="klaud" creationdate="20260410T115351Z">
-        <seg>Nieprawidłowy język przetłumaczonego pliku</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T100029Z" creationid="klaud" creationdate="20260410T115351Z">
+        <seg>Nieprawidłowy język przetłumaczonego pliku!</seg>
       </tuv>
     </tu>
     <tu>
