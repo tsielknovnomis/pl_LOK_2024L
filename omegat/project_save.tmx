@@ -363,8 +363,8 @@
       <tuv lang="en">
         <seg>&amp;Files</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>&amp;Pliki</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T105341Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pl&amp;iki</seg>
       </tuv>
     </tu>
     <tu>
@@ -6553,8 +6553,8 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       <tuv lang="en">
         <seg>Select Fol&amp;der</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Wybierz fol&amp;der</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T105304Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>W&amp;ybierz folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -7651,8 +7651,8 @@ Trzecie Cię
       <tuv lang="en">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Przet&amp;łumaczone lub nieprzetłumaczone </seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T105227Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przetłumaczone lu&amp;b nieprzetłumaczone </seg>
       </tuv>
     </tu>
     <tu>
