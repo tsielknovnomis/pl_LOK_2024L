@@ -1885,16 +1885,16 @@ Kup jeszcze drinka</seg>
       <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
-      <tuv lang="pl" changeid="klaud" changedate="20260410T151024Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Zmiana &amp;przed:</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T104044Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zmiana prz&amp;ed:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Changed after:</seg>
       </tuv>
-      <tuv lang="pl" changeid="klaud" changedate="20260410T150948Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Zmiana po:</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T104016Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Zmiana po:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3476,8 +3476,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Full/half-&amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="pl" changeid="klaud" changedate="20260410T152011Z" creationid="M_Kossak" creationdate="20250506T064227Z">
-        <seg>Nie uwzględniaj znaków o pełnej/połówkowej szerokości</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260416T104204Z" creationid="M_Kossak" creationdate="20250506T064227Z">
+        <seg>Nie uwz&amp;ględniaj znaków o pełnej/połówkowej szerokości</seg>
       </tuv>
     </tu>
     <tu>
