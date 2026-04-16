@@ -1067,6 +1067,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T122906Z" creationid="klaud" creationdate="20260414T122906Z">
+        <seg>Znakowi „*" odpowiada zero lub więcej znaków (na przykład, szukany tekst „tak*" będzie odpowiadał „tak", „taki" i „także").
+Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie odpowiadać „taki" i „taka", ale nie „tak" czy „także").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(+{0} more)</seg>
       </tuv>
       <tuv lang="pl">
@@ -1611,6 +1621,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T123555Z" creationid="klaud" creationdate="20260414T123555Z">
+        <seg>Autosynchronizacja z edytorem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T204720Z" creationid="KJ" creationdate="20240603T204720Z">
@@ -2021,6 +2039,14 @@ Kup jeszcze drinka</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Zam&amp;knij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T124154Z" creationid="klaud" creationdate="20260414T124154Z">
+        <seg>Zamknij okno wyszukiwania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2848,6 +2874,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T123838Z" creationid="klaud" creationdate="20260414T123838Z">
+        <seg>Błąd przy zastępowaniu wyrażeń regularnych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error in file</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -2892,6 +2926,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Błąd przy zapisywaniu ustawień segmentacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T123737Z" creationid="klaud" creationdate="20260414T123737Z">
+        <seg>Błąd przy przeszukiwaniu drzewa folderów!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3616,6 +3658,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T124044Z" creationid="klaud" creationdate="20260414T124044Z">
+        <seg>Grupa {0} nie istnieje w wyszukiwanej frazie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4167,6 +4217,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wyrażenie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T123222Z" creationid="klaud" creationdate="20260414T123222Z">
+        <seg>Nie ma możliwości wyszukiwania słów kluczowych w ciągu wyszukiwania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyword searches match all space-separated keywords in any order.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T120834Z" creationid="klaud" creationdate="20260414T120834Z">
+        <seg>Wyszukiwanie słów kluczowych odpowiada wszystkim słowom kluczowym oddzielonym spacjami w dowolnej kolejności.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5795,6 +5861,14 @@ Znika niczym mgła
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T121227Z" creationid="klaud" creationdate="20260414T121227Z">
+        <seg>Wyszukiwania wyrażeń regularnych odpowiadają wyrażeniom regularnym w języku Java, określonych w podręczniku użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reinstall the {0} plugin?</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T155545Z" creationid="mmstaw" creationdate="20240506T155545Z">
@@ -6353,6 +6427,22 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250429T065725Z" creationid="A. Sośnicka" creationdate="20250429T065725Z">
         <seg>Oznaczenie znaków zastępowanych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T124144Z" creationid="klaud" creationdate="20260414T124144Z">
+        <seg>Wyszukiwanie zostało niespodziewanie przerwane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T120247Z" creationid="klaud" creationdate="20260414T120247Z">
+        <seg>Wyszukiwanie można również przeprowadzić w określonej strukturze folderów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7328,6 +7418,16 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T123145Z" creationid="klaud" creationdate="20260414T123137Z">
+        <seg>Zamiana tekstu:
+Zamiana tekstu dotyczy segmentów docelowych projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -7717,6 +7817,16 @@ Trzecie Cię
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T120555Z" creationid="klaud" creationdate="20260414T120417Z">
+        <seg>Typy:
+Wyszukiwania dokładne odpowiadają całemu ciągowi wyszukiwania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -8021,6 +8131,14 @@ Trzecie Cię
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T123540Z" creationid="klaud" creationdate="20260414T123540Z">
+        <seg>Użyj „$n" w celu odwołania się do n-tej grupy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;Condensed view</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250415T071101Z" creationid="Patryk_Świech" creationdate="20250415T071101Z">
@@ -8221,10 +8339,28 @@ Trzecie Cię
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T123420Z" creationid="klaud" creationdate="20260414T123420Z">
+        <seg>Podczas używania wyrażeń regularnych, ciąg zastępczy obsługuje odwołania do grup określonych w ciągu wyszukiwania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whitespaces</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>Białe znaki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T122618Z" creationid="klaud" creationdate="20260414T122618Z">
+        <seg>Symbole wieloznaczne:
+Zarówno wyszukiwanie dokładne, jak i wyszukiwanie słów kluczowych obsługują * i ?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8477,6 +8613,14 @@ a strony nie ma</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250527T064338Z" creationid="DK" creationdate="20250527T064338Z">
         <seg>nierozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="klaud" changedate="20260414T122640Z" creationid="klaud" creationdate="20260414T122640Z">
+        <seg>symbole wieloznaczne.</seg>
       </tuv>
     </tu>
     <tu>
