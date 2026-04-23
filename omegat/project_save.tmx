@@ -5756,6 +5756,15 @@ Znika niczym mgła
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T103217Z" creationid="JZ" creationdate="20260423T103217Z">
+        <seg>Kliknij 'Anuluj', aby zachować projekt bez zmian i załadować go jako projekt lokalny bez funkcjonalności projektu zespołowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
       </tuv>
       <tuv lang="pl" changeid="JZ" changedate="20260423T102418Z" creationid="JZ" creationdate="20260423T102418Z">
@@ -7709,6 +7718,16 @@ Trzecie Cię
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092335Z" creationid="d55" creationdate="20230310T092335Z">
         <seg>Ten projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T102452Z" creationid="JZ" creationdate="20260423T102452Z">
+        <seg>Usunie to twoje lokalne dane i ponownie pobierze zawartość projektu z serwera.</seg>
       </tuv>
     </tu>
     <tu>
