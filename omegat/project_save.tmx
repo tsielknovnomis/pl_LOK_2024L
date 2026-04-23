@@ -2182,6 +2182,14 @@ Groß-, Kleinschreibung</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T104909Z" creationid="JZ" creationdate="20260416T104909Z">
+        <seg>Dostępne połączenie, projekt jest w trybie projektu zespołowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Context menu priority:</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T064550Z" creationid="A. Sośnicka" creationdate="20250415T064550Z">
@@ -2210,6 +2218,14 @@ Groß-, Kleinschreibung</note>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Tworzenie folderu nie powiodło się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T103259Z" creationid="JZ" creationdate="20260416T103259Z">
+        <seg>Nie można zapisać danych logowania do pliku tekstowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +2846,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wpisz numer segmentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your credentials for {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T102859Z" creationid="JZ" creationdate="20260416T102812Z">
+        <seg>Podaj swoje dane logowania dla {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3510,6 +3534,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Niemiecki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git: Ignore credentials query: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T103417Z" creationid="JZ" creationdate="20260416T103417Z">
+        <seg>Git: Ignoruj zapytanie o dane logowania: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4365,6 +4397,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T100038Z" creationid="JZ" creationdate="20260416T100038Z">
+        <seg>Wczytywanie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading TMX files...</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -4997,6 +5037,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T104626Z" creationid="JZ" creationdate="20260416T104626Z">
+        <seg>Nie przekazano żadnych uprzednio określonych danych logowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250429T065047Z" creationid="DK" creationdate="20250429T065047Z">
@@ -5281,6 +5329,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T095531Z" creationid="d55" creationdate="20230310T095531Z">
         <seg>OmegaT motyw domyślny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T102320Z" creationid="JZ" creationdate="20260416T100552Z">
+        <seg>OmegaT nie ma dostępu do repozytorium zdalnego: sprawdź połączenie lub swoje dane logowania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6111,8 +6167,8 @@ Znika niczym mgła
       <tuv lang="en">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240519T134407Z" creationid="mmstaw" creationdate="20240519T134407Z">
-        <seg>Dane dostępu do repozytorium</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T104640Z" creationid="mmstaw" creationdate="20240519T134407Z">
+        <seg>Dane logowania do repozytorium</seg>
       </tuv>
     </tu>
     <tu>
@@ -7476,6 +7532,14 @@ Zamiana tekstu dotyczy segmentów docelowych projektu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T104720Z" creationid="JZ" creationdate="20260416T104720Z">
+        <seg>Projekt jest w trybie offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250429T063349Z" creationid="DK" creationdate="20250429T063349Z">
@@ -7496,6 +7560,14 @@ Zamiana tekstu dotyczy segmentów docelowych projektu.</seg>
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260416T101445Z" creationid="BZ" creationdate="20250613T094400Z">
         <seg>Folder plików źródłowych nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T105416Z" creationid="JZ" creationdate="20260416T105416Z">
+        <seg>Wybrany projekt jest projektem zespołowym OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8223,6 +8295,14 @@ Wyszukiwania dokładne odpowiadają całemu ciągowi wyszukiwania.</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T183429Z" creationid="KJ" creationdate="20240603T183309Z">
         <seg>Użyj ustawień lokalnych filtrów plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User credentials denied</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260416T103049Z" creationid="JZ" creationdate="20260416T103049Z">
+        <seg>Dane logowania zostały odrzucone</seg>
       </tuv>
     </tu>
     <tu>
