@@ -4,3 +4,5 @@ Writable Glossary	Edytowalny glosariusz
 Writable Glossary	edytowalny glosariusz
 Clear	Wyczyść
 Add	Dodaj
+credentials	dane logowania
+remote repository	repozytorium zdalne
