@@ -2877,10 +2877,26 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the password for {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T105015Z" creationid="JZ" creationdate="20260423T105015Z">
+        <seg>Wprowadź hasło dla {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wpisz numer segmentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the username for {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T104923Z" creationid="JZ" creationdate="20260423T104923Z">
+        <seg>Wprowadź nazwę użytkownika dla {0}</seg>
       </tuv>
     </tu>
     <tu>
