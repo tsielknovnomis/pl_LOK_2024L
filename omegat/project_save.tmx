@@ -2208,8 +2208,8 @@ Groß-, Kleinschreibung</note>
       <tuv lang="en">
         <seg>Convert Old Team Project</seg>
       </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260423T100546Z" creationid="JZ" creationdate="20260423T100546Z">
-        <seg>Konwertuj stary projekt zespołowym</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T101036Z" creationid="JZ" creationdate="20260423T100546Z">
+        <seg>Konwertuj stary projekt zespołowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -5369,6 +5369,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190549Z" creationid="mmstaw" creationdate="20240506T190549Z">
         <seg>OmegaT szyfruje poufne hasła i indywidualne klucze API za pomocą głównego hasła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T101415Z" creationid="JZ" creationdate="20260423T101415Z">
+        <seg>OmegaT wykrył projekt zespołowy w stylu 3.6.</seg>
       </tuv>
     </tu>
     <tu>
