@@ -2198,6 +2198,14 @@ Groß-, Kleinschreibung</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T100331Z" creationid="JZ" creationdate="20260423T100331Z">
+        <seg>Konwersja do nowego formatu projektu zespołowego nie może zostać wykonana w trybie konsoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092137Z" creationid="d55" creationdate="20230310T092137Z">
@@ -7536,6 +7544,14 @@ Zamiana tekstu dotyczy segmentów docelowych projektu.</seg>
       </tuv>
       <tuv lang="pl" changeid="JZ" changedate="20260416T104720Z" creationid="JZ" creationdate="20260416T104720Z">
         <seg>Projekt jest w trybie offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T100432Z" creationid="JZ" creationdate="20260423T100432Z">
+        <seg>Projekt zostanie załadowany jako projekt lokalny bez funkcjonalności projektu zespołowego.</seg>
       </tuv>
     </tu>
     <tu>
