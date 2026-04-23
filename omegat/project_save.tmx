@@ -1093,6 +1093,16 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T103435Z" creationid="JZ" creationdate="20260423T103435Z">
+        <seg>(Będzie możliwe dalsze korzystanie z programu OmegaT
+3.6 do edytowania tego projektu jako projektu zespołowego.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
