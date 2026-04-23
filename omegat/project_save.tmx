@@ -5833,6 +5833,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T104640Z" creationid="JZ" creationdate="20260423T104640Z">
+        <seg>Konwersja projektu nie powiodła się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project conversion successful.</seg>
       </tuv>
       <tuv lang="pl" changeid="JZ" changedate="20260423T103834Z" creationid="JZ" creationdate="20260423T103834Z">
