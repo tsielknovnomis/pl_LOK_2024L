@@ -2200,6 +2200,15 @@ Groß-, Kleinschreibung</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T104048Z" creationid="JZ" creationdate="20260423T104048Z">
+        <seg>Skontaktuj się z administratorem projektu, by dowiedzieć się, czy należy jeszcze podjąć jakieś kroki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Context menu priority:</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250415T064550Z" creationid="A. Sośnicka" creationdate="20250415T064550Z">
@@ -6228,6 +6237,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063355Z" creationid="M_Kossak" creationdate="20250506T063355Z">
         <seg>Repozytorium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T104634Z" creationid="JZ" creationdate="20260423T104634Z">
+        <seg>URL repozytorium (typ: {0}) nie został zdefiniowany na ścieżce: {1}</seg>
       </tuv>
     </tu>
     <tu>
