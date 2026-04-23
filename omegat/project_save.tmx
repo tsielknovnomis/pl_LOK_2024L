@@ -8457,6 +8457,14 @@ Wyszukiwania dokładne odpowiadają całemu ciągowi wyszukiwania.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Username or password has extra space character(s)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T110037Z" creationid="JZ" creationdate="20260423T110037Z">
+        <seg>Nazwa użytkownika lub hasło ma niepotrzebne spacje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Username:</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T173126Z" creationid="mmstaw" creationdate="20240506T173126Z">
