@@ -2206,6 +2206,14 @@ Groß-, Kleinschreibung</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T100546Z" creationid="JZ" creationdate="20260423T100546Z">
+        <seg>Konwertuj stary projekt zespołowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T092137Z" creationid="d55" creationdate="20230310T092137Z">
@@ -5457,6 +5465,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260312T114822Z" creationid="kh" creationdate="20260312T114354Z">
         <seg>Otwórz edytowalny plik glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260423T101011Z" creationid="JZ" creationdate="20260423T101011Z">
+        <seg>Otwórz go w GUI OmegaT, aby przekonwertować go do nowego formatu.</seg>
       </tuv>
     </tu>
     <tu>
