@@ -3127,8 +3127,8 @@ is the language code and YY is the region or country code (optional).</seg>
       <tuv lang="en">
         <seg>Error updating repository.</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240519T135110Z" creationid="mmstaw" creationdate="20240519T135110Z">
-        <seg>Błąd przy aktulizacji repozytorium.</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T213021Z" creationid="mmstaw" creationdate="20240519T135110Z">
+        <seg>Błąd aktulizacji repozytorium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3168,8 +3168,8 @@ is the language code and YY is the region or country code (optional).</seg>
       <tuv lang="en">
         <seg>Error: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="UK" changedate="20250429T071003Z" creationid="mmstaw" creationdate="20240519T135215Z">
-        <seg>Show Replace Search BarBlad: {0}</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T213115Z" creationid="mmstaw" creationdate="20240519T135215Z">
+        <seg>Błąd: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7165,8 +7165,8 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       <tuv lang="en">
         <seg>Skipping.</seg>
       </tuv>
-      <tuv lang="pl" changeid="mmstaw" changedate="20240521T062854Z" creationid="mmstaw" creationdate="20240519T135128Z">
-        <seg>Pominięto.</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T213227Z" creationid="mmstaw" creationdate="20240519T135128Z">
+        <seg>Pomiń.</seg>
       </tuv>
     </tu>
     <tu>
