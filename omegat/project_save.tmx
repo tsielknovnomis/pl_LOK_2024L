@@ -2401,6 +2401,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creation of new team project cancelled</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T210812Z" creationid="ADMIN" creationdate="20260512T210812Z">
+        <seg>Tworzenie nowego projektu zespołowego zostało anulowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
