@@ -3005,6 +3005,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error checking out the project from remote repository:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T210543Z" creationid="ADMIN" creationdate="20260512T210543Z">
+        <seg>Wystąpił błąd podczas pobierania projektu z repozytorium zdalnego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error creating project!</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
