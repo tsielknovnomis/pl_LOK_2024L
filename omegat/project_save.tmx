@@ -2956,6 +2956,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T215342Z" creationid="ADMIN" creationdate="20260512T215152Z">
+        <seg>Zako rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -7554,6 +7562,14 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240520T194058Z" creationid="mmstaw" creationdate="20240520T194058Z">
         <seg>Szablon standardowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T215321Z" creationid="ADMIN" creationdate="20260512T215131Z">
+        <seg>Rozpocznij rebase</seg>
       </tuv>
     </tu>
     <tu>
