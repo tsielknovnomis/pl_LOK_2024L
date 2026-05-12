@@ -6225,6 +6225,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T212622Z" creationid="ADMIN" creationdate="20260512T212622Z">
+        <seg>Bład repozytorium zdalnego Gita + danych logowania SSH: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20240521T061855Z" creationid="mmstaw" creationdate="20240519T135058Z">
