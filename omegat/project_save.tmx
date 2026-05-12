@@ -1551,6 +1551,14 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T212732Z" creationid="ADMIN" creationdate="20260512T212732Z">
+        <seg>Wystąpił błąd podczas próby wykrycia pliku projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while opening the item.</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T064138Z" creationid="DK" creationdate="20250506T064138Z">
@@ -2551,6 +2559,14 @@ Nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T093707Z" creationid="d55" creationdate="20230310T093707Z">
         <seg>Opis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T212638Z" creationid="ADMIN" creationdate="20260512T212638Z">
+        <seg>Wykrywanie...</seg>
       </tuv>
     </tu>
     <tu>
