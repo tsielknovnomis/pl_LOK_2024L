@@ -1271,6 +1271,14 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T204011Z" creationid="ADMIN" creationdate="20260512T204011Z">
+        <seg>Przerwij...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="pl" changeid="JZ" changedate="20260319T115356Z" creationid="JZ" creationdate="20260319T115356Z">
@@ -1559,6 +1567,14 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply to all repositories on host {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T204543Z" creationid="ADMIN" creationdate="20260512T204543Z">
+        <seg>Zastosuj do wszystkich repozytoriów na hoście {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240603T191955Z" creationid="KJ" creationdate="20240603T191955Z">
@@ -1579,6 +1595,14 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Tablica nie może być pusta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ask again...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T203852Z" creationid="ADMIN" creationdate="20260512T203852Z">
+        <seg>Zapytaj ponownie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1881,6 +1905,14 @@ Kup jeszcze drinka</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20250703T080910Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Nie można utworzyć folderu dla przetłumaczonych plików:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get the correct answer.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T203948Z" creationid="ADMIN" creationdate="20260512T203948Z">
+        <seg>Nie można otrzymać prawidłowej odpowiedzi.</seg>
       </tuv>
     </tu>
     <tu>
