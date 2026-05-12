@@ -2093,6 +2093,14 @@ Kup jeszcze drinka</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T221712Z" creationid="ADMIN" creationdate="20260512T221712Z">
+        <seg>Sprawdź, czy w repozytorium znajdują się właściwe commity i pliki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T061815Z" creationid="DK" creationdate="20250506T061815Z">
