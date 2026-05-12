@@ -3759,8 +3759,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Got unexpected input.</seg>
       </tuv>
-      <tuv lang="pl" changeid="ADMIN" changedate="20260512T203026Z" creationid="ADMIN" creationdate="20260512T203026Z">
-        <seg>Got unexpected input.</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T203830Z" creationid="ADMIN" creationdate="20260512T203026Z">
+        <seg>Nieoczekiwane dane wejściowe..</seg>
       </tuv>
     </tu>
     <tu>
@@ -8491,8 +8491,8 @@ Wyszukiwania dokładne odpowiadają całemu ciągowi wyszukiwania.</seg>
       <tuv lang="en">
         <seg>Username or password has extra space character(s)</seg>
       </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260423T110037Z" creationid="JZ" creationdate="20260423T110037Z">
-        <seg>Nazwa użytkownika lub hasło ma niepotrzebne spacje.</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T203351Z" creationid="JZ" creationdate="20260423T110037Z">
+        <seg>Nazwa użytkownika lub hasło ma nadmiarowe spacje.</seg>
       </tuv>
     </tu>
     <tu>
