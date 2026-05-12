@@ -4039,6 +4039,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password for {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T201259Z" creationid="ADMIN" creationdate="20260512T201259Z">
+        <seg>Nieprawidłowe hasło dla {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incorrect username/password for {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="JZ" changedate="20260423T105626Z" creationid="JZ" creationdate="20260423T105514Z">
