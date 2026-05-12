@@ -1223,6 +1223,14 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T204616Z" creationid="ADMIN" creationdate="20260512T204616Z">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T065818Z" creationid="DK" creationdate="20250506T065406Z">
@@ -5066,8 +5074,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>New Local Project Folder:</seg>
       </tuv>
-      <tuv lang="pl" changeid="simon.kleist" changedate="20250603T071634Z" creationid="simon.kleist" creationdate="20250603T071634Z">
-        <seg>New Local Project Folder:</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T204809Z" creationid="simon.kleist" creationdate="20250603T071634Z">
+        <seg>Nowy lokalny folder projektu:</seg>
       </tuv>
     </tu>
     <tu>
