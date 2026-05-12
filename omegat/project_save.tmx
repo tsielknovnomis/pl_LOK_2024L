@@ -2786,6 +2786,14 @@ Nowa wersja: {2}</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T212905Z" creationid="ADMIN" creationdate="20260512T212905Z">
+        <seg>Sprawdź i spróbuj ponownie.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Custom Table - tablica spersonalizowana</note>
       <tuv lang="en">
         <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
@@ -7905,6 +7913,14 @@ Trzecie Cię
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T172102Z" creationid="mmstaw" creationdate="20240506T172102Z">
         <seg>Ten plik nie jest archiwum wtyczek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T212805Z" creationid="ADMIN" creationdate="20260512T212805Z">
+        <seg>To repozytorium Gita.</seg>
       </tuv>
     </tu>
     <tu>
