@@ -6259,8 +6259,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20240521T061855Z" creationid="mmstaw" creationdate="20240519T135058Z">
-        <seg>Błędy komunikacji sieciowej zdalnego repozytorium {0}</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T213444Z" creationid="mmstaw" creationdate="20240519T135058Z">
+        <seg>Błąd połączenia sieciowego repozytorium zdalnego: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7165,8 +7165,8 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       <tuv lang="en">
         <seg>Skipping.</seg>
       </tuv>
-      <tuv lang="pl" changeid="ADMIN" changedate="20260512T213227Z" creationid="mmstaw" creationdate="20240519T135128Z">
-        <seg>Pomiń.</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T213529Z" creationid="mmstaw" creationdate="20240519T135128Z">
+        <seg>Pomijanie.</seg>
       </tuv>
     </tu>
     <tu>
