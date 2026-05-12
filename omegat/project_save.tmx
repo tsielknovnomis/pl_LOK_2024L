@@ -3757,6 +3757,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got unexpected input.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T203026Z" creationid="ADMIN" creationdate="20260512T203026Z">
+        <seg>Got unexpected input.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto &amp;Line...</seg>
       </tuv>
       <tuv lang="pl" changeid="UK" changedate="20250429T070441Z" creationid="DK" creationdate="20250429T065704Z">
