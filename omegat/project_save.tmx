@@ -3365,6 +3365,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to create .repositories subdirectory for team project: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T220920Z" creationid="ADMIN" creationdate="20260512T220920Z">
+        <seg>Nie udało się utworzyć podkatalogu .repositories dla projektu zespołowego: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
