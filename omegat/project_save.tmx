@@ -2958,8 +2958,8 @@ Nowa wersja: {2}</seg>
       <tuv lang="en">
         <seg>End rebase</seg>
       </tuv>
-      <tuv lang="pl" changeid="ADMIN" changedate="20260512T215342Z" creationid="ADMIN" creationdate="20260512T215152Z">
-        <seg>Zako rebase</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T215436Z" creationid="ADMIN" creationdate="20260512T215152Z">
+        <seg>Zakończ rebase</seg>
       </tuv>
     </tu>
     <tu>
