@@ -3127,8 +3127,8 @@ is the language code and YY is the region or country code (optional).</seg>
       <tuv lang="en">
         <seg>Error updating repository.</seg>
       </tuv>
-      <tuv lang="pl" changeid="ADMIN" changedate="20260512T213021Z" creationid="mmstaw" creationdate="20240519T135110Z">
-        <seg>Błąd aktulizacji repozytorium.</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T213859Z" creationid="mmstaw" creationdate="20240519T135110Z">
+        <seg>Błąd aktualizacji repozytorium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7919,8 +7919,8 @@ Trzecie Cię
       <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="pl" changeid="ADMIN" changedate="20260512T212805Z" creationid="ADMIN" creationdate="20260512T212805Z">
-        <seg>To repozytorium Gita.</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T213706Z" creationid="ADMIN" creationdate="20260512T212805Z">
+        <seg>To jest repozytorium Gita.</seg>
       </tuv>
     </tu>
     <tu>
