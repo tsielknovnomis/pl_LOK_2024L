@@ -7869,6 +7869,14 @@ Trzecie Cię
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T211659Z" creationid="ADMIN" creationdate="20260512T211659Z">
+        <seg>Ten URL wydaje się być nieprawidłowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is not a plugin archive.</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T172102Z" creationid="mmstaw" creationdate="20240506T172102Z">
