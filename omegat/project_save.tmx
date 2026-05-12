@@ -1663,6 +1663,14 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authentication error when trying to access {0}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T215007Z" creationid="ADMIN" creationdate="20260512T215007Z">
+        <seg>Błąd autentyfikacji podczas próby uzyskania dostępu do {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T155026Z" creationid="mmstaw" creationdate="20240506T155026Z">
@@ -3925,6 +3933,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTTP connection {1} responded with code: {2}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T214448Z" creationid="ADMIN" creationdate="20260512T214448Z">
+        <seg>Połączenie HTTP {1} odpowiedziało kodem: {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Has Comment, see Comments Tab</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250527T072242Z" creationid="DK" creationdate="20250527T072242Z">
@@ -5228,6 +5244,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250527T071747Z" creationid="DK" creationdate="20250527T071747Z">
         <seg>Nie zawiera notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No content found at {0}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T214341Z" creationid="ADMIN" creationdate="20260512T214341Z">
+        <seg>Nie znaleziono treści u {0}.</seg>
       </tuv>
     </tu>
     <tu>
