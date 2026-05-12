@@ -1311,6 +1311,14 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to {0} is forbidden.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T214235Z" creationid="ADMIN" creationdate="20260512T214235Z">
+        <seg>Dostęp do {0} jest niedozwolony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Actions &amp; Settings</seg>
       </tuv>
       <tuv lang="pl" changeid="JZ" changedate="20260312T110816Z" creationid="JZ" creationdate="20260312T110516Z">
@@ -3097,6 +3105,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Błąd przy wczytywaniu TMX level2 w linii {0} kolumny {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T214101Z" creationid="ADMIN" creationdate="20260512T214101Z">
+        <seg>Wystąpił błąd podczas odzyskiwania {0} jako zdalnego pliku projektu</seg>
       </tuv>
     </tu>
     <tu>
