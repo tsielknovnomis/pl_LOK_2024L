@@ -7981,6 +7981,14 @@ Trzecie Cię
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T220439Z" creationid="ADMIN" creationdate="20260512T220439Z">
+        <seg>To jest repozytorium Subversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is a valid project file.</seg>
       </tuv>
       <tuv lang="pl" changeid="ADMIN" changedate="20260512T211747Z" creationid="ADMIN" creationdate="20260512T211747Z">
