@@ -2451,6 +2451,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom branch</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T210252Z" creationid="ADMIN" creationdate="20260512T210252Z">
+        <seg>Branch niestandardowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom table</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240604T060909Z" creationid="KJ" creationdate="20240603T211224Z">
