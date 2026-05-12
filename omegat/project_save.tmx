@@ -1665,8 +1665,8 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
       <tuv lang="en">
         <seg>Authentication error when trying to access {0}.</seg>
       </tuv>
-      <tuv lang="pl" changeid="ADMIN" changedate="20260512T215007Z" creationid="ADMIN" creationdate="20260512T215007Z">
-        <seg>Błąd autentyfikacji podczas próby uzyskania dostępu do {0}.</seg>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T221958Z" creationid="ADMIN" creationdate="20260512T215007Z">
+        <seg>Błąd uwierzytelniania podczas próby uzyskania dostępu do {0}.</seg>
       </tuv>
     </tu>
     <tu>
