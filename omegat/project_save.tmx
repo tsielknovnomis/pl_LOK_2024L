@@ -3253,6 +3253,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to decrypt for SSH key {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T202920Z" creationid="ADMIN" creationdate="20260512T202920Z">
+        <seg>Nie udało się odszyfrować klucza SSH {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to download page</seg>
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260319T111715Z" creationid="kh" creationdate="20260319T111715Z">
