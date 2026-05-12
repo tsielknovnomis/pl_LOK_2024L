@@ -2523,6 +2523,14 @@ Nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default branch</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ADMIN" changedate="20260512T205749Z" creationid="ADMIN" creationdate="20260512T205749Z">
+        <seg>Branch domyślny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Description</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230310T093707Z" creationid="d55" creationdate="20230310T093707Z">
